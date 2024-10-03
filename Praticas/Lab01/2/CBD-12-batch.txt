@@ -1,0 +1,16 @@
+SET fname "Danilo"
+GET fname
+SET lname "Silva"
+GET lname
+FLUSHDB
+get fname
+SET string "Hello"
+STRLEN string
+APPEND string " Danilo!"
+GET string
+SET x 0
+GET x
+INCRBY x 10
+GET x
+DECRBY x 2
+GET x

@@ -1,0 +1,17 @@
+SET name "Danilo"
+GET name
+SADD my_set "p1" "p2" "p3"
+SISMEMBER my_set "p2"
+SMEMBERS my_set
+SREM my_set "p3"
+SISMEMBER my_set "p3"
+SCARD my_set
+SELECT 2
+GET name
+SET var "value"
+GET var
+KEYS *
+DEL var
+GET var
+SELECT 0
+KEYS *

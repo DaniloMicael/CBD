@@ -1,0 +1,60 @@
+ex4_a_autocomplete > mvn exec:java -Dexec.mainClass="cbd.lab01.ex4a.Ex4a" -Dexec.args="names.txt"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< cbd.lab01.ex4a:ex4_a_autocomplete >------------------
+[INFO] Building ex4_a_autocomplete 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.4.1:java (default-cli) @ ex4_a_autocomplete ---
+Search for ('Enter' for quit): susann
+
+susann
+susanna
+susannah
+susanne
+
+Search for ('Enter' for quit): zora
+
+zora
+zorah
+zorana
+
+Search for ('Enter' for quit): dan
+
+dana
+danell
+danella
+danette
+dani
+dania
+danica
+danice
+daniela
+daniele
+daniella
+danielle
+danika
+danila
+danit
+danita
+danna
+danni
+dannie
+danny
+dannye
+danya
+danyelle
+danyette
+
+Search for ('Enter' for quit): xav
+
+xaviera
+
+Search for ('Enter' for quit): 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  01:01 min
+[INFO] Finished at: 2024-10-01T14:21:07+01:00
+[INFO] ------------------------------------------------------------------------

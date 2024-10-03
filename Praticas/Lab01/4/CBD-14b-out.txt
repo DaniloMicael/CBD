@@ -1,0 +1,72 @@
+ex4_b_autocomplete > mvn exec:java -Dexec.mainClass="cbd.lab01.ex4b.Ex4b" -Dexec.args="nomes-pt-2021.csv"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< cbd.lab01.ex4b:ex4_b_autocomplete >------------------
+[INFO] Building ex4_b_autocomplete 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.4.1:java (default-cli) @ ex4_b_autocomplete ---
+Search for ('Enter' for quit): Tom
+
+Tomás - 1340.0
+Tomé - 55.0
+Tom - 2.0
+Tome - 1.0
+Tommaso - 1.0
+Tommy - 1.0
+
+Search for ('Enter' for quit): Dan
+
+Daniel - 510.0
+Daniela - 148.0
+Danilo - 24.0
+Daniil - 4.0
+Dante - 3.0
+Danilson - 2.0
+Dana - 1.0
+Danacan - 1.0
+Danael - 1.0
+Dani - 1.0
+Dania - 1.0
+Daniele - 1.0
+Danielle - 1.0
+Danielson - 1.0
+Daniely - 1.0
+Danil - 1.0
+Daniyal - 1.0
+Danniielly - 1.0
+Danny - 1.0
+Danya - 1.0
+
+Search for ('Enter' for quit): And
+
+André - 397.0
+Andreia - 31.0
+Andrei - 15.0
+Anderson - 4.0
+Andreea - 3.0
+Andra - 2.0
+Andressa - 2.0
+Andreína - 2.0
+Andriy - 2.0
+Andgelo - 1.0
+Andre - 1.0
+Andrea - 1.0
+Andres - 1.0
+Andrew - 1.0
+Andrey - 1.0
+Andriana - 1.0
+Andriel - 1.0
+Andrii - 1.0
+Andrs - 1.0
+Andrés - 1.0
+Andy - 1.0
+
+Search for ('Enter' for quit): 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  13.641 s
+[INFO] Finished at: 2024-10-01T14:24:18+01:00
+[INFO] ------------------------------------------------------------------------

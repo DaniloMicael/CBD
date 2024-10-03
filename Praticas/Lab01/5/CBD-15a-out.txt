@@ -1,0 +1,69 @@
+ex5a_sistema_atendimento > mvn exec:java -Dexec.mainClass="cbd.lab01.ex5a.Ex5a"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------< cbd.lab01.ex5:ex5a_sistema_atendimento >---------------
+[INFO] Building ex5a_sistema_atendimento 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.4.1:java (default-cli) @ ex5a_sistema_atendimento ---
+
+System is ready to receive requests. Press Enter to exit.
+
+Request details (username;product): danilo;p1
+User danilo requested product p1.
+
+Request details (username;product): danilo;p2
+User danilo requested product p2.
+
+Request details (username;product): danilo;p3
+User danilo requested product p3.
+
+Request details (username;product): danilo;p4
+User danilo requested product p4.
+
+Request details (username;product): danilo;p5
+User danilo requested product p5.
+
+Request details (username;product): danilo;p6
+User danilo has reached the limit of requests (5) in the last 30 seconds.
+Wait 12.0 seconds to make a new request.
+
+Request details (username;product): joao;p6
+User joao requested product p6.
+
+Request details (username;product): joao;p7
+User joao requested product p7.
+
+Request details (username;product): joao;p8
+User joao requested product p8.
+
+Request details (username;product): joao;p9
+User joao requested product p9.
+
+Request details (username;product): joao;p10
+User joao requested product p10.
+
+Request details (username;product): joao;p11
+User joao has reached the limit of requests (5) in the last 30 seconds.
+Wait 11.0 seconds to make a new request.
+
+Request details (username;product): danilo;p11
+User danilo requested product p11.
+
+Request details (username;product): joao;p12
+User joao has reached the limit of requests (5) in the last 30 seconds.
+Wait 1.0 seconds to make a new request.
+
+Request details (username;product): joao;p12
+User joao requested product p12.
+
+Request details (username;product): 
+
+Exiting...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  01:23 min
+[INFO] Finished at: 2024-10-01T14:34:16+01:00
+[INFO] ------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+ex5b_sistema_atendimento > mvn exec:java -Dexec.mainClass="cbd.lab01.ex5b.Ex5b"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------< cbd.lab01.ex5b:ex5b_sistema_atendimento >---------------
+[INFO] Building ex5b_sistema_atendimento 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.4.1:java (default-cli) @ ex5b_sistema_atendimento ---
+
+System is ready to receive requests. Press Enter to exit.
+
+Request details (username;product;quantity): danilo;p1;20
+User danilo requested 20 units of product p1.
+
+Request details (username;product;quantity): danilo;p2;10
+User danilo requested 10 units of product p2.
+
+Request details (username;product;quantity): danilo;p3;1
+User danilo has reached the limit of requests (30 units) in the last 60 seconds.
+Total units requested: 30. Units requested in this attempt: 1.
+
+Request details (username;product;quantity): joao;p1;31
+User joao has reached the limit of requests (30 units) in the last 60 seconds.
+Total units requested: 0. Units requested in this attempt: 31.
+
+Request details (username;product;quantity): joao;p1;30
+User joao requested 30 units of product p1.
+
+Request details (username;product;quantity): danilo;p5;10
+User danilo requested 10 units of product p5.
+
+Request details (username;product;quantity): 
+
+Exiting...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  01:44 min
+[INFO] Finished at: 2024-10-01T15:11:02+01:00
+[INFO] ------------------------------------------------------------------------
