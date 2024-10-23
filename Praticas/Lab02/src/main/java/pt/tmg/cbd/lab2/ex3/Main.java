@@ -6,8 +6,13 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 
 import pt.tmg.cbd.lab2.ex3.a.RestaurantsService;
+import pt.tmg.cbd.lab2.ex3.b.RestaurantsSearch;
+import pt.tmg.cbd.lab2.ex3.c.RestaurantsQueries;
+import pt.tmg.cbd.lab2.ex3.d.RestaurantsDAO;
 
 import java.util.Arrays;
+import java.util.Map;
+import java.util.List;
 
 import org.bson.Document;
 
@@ -22,7 +27,15 @@ public class Main {
         System.out.println("Database: " + database.getName());
         System.out.println("Collection: " + collection.getNamespace().getCollectionName());
 
-        // exercise a
+        executeExerciseA(collection);
+        executeExerciseB(collection);
+        executeExerciseC(collection);
+        executeExerciseD(collection);
+
+        mongoClient.close();
+    }
+
+    private static void executeExerciseA(MongoCollection<Document> collection) {
         RestaurantsService restaurantsService = new RestaurantsService(collection);
 
         // insert a restaurant
@@ -57,9 +70,74 @@ public class Main {
 
         // delete a restaurant
         restaurantsService.deleteRestaurant(newName);
+    }
 
-        // exercise b
+    private static void executeExerciseB(MongoCollection<Document> collection) {
+        RestaurantsSearch restaurantsSearch = new RestaurantsSearch(collection);
 
-        mongoClient.close();
+        System.out.println("================ Searching without Indexes ================\n\n");
+        // search for a restaurant by locality
+        restaurantsSearch.searchRestaurantByLocality("Queens");
+
+        // search for a restaurant by gastronomy
+        restaurantsSearch.searchRestaurantByGastronomy("Portuguese");
+
+        // search for a restaurant by name
+        restaurantsSearch.searchRestaurantByName("Ho Mei Restaurant");
+
+        // create indexes
+        restaurantsSearch.createIndexes();
+
+        System.out.println("================ Searching with Indexes ================\n\n"); 
+
+        // search for a restaurant by locality
+        restaurantsSearch.searchRestaurantByLocality("Queens");
+
+        // search for a restaurant by gastronomy
+        restaurantsSearch.searchRestaurantByGastronomy("Portuguese");
+
+        // search for a restaurant by name
+        restaurantsSearch.searchRestaurantByName("Ho Mei Restaurant");
+
+        // delete indexes
+        restaurantsSearch.deleteIndexes();
+    }
+
+    private static void executeExerciseC(MongoCollection<Document> collection) {
+        RestaurantsQueries restaurantsQueries = new RestaurantsQueries(collection);
+
+        // query 11 in exercise 2.2
+        restaurantsQueries.query1();
+
+        // query 14 in exercise 2.2
+        restaurantsQueries.query2();
+
+        // query 18 in exercise 2.2
+        restaurantsQueries.query3();
+
+        // query 20 in exercise 2.2
+        restaurantsQueries.query4();
+
+        // query 24 in exercise 2.2
+        restaurantsQueries.query5();
+    }
+
+    private static void executeExerciseD(MongoCollection<Document> collection) {
+        RestaurantsDAO restaurantsDAO = new RestaurantsDAO(collection);
+
+        int countLocalidades = restaurantsDAO.countLocalidades();
+        System.out.println("Numero de localidades distintas: " + countLocalidades);
+
+        System.out.println("Numero de restaurantes por localidade:");
+        Map<String, Integer> countRestByLocalidade = restaurantsDAO.countRestByLocalidade();
+        for (Map.Entry<String, Integer> entry : countRestByLocalidade.entrySet()) {
+            System.out.println(" -> " + entry.getKey() + " - " + entry.getValue());
+        }
+
+        System.out.println("Nome de restaurantes contendo 'Park' no nome:");
+        List<String> restWithNameCloserTo = restaurantsDAO.getRestWithNameCloserTo("Park");
+        for (String name : restWithNameCloserTo) {
+            System.out.println(" -> " + name);
+        }
     }
 }

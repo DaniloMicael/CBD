@@ -29,7 +29,7 @@ docker compose up -d
 1. Open `mongosh` on the container:
 
 ```bash
-docker compose exec -it mongodb mongosh --db cbd
+docker compose exec -it mongodb mongosh --db cb d
 ```
 
 2. Import restaurants:
