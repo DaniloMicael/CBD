@@ -20,6 +20,7 @@ public class RestaurantsDAO {
     }
 
     public int countLocalidades() {
+        // em vez de retornar uma lista e fazer o size() em java, podemos fazer o size() diretamente no mongo
         List<String> localidades = mongoCollection.distinct("localidade", String.class).into(new ArrayList<>());
         return localidades.size();
     }

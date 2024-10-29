@@ -88,6 +88,12 @@ public class Main {
         // create indexes
         restaurantsSearch.createIndexes();
 
+        try {
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         System.out.println("================ Searching with Indexes ================\n\n"); 
 
         // search for a restaurant by locality
