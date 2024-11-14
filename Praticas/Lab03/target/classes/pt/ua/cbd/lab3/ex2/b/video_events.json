@@ -1,0 +1,296 @@
+[
+  {
+    "video_id": 1,
+    "username": "user10",
+    "event_timestamp": "2024-11-02 12:15:11.409Z",
+    "event_type": "pause",
+    "video_time_seconds": 120
+  },
+  {
+    "video_id": 1,
+    "username": "user10",
+    "event_timestamp": "2024-11-07 12:24:30.717Z",
+    "event_type": "pause",
+    "video_time_seconds": 120
+  },
+  {
+    "video_id": 9,
+    "username": "user13",
+    "event_timestamp": "2024-11-02 12:15:11.428Z",
+    "event_type": "play",
+    "video_time_seconds": 100
+  },
+  {
+    "video_id": 9,
+    "username": "user13",
+    "event_timestamp": "2024-11-07 12:24:30.740Z",
+    "event_type": "play",
+    "video_time_seconds": 100
+  },
+  {
+    "video_id": 3,
+    "username": "user7",
+    "event_timestamp": "2024-11-02 12:15:11.414Z",
+    "event_type": "pause",
+    "video_time_seconds": 75
+  },
+  {
+    "video_id": 3,
+    "username": "user7",
+    "event_timestamp": "2024-11-07 12:24:30.723Z",
+    "event_type": "pause",
+    "video_time_seconds": 75
+  },
+  {
+    "video_id": 3,
+    "username": "user6",
+    "event_timestamp": "2024-11-02 12:15:11.413Z",
+    "event_type": "stop",
+    "video_time_seconds": 90
+  },
+  {
+    "video_id": 3,
+    "username": "user6",
+    "event_timestamp": "2024-11-07 12:24:30.722Z",
+    "event_type": "stop",
+    "video_time_seconds": 90
+  },
+  {
+    "video_id": 9,
+    "username": "user10",
+    "event_timestamp": "2024-11-02 12:15:11.427Z",
+    "event_type": "stop",
+    "video_time_seconds": 90
+  },
+  {
+    "video_id": 9,
+    "username": "user10",
+    "event_timestamp": "2024-11-07 12:24:30.738Z",
+    "event_type": "stop",
+    "video_time_seconds": 90
+  },
+  {
+    "video_id": 1,
+    "username": "user2",
+    "event_timestamp": "2024-11-02 12:15:11.407Z",
+    "event_type": "play",
+    "video_time_seconds": 30
+  },
+  {
+    "video_id": 1,
+    "username": "user2",
+    "event_timestamp": "2024-11-07 12:24:30.715Z",
+    "event_type": "play",
+    "video_time_seconds": 30
+  },
+  {
+    "video_id": 8,
+    "username": "user2",
+    "event_timestamp": "2024-11-02 12:15:11.425Z",
+    "event_type": "play",
+    "video_time_seconds": 70
+  },
+  {
+    "video_id": 8,
+    "username": "user2",
+    "event_timestamp": "2024-11-07 12:24:30.735Z",
+    "event_type": "play",
+    "video_time_seconds": 70
+  },
+  {
+    "video_id": 7,
+    "username": "user14",
+    "event_timestamp": "2024-11-02 12:15:11.423Z",
+    "event_type": "pause",
+    "video_time_seconds": 55
+  },
+  {
+    "video_id": 7,
+    "username": "user14",
+    "event_timestamp": "2024-11-07 12:24:30.733Z",
+    "event_type": "pause",
+    "video_time_seconds": 55
+  },
+  {
+    "video_id": 2,
+    "username": "user5",
+    "event_timestamp": "2024-11-02 12:15:11.412Z",
+    "event_type": "play",
+    "video_time_seconds": 60
+  },
+  {
+    "video_id": 2,
+    "username": "user5",
+    "event_timestamp": "2024-11-07 12:24:30.721Z",
+    "event_type": "play",
+    "video_time_seconds": 60
+  },
+  {
+    "video_id": 5,
+    "username": "user12",
+    "event_timestamp": "2024-11-02 12:15:11.419Z",
+    "event_type": "pause",
+    "video_time_seconds": 200
+  },
+  {
+    "video_id": 5,
+    "username": "user12",
+    "event_timestamp": "2024-11-07 12:24:30.729Z",
+    "event_type": "pause",
+    "video_time_seconds": 200
+  },
+  {
+    "video_id": 6,
+    "username": "user11",
+    "event_timestamp": "2024-11-02 12:15:11.422Z",
+    "event_type": "play",
+    "video_time_seconds": 50
+  },
+  {
+    "video_id": 6,
+    "username": "user11",
+    "event_timestamp": "2024-11-07 12:24:30.732Z",
+    "event_type": "play",
+    "video_time_seconds": 50
+  },
+  {
+    "video_id": 4,
+    "username": "user8",
+    "event_timestamp": "2024-11-02 12:15:11.415Z",
+    "event_type": "play",
+    "video_time_seconds": 15
+  },
+  {
+    "video_id": 4,
+    "username": "user8",
+    "event_timestamp": "2024-11-07 12:24:30.725Z",
+    "event_type": "play",
+    "video_time_seconds": 15
+  },
+  {
+    "video_id": 10,
+    "username": "user8",
+    "event_timestamp": "2024-11-02 12:15:11.980Z",
+    "event_type": "stop",
+    "video_time_seconds": 120
+  },
+  {
+    "video_id": 10,
+    "username": "user8",
+    "event_timestamp": "2024-11-07 12:24:30.743Z",
+    "event_type": "stop",
+    "video_time_seconds": 120
+  },
+  {
+    "video_id": 2,
+    "username": "user4",
+    "event_timestamp": "2024-11-02 12:15:11.411Z",
+    "event_type": "play",
+    "video_time_seconds": 45
+  },
+  {
+    "video_id": 2,
+    "username": "user4",
+    "event_timestamp": "2024-11-07 12:24:30.720Z",
+    "event_type": "play",
+    "video_time_seconds": 45
+  },
+  {
+    "video_id": 7,
+    "username": "user1",
+    "event_timestamp": "2024-11-02 12:15:11.424Z",
+    "event_type": "stop",
+    "video_time_seconds": 60
+  },
+  {
+    "video_id": 7,
+    "username": "user1",
+    "event_timestamp": "2024-11-07 12:24:30.734Z",
+    "event_type": "stop",
+    "video_time_seconds": 60
+  },
+  {
+    "video_id": 10,
+    "username": "user15",
+    "event_timestamp": "2024-11-02 12:15:11.429Z",
+    "event_type": "pause",
+    "video_time_seconds": 110
+  },
+  {
+    "video_id": 10,
+    "username": "user15",
+    "event_timestamp": "2024-11-07 12:24:30.742Z",
+    "event_type": "pause",
+    "video_time_seconds": 110
+  },
+  {
+    "video_id": 6,
+    "username": "user4",
+    "event_timestamp": "2024-11-02 12:15:11.420Z",
+    "event_type": "stop",
+    "video_time_seconds": 45
+  },
+  {
+    "video_id": 6,
+    "username": "user4",
+    "event_timestamp": "2024-11-07 12:24:30.730Z",
+    "event_type": "stop",
+    "video_time_seconds": 45
+  },
+  {
+    "video_id": 1,
+    "username": "user4",
+    "event_timestamp": "2024-11-02 12:15:11.410Z",
+    "event_type": "stop",
+    "video_time_seconds": 150
+  },
+  {
+    "video_id": 1,
+    "username": "user4",
+    "event_timestamp": "2024-11-07 12:24:30.718Z",
+    "event_type": "stop",
+    "video_time_seconds": 150
+  },
+  {
+    "video_id": 4,
+    "username": "user1",
+    "event_timestamp": "2024-11-02 12:15:11.416Z",
+    "event_type": "stop",
+    "video_time_seconds": 100
+  },
+  {
+    "video_id": 4,
+    "username": "user1",
+    "event_timestamp": "2024-11-07 12:24:30.726Z",
+    "event_type": "stop",
+    "video_time_seconds": 100
+  },
+  {
+    "video_id": 8,
+    "username": "user1",
+    "event_timestamp": "2024-11-02 12:15:11.426Z",
+    "event_type": "pause",
+    "video_time_seconds": 80
+  },
+  {
+    "video_id": 8,
+    "username": "user1",
+    "event_timestamp": "2024-11-07 12:24:30.737Z",
+    "event_type": "pause",
+    "video_time_seconds": 80
+  },
+  {
+    "video_id": 5,
+    "username": "user10",
+    "event_timestamp": "2024-11-02 12:15:11.418Z",
+    "event_type": "play",
+    "video_time_seconds": 180
+  },
+  {
+    "video_id": 5,
+    "username": "user10",
+    "event_timestamp": "2024-11-07 12:24:30.728Z",
+    "event_type": "play",
+    "video_time_seconds": 180
+  }
+]

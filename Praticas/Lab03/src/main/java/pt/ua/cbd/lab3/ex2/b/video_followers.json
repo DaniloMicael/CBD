@@ -1,0 +1,132 @@
+[
+  {
+    "video_id": 5,
+    "follower_username": "user2",
+    "follow_timestamp": "2024-11-02 12:15:02.346Z"
+  },
+  {
+    "video_id": 5,
+    "follower_username": "user7",
+    "follow_timestamp": "2024-11-02 12:15:02.347Z"
+  },
+  {
+    "video_id": 10,
+    "follower_username": "user1",
+    "follow_timestamp": "2024-11-02 12:15:02.358Z"
+  },
+  {
+    "video_id": 10,
+    "follower_username": "user10",
+    "follow_timestamp": "2024-11-02 12:15:02.367Z"
+  },
+  {
+    "video_id": 10,
+    "follower_username": "user11",
+    "follow_timestamp": "2024-11-02 12:15:03.128Z"
+  },
+  {
+    "video_id": 10,
+    "follower_username": "user3",
+    "follow_timestamp": "2024-11-02 12:15:02.360Z"
+  },
+  {
+    "video_id": 10,
+    "follower_username": "user4",
+    "follow_timestamp": "2024-11-02 12:15:02.361Z"
+  },
+  {
+    "video_id": 10,
+    "follower_username": "user6",
+    "follow_timestamp": "2024-11-02 12:15:02.363Z"
+  },
+  {
+    "video_id": 10,
+    "follower_username": "user9",
+    "follow_timestamp": "2024-11-02 12:15:02.365Z"
+  },
+  {
+    "video_id": 1,
+    "follower_username": "user10",
+    "follow_timestamp": "2024-11-02 12:15:02.337Z"
+  },
+  {
+    "video_id": 1,
+    "follower_username": "user15",
+    "follow_timestamp": "2024-11-02 12:15:02.336Z"
+  },
+  {
+    "video_id": 1,
+    "follower_username": "user5",
+    "follow_timestamp": "2024-11-02 12:15:02.339Z"
+  },
+  {
+    "video_id": 8,
+    "follower_username": "user1",
+    "follow_timestamp": "2024-11-02 12:15:02.353Z"
+  },
+  {
+    "video_id": 8,
+    "follower_username": "user10",
+    "follow_timestamp": "2024-11-02 12:15:02.355Z"
+  },
+  {
+    "video_id": 2,
+    "follower_username": "user11",
+    "follow_timestamp": "2024-11-02 12:15:02.340Z"
+  },
+  {
+    "video_id": 2,
+    "follower_username": "user5",
+    "follow_timestamp": "2024-11-02 12:15:02.341Z"
+  },
+  {
+    "video_id": 4,
+    "follower_username": "user14",
+    "follow_timestamp": "2024-11-02 12:15:02.345Z"
+  },
+  {
+    "video_id": 4,
+    "follower_username": "user3",
+    "follow_timestamp": "2024-11-02 12:15:02.344Z"
+  },
+  {
+    "video_id": 7,
+    "follower_username": "user12",
+    "follow_timestamp": "2024-11-02 12:15:02.352Z"
+  },
+  {
+    "video_id": 7,
+    "follower_username": "user3",
+    "follow_timestamp": "2024-11-02 12:15:02.351Z"
+  },
+  {
+    "video_id": 6,
+    "follower_username": "user1",
+    "follow_timestamp": "2024-11-02 12:15:02.350Z"
+  },
+  {
+    "video_id": 6,
+    "follower_username": "user8",
+    "follow_timestamp": "2024-11-02 12:15:02.349Z"
+  },
+  {
+    "video_id": 9,
+    "follower_username": "user7",
+    "follow_timestamp": "2024-11-02 12:15:02.356Z"
+  },
+  {
+    "video_id": 9,
+    "follower_username": "user8",
+    "follow_timestamp": "2024-11-02 12:15:02.357Z"
+  },
+  {
+    "video_id": 3,
+    "follower_username": "user4",
+    "follow_timestamp": "2024-11-02 12:15:02.342Z"
+  },
+  {
+    "video_id": 3,
+    "follower_username": "user5",
+    "follow_timestamp": "2024-11-02 12:15:02.343Z"
+  }
+]

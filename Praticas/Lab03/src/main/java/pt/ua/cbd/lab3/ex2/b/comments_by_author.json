@@ -1,0 +1,182 @@
+[
+  {
+    "author": "user14",
+    "comment_timestamp": "2024-11-02 12:14:40.045Z",
+    "comment_text": "Swift is intuitive for iOS development.",
+    "video_id": 26
+  },
+  {
+    "author": "user14",
+    "comment_timestamp": "2024-11-02 12:14:40.044Z",
+    "comment_text": "Flask is easy to use for APIs.",
+    "video_id": 25
+  },
+  {
+    "author": "user8",
+    "comment_timestamp": "2024-11-02 12:14:40.028Z",
+    "comment_text": "Data visualization is key to understanding data.",
+    "video_id": 14
+  },
+  {
+    "author": "user8",
+    "comment_timestamp": "2024-11-02 12:14:40.026Z",
+    "comment_text": "Flutter is fantastic for cross-platform apps.",
+    "video_id": 13
+  },
+  {
+    "author": "user12",
+    "comment_timestamp": "2024-11-02 12:14:40.040Z",
+    "comment_text": "Kotlin is a modern language for Android.",
+    "video_id": 22
+  },
+  {
+    "author": "user12",
+    "comment_timestamp": "2024-11-02 12:14:40.039Z",
+    "comment_text": "Scikit-Learn makes ML easy to implement!",
+    "video_id": 21
+  },
+  {
+    "author": "user2",
+    "comment_timestamp": "2024-11-02 12:14:40.011Z",
+    "comment_text": "Great introduction to data science!",
+    "video_id": 2
+  },
+  {
+    "author": "user2",
+    "comment_timestamp": "2024-11-02 12:14:40.010Z",
+    "comment_text": "This tutorial is very helpful, thank you!",
+    "video_id": 1
+  },
+  {
+    "author": "user9",
+    "comment_timestamp": "2024-11-02 12:14:40.030Z",
+    "comment_text": "PHP is great for backend development.",
+    "video_id": 16
+  },
+  {
+    "author": "user9",
+    "comment_timestamp": "2024-11-02 12:14:40.029Z",
+    "comment_text": "Web security is so important nowadays!",
+    "video_id": 15
+  },
+  {
+    "author": "user13",
+    "comment_timestamp": "2024-11-02 12:14:40.042Z",
+    "comment_text": "Cloud computing is a game changer.",
+    "video_id": 24
+  },
+  {
+    "author": "user13",
+    "comment_timestamp": "2024-11-02 12:14:40.041Z",
+    "comment_text": "NoSQL databases are the future!",
+    "video_id": 23
+  },
+  {
+    "author": "user4",
+    "comment_timestamp": "2024-11-02 12:14:40.017Z",
+    "comment_text": "CSS Grid is a game changer!",
+    "video_id": 6
+  },
+  {
+    "author": "user4",
+    "comment_timestamp": "2024-11-02 12:14:40.016Z",
+    "comment_text": "This was exactly what I needed for my project!",
+    "video_id": 5
+  },
+  {
+    "author": "user1",
+    "comment_timestamp": "2024-11-02 12:14:41.006Z",
+    "comment_text": "UX design is essential for user satisfaction.",
+    "video_id": 30
+  },
+  {
+    "author": "user1",
+    "comment_timestamp": "2024-11-02 12:14:40.048Z",
+    "comment_text": "Game development is so exciting!",
+    "video_id": 29
+  },
+  {
+    "author": "user10",
+    "comment_timestamp": "2024-11-02 12:14:40.033Z",
+    "comment_text": "Angular is a powerful framework for SPAs.",
+    "video_id": 18
+  },
+  {
+    "author": "user10",
+    "comment_timestamp": "2024-11-02 12:14:40.032Z",
+    "comment_text": "Ruby on Rails simplifies web development!",
+    "video_id": 17
+  },
+  {
+    "author": "user7",
+    "comment_timestamp": "2024-11-02 12:14:40.025Z",
+    "comment_text": "Postman makes API testing so much easier!",
+    "video_id": 12
+  },
+  {
+    "author": "user7",
+    "comment_timestamp": "2024-11-02 12:14:40.024Z",
+    "comment_text": "Git is essential for version control!",
+    "video_id": 11
+  },
+  {
+    "author": "user3",
+    "comment_timestamp": "2024-11-02 12:14:40.014Z",
+    "comment_text": "Thanks for explaining SQL queries so clearly!",
+    "video_id": 4
+  },
+  {
+    "author": "user3",
+    "comment_timestamp": "2024-11-02 12:14:40.013Z",
+    "comment_text": "JavaScript is so fun to learn!",
+    "video_id": 3
+  },
+  {
+    "author": "user6",
+    "comment_timestamp": "2024-11-02 12:14:40.022Z",
+    "comment_text": "HTML is easy to learn!",
+    "video_id": 10
+  },
+  {
+    "author": "user6",
+    "comment_timestamp": "2024-11-02 12:14:40.021Z",
+    "comment_text": "Very informative on machine learning basics.",
+    "video_id": 9
+  },
+  {
+    "author": "user11",
+    "comment_timestamp": "2024-11-02 12:14:40.037Z",
+    "comment_text": "Java is a great language for beginners.",
+    "video_id": 20
+  },
+  {
+    "author": "user11",
+    "comment_timestamp": "2024-11-02 12:14:40.035Z",
+    "comment_text": "Pandas is perfect for data analysis!",
+    "video_id": 19
+  },
+  {
+    "author": "user5",
+    "comment_timestamp": "2024-11-02 12:14:40.019Z",
+    "comment_text": "React is awesome! Cant wait to dive deeper.",
+    "video_id": 8
+  },
+  {
+    "author": "user5",
+    "comment_timestamp": "2024-11-02 12:14:40.018Z",
+    "comment_text": "Docker has transformed my workflow!",
+    "video_id": 7
+  },
+  {
+    "author": "user15",
+    "comment_timestamp": "2024-11-02 12:14:40.047Z",
+    "comment_text": "Ethical hacking is crucial for cybersecurity.",
+    "video_id": 28
+  },
+  {
+    "author": "user15",
+    "comment_timestamp": "2024-11-02 12:14:40.046Z",
+    "comment_text": "ASP.NET is powerful for web applications.",
+    "video_id": 27
+  }
+]

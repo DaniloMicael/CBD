@@ -1,0 +1,92 @@
+[
+  {
+    "username": "user14",
+    "email": "elizabeth.lewis@example.com",
+    "full_name": "Elizabeth Lewis",
+    "registration_timestamp": "2024-11-02 12:14:05.444Z"
+  },
+  {
+    "username": "user8",
+    "email": "linda.taylor@example.com",
+    "full_name": "Linda Taylor",
+    "registration_timestamp": "2024-11-02 12:14:05.435Z"
+  },
+  {
+    "username": "user12",
+    "email": "barbara.hernandez@example.com",
+    "full_name": "Barbara Hernandez",
+    "registration_timestamp": "2024-11-02 12:14:05.442Z"
+  },
+  {
+    "username": "user2",
+    "email": "jane.smith@example.com",
+    "full_name": "Jane Smith",
+    "registration_timestamp": "2024-11-02 12:14:05.428Z"
+  },
+  {
+    "username": "user9",
+    "email": "james.martinez@example.com",
+    "full_name": "James Martinez",
+    "registration_timestamp": "2024-11-02 12:14:05.437Z"
+  },
+  {
+    "username": "user13",
+    "email": "matthew.clark@example.com",
+    "full_name": "Matthew Clark",
+    "registration_timestamp": "2024-11-02 12:14:05.443Z"
+  },
+  {
+    "username": "user4",
+    "email": "emily.davis@example.com",
+    "full_name": "Emily Davis",
+    "registration_timestamp": "2024-11-02 12:14:05.431Z"
+  },
+  {
+    "username": "user1",
+    "email": "john.doe@example.com",
+    "full_name": "John Doe",
+    "registration_timestamp": "2024-11-02 12:14:05.412Z"
+  },
+  {
+    "username": "user10",
+    "email": "patricia.anderson@example.com",
+    "full_name": "Patricia Anderson",
+    "registration_timestamp": "2024-11-02 12:14:05.439Z"
+  },
+  {
+    "username": "user7",
+    "email": "david.lee@example.com",
+    "full_name": "David Lee",
+    "registration_timestamp": "2024-11-02 12:14:05.434Z"
+  },
+  {
+    "username": "user3",
+    "email": "robert.johnson@example.com",
+    "full_name": "Robert Johnson",
+    "registration_timestamp": "2024-11-02 12:14:05.429Z"
+  },
+  {
+    "username": "user6",
+    "email": "sarah.wilson@example.com",
+    "full_name": "Sarah Wilson",
+    "registration_timestamp": "2024-11-02 12:14:05.433Z"
+  },
+  {
+    "username": "user11",
+    "email": "christopher.thomas@example.com",
+    "full_name": "Christopher Thomas",
+    "registration_timestamp": "2024-11-02 12:14:05.440Z"
+  },
+  {
+    "username": "user5",
+    "email": "michael.brown@example.com",
+    "full_name": "Michael Brown",
+    "registration_timestamp": "2024-11-02 12:14:05.432Z"
+  },
+  {
+    "username": "user15",
+    "email": "joshua.robinson@example.com",
+    "full_name": "Joshua Robinson",
+    "registration_timestamp": "2024-11-02 12:14:06.688Z"
+  }
+]

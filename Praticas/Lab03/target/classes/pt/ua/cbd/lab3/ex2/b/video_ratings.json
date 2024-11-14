@@ -1,0 +1,374 @@
+[
+  {
+    "video_id": 23,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.247Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 23,
+    "author": "user9",
+    "rating_timestamp": "2024-11-07 12:43:07.246Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 5,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.206Z",
+    "rating_value": 1
+  },
+  {
+    "video_id": 5,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.208Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 28,
+    "author": "user10",
+    "rating_timestamp": "2024-11-07 12:43:07.258Z",
+    "rating_value": 1
+  },
+  {
+    "video_id": 28,
+    "author": "user11",
+    "rating_timestamp": "2024-11-07 12:43:07.259Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 10,
+    "author": "user10",
+    "rating_timestamp": "2024-11-07 12:43:07.218Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 10,
+    "author": "user11",
+    "rating_timestamp": "2024-11-07 12:43:07.219Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 16,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.233Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 16,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:07.232Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 13,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.227Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 13,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.226Z",
+    "rating_value": 1
+  },
+  {
+    "video_id": 30,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.263Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 30,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:11.143Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 11,
+    "author": "user14",
+    "rating_timestamp": "2024-11-07 12:43:07.222Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 11,
+    "author": "user15",
+    "rating_timestamp": "2024-11-07 12:43:07.221Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 1,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:07.195Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 1,
+    "author": "user4",
+    "rating_timestamp": "2024-11-07 12:43:07.197Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 1,
+    "author": "user5",
+    "rating_timestamp": "2024-11-07 12:43:07.198Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 1,
+    "author": "user6",
+    "rating_timestamp": "2024-11-07 12:43:07.199Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 19,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:07.239Z",
+    "rating_value": 1
+  },
+  {
+    "video_id": 19,
+    "author": "user4",
+    "rating_timestamp": "2024-11-07 12:43:07.238Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 8,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.215Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 8,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.214Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 2,
+    "author": "user7",
+    "rating_timestamp": "2024-11-07 12:43:07.201Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 2,
+    "author": "user8",
+    "rating_timestamp": "2024-11-07 12:43:07.200Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 4,
+    "author": "user10",
+    "rating_timestamp": "2024-11-07 12:43:07.204Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 4,
+    "author": "user15",
+    "rating_timestamp": "2024-11-07 12:43:07.205Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 18,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.237Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 18,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:07.236Z",
+    "rating_value": 1
+  },
+  {
+    "video_id": 15,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.230Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 15,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:07.231Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 22,
+    "author": "user7",
+    "rating_timestamp": "2024-11-07 12:43:07.244Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 22,
+    "author": "user8",
+    "rating_timestamp": "2024-11-07 12:43:07.245Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 27,
+    "author": "user8",
+    "rating_timestamp": "2024-11-07 12:43:07.256Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 27,
+    "author": "user9",
+    "rating_timestamp": "2024-11-07 12:43:07.257Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 20,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:07.241Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 20,
+    "author": "user5",
+    "rating_timestamp": "2024-11-07 12:43:07.240Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 7,
+    "author": "user10",
+    "rating_timestamp": "2024-11-07 12:43:07.211Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 7,
+    "author": "user11",
+    "rating_timestamp": "2024-11-07 12:43:07.212Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 6,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.210Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 6,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.209Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 29,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.261Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 29,
+    "author": "user12",
+    "rating_timestamp": "2024-11-07 12:43:07.260Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 9,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.217Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 9,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:07.216Z",
+    "rating_value": 1
+  },
+  {
+    "video_id": 14,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.228Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 14,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:07.229Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 26,
+    "author": "user6",
+    "rating_timestamp": "2024-11-07 12:43:07.253Z",
+    "rating_value": 5
+  },
+  {
+    "video_id": 26,
+    "author": "user7",
+    "rating_timestamp": "2024-11-07 12:43:07.255Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 21,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.242Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 21,
+    "author": "user6",
+    "rating_timestamp": "2024-11-07 12:43:07.243Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 17,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.234Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 17,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.235Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 24,
+    "author": "user2",
+    "rating_timestamp": "2024-11-07 12:43:07.249Z",
+    "rating_value": 1
+  },
+  {
+    "video_id": 24,
+    "author": "user3",
+    "rating_timestamp": "2024-11-07 12:43:07.250Z",
+    "rating_value": 3
+  },
+  {
+    "video_id": 25,
+    "author": "user4",
+    "rating_timestamp": "2024-11-07 12:43:07.251Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 25,
+    "author": "user5",
+    "rating_timestamp": "2024-11-07 12:43:07.252Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 12,
+    "author": "user1",
+    "rating_timestamp": "2024-11-07 12:43:07.225Z",
+    "rating_value": 4
+  },
+  {
+    "video_id": 12,
+    "author": "user13",
+    "rating_timestamp": "2024-11-07 12:43:07.223Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 3,
+    "author": "user12",
+    "rating_timestamp": "2024-11-07 12:43:07.203Z",
+    "rating_value": 2
+  },
+  {
+    "video_id": 3,
+    "author": "user5",
+    "rating_timestamp": "2024-11-07 12:43:07.202Z",
+    "rating_value": 4
+  }
+]
