@@ -8,6 +8,8 @@ public class Main {
         try (CqlSession session = CqlSession.builder().withKeyspace("videosharing").build()) {
             DatabaseQueries db = new DatabaseQueries(session);
 
+            // ======================= a) insert edit delete search ex ======================= //
+
             // insert example
             db.insertUser("danilo", "Danilo Silva", "danilomicael@ua.pt");
 
@@ -25,6 +27,9 @@ public class Main {
                 System.out.println("Email: " + row.getString("email"));
                 System.out.println("Registration Timestamp: " + row.getInstant("registration_timestamp"));
             });
+
+
+            // ======================= b) impl of 4 queries of ex 3.2 ======================= //
 
             // query2 example
             ResultSet tags = db.query2("user1", 1);
