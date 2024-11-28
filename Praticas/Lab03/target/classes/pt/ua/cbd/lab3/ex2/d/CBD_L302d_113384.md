@@ -301,8 +301,46 @@ Result:
 
 ```
 
-### 12.
+### 12. Número de seguidores de um vídeo
+```sql
+SELECT COUNT(*)
+FROM video_followers
+WHERE video_id = 1;
+```
 
-### 13.
+Result:
+```
+ count
+-------
+     3
 
-### 14.
+```
+### 13. Lista de videos que um user comentou
+```sql
+SELECT video_id, comment_text, comment_timestamp
+FROM comments_by_author
+WHERE author = 'user1';
+```
+
+Result:
+```
+ video_id | comment_text                                  | comment_timestamp
+----------+-----------------------------------------------+---------------------------------
+       30 | UX design is essential for user satisfaction. | 2024-11-25 15:20:04.893000+0000
+       29 |              Game development is so exciting! | 2024-11-25 15:20:04.327000+0000
+
+```
+### 14. Numero de videos partilhados por um user
+```sql
+SELECT COUNT(*) 
+FROM videos 
+WHERE author = 'user1';
+```
+
+Result:
+```
+ count
+-------
+     2
+
+```
