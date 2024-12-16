@@ -1,0 +1,14 @@
+﻿[
+  {
+    "RoomType": "Entire home/apt",
+    "AveragePrice": 126.34
+  },
+  {
+    "RoomType": "Private room",
+    "AveragePrice": 60.65
+  },
+  {
+    "RoomType": "Shared room",
+    "AveragePrice": 30.83
+  }
+]

@@ -1,0 +1,1000 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+41339,Porto city flat near the sea,180050,Paula,PORTO,Lordelo do Ouro e Massarelos,41.1501,-8.66035,Entire home/apt,56,7,25,2024-08-16,0.18,1,4,3,29049/AL
+55111,Fontielas Houses |Floor1 in House with shared Pool,259711,Isabel E João,PAREDES,Cete,41.17481,-8.35356,Entire home/apt,,4,20,2024-08-14,0.18,3,0,1,7563/AL
+73828,Fontielas Houses |Floor0 in House with shared Pool,259711,Isabel E João,PAREDES,Cete,41.17447,-8.35423,Entire home/apt,,5,15,2024-08-21,0.13,3,0,1,7563/AL
+87873,Oporto Apartment Triplex,480980,Paula,PORTO,Bonfim,41.15786,-8.60427,Entire home/apt,100,3,248,2024-08-31,1.65,4,311,11,634/AL
+94701,Big TERRACE APARTMENT / city center,505473,Gundega & Antonio,PORTO,Bonfim,41.14707,-8.60109,Entire home/apt,77,3,302,2024-08-28,1.86,1,337,13,85541/AL
+96394,Boat Blue Days,511741,Manuel,VILA NOVA DE GAIA,Canidelo,41.14296,-8.65203,Entire home/apt,214,1,11,2023-09-25,0.11,1,364,1,90/2015
+100521,casa de praia,528145,Isabel Morgado,VILA NOVA DE GAIA,Gulpilhares e Valadares,41.07378,-8.65368,Private room,,1,0,,,1,0,0,
+104045,Duplex Penthouse Apartament - 4 Bedrooms,541968,Aida,PORTO,Bonfim,41.1605,-8.59871,Entire home/apt,126,3,306,2024-07-27,1.91,1,353,12,11205/AL
+105347,Minha casinha / My little house,544104,Manuel,VILA NOVA DE GAIA,Oliveira do Douro,41.12945,-8.58562,Entire home/apt,76,4,162,2024-09-08,1.18,1,284,15,135964/AL
+108153,Rooms-Piscina-Praia,559704,Armando,ESPINHO,Anta e Guetim,40.99903,-8.61693,Private room,70,2,15,2024-08-26,0.15,2,365,2,10224
+122362,Private house in Oporto - Portugal,613350,Olga,PORTO,Paranhos,41.17576,-8.6232,Entire home/apt,130,2,94,2024-06-02,0.77,1,333,6,17076/AL
+125872,B&B - Luxury Suite with HQ private bath,625145,Manuel & Family,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12535,-8.6142,Private room,68,2,241,2022-09-25,1.49,2,315,0,Exempt
+127208,B & B  Room Yoga Garden's Place,630252,Aurora,PORTO,Campanhã,41.1546,-8.58985,Private room,38,2,555,2024-09-07,3.54,1,205,35,34971/AL
+128557,B&B-High Quality room 10min. walk from WineCellars,625145,Manuel & Family,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12485,-8.6139,Private room,36,2,518,2023-10-29,3.21,2,0,3,Exempt
+134570,Luxury OPO Beachfront Penthouse w/Pools,660293,Natacha,VILA NOVA DE GAIA,Madalena,41.10431,-8.66159,Entire home/apt,445,4,106,2023-10-28,0.70,1,361,1,2191/AL
+139425,"Cozy flat- air cond, rooftop terrace, free parking",680010,Liana,PORTO,Bonfim,41.14622,-8.59423,Entire home/apt,82,2,264,2024-08-26,1.64,10,326,21,4833/AL
+141255,Yellow House -  Casa CF,663708,Gabriela,MATOSINHOS,São Mamede de Infesta e Senhora da Hora,41.19266,-8.6615,Private room,126,3,1,2022-07-08,0.04,1,91,0,96640/AL
+155127,Apartment Douro river 5 km to Porto,745984,André,GONDOMAR,"Gondomar (São Cosme), Valbom e Jovim",41.1238,-8.54264,Entire home/apt,85,2,153,2024-08-31,1.01,1,354,24,
+155723,House with EscolaSuperiorEnferma,748789,Margarida M.,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15854,-8.60783,Entire home/apt,,3,6,2017-08-13,0.04,1,0,0,
+169321,Espaçoso e luminoso Apartamento perto de belas artes I,806826,Miguel,PORTO,Bonfim,41.14536,-8.59792,Entire home/apt,194,3,212,2024-08-13,1.36,4,165,16,5458/AL
+186655,Charming Family House with Garden (6981/AL),897112,Helena,PORTO,Lordelo do Ouro e Massarelos,41.15215,-8.65248,Entire home/apt,75,3,255,2024-09-01,1.61,1,79,18,6981/AL
+186946,DESIGN HOUSE OLD TOWN | BALCONY | AIRCO | RIBEIRA,898831,Isabel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14087,-8.61703,Entire home/apt,126,2,389,2024-08-31,2.46,2,289,40,52314/AL
+191005,Luxury Apartment Downtown - Porto,923371,Carlos,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15328,-8.60758,Entire home/apt,130,3,153,2024-08-11,1.03,2,222,17,5773/AL
+207475,EcoArtistic Nest,1020922,João E Susana,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.12935,-8.61487,Entire home/apt,,2,9,2018-01-03,0.06,1,0,0,
+208147,"Casa do Ciríaco, Casa Rural, Portugal",1024383,David,VILA DO CONDE,Fornelo e Vairão,41.326347,-8.660382,Private room,40,4,58,2024-08-24,0.52,1,98,5,Exempt
+241573,class & confort downtown / poss parking,1266562,Lovely,PORTO,Bonfim,41.14776,-8.60194,Entire home/apt,173,2,224,2024-02-04,1.43,18,309,4,7235/AL
+241574,apartment downtown 1 terrace,1266562,Lovely,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14645,-8.60293,Entire home/apt,94,2,346,2023-06-30,2.22,18,300,0,6762/AL
+241743,tranquility in downtown Porto,1266562,Lovely,PORTO,Bonfim,41.14661,-8.60188,Entire home/apt,87,2,162,2024-08-22,1.05,18,302,3,7233/AL
+248537,Carregal Apartment,1302034,Maria De Lurdes,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14738,-8.61876,Entire home/apt,85,3,358,2024-09-08,2.32,1,307,40,5400/AL
+264087,Historical City Center Apartment,1385493,Salomé,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15059,-8.622,Entire home/apt,122,3,392,2024-08-29,2.55,2,149,42,5488/AL
+265819,Porto Center Apartement - Beach 2 KM,506925,Amália,PORTO,Ramalde,41.16201,-8.63315,Entire home/apt,99,2,113,2024-08-29,0.74,1,265,10,87222/AL
+266970,The peacefulness of the countryside near Oporto,1399935,Teresa E Pedro / Teresa Und Pedro,VILA NOVA DE GAIA,Avintes,41.11945,-8.54857,Entire home/apt,67,7,41,2024-08-23,0.31,2,26,1,
+270094,PortoFLAT Self contained studioflat,1377045,Chris,PORTO,Ramalde,41.1608,-8.63532,Entire home/apt,55,3,79,2024-08-20,0.53,1,191,12,60563/AL
+270965,Central Apartment in Porto,1418251,Júlia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15676,-8.60897,Entire home/apt,52,3,165,2024-08-25,1.11,1,353,12,7349/AL
+273345,charming apartment in downtown Porto 3,1266562,Lovely,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14664,-8.60389,Entire home/apt,99,2,284,2024-05-01,1.90,18,301,7,6760/AL
+278886,charming apartment in downtown Porto 2,1266562,Lovely,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14653,-8.6023,Entire home/apt,99,2,291,2023-11-19,2.23,18,306,3,6764/AL
+313017,Ribeira - Porto/ Duplex Apartment,1609420,João & Cristiana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14172,-8.61175,Entire home/apt,,1,51,2017-05-21,0.34,1,0,0,44204/AL
+317546,OX Apartments- Taipas 7,1630185,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14243,-8.61849,Entire home/apt,152,1,203,2024-08-14,1.35,14,26,28,5929/AL
+322277,"Secluded mountain house, 50m River Paiva",1650486,Sandra,AROUCA,Alvarenga,40.96909,-8.16228,Entire home/apt,175,7,33,2024-08-25,0.24,1,365,4,33347/AL
+322467,Porto Luxury Suite,1651078,Lurdes,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15466,-8.61585,Private room,69,2,537,2024-09-06,3.80,5,351,34,30401/AL
+366442,Portugal - Vila Do Conde! Location!,1850073,Jolene,VILA DO CONDE,Vila do Conde,41.36807,-8.75865,Entire home/apt,,2,18,2019-08-11,0.13,1,0,0,
+366590,OX Apartments- Taipas 6,1630185,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14386,-8.61667,Entire home/apt,101,1,39,2024-08-28,0.26,14,21,5,5929/AL
+383641,Suite in the center of Oporto,1651078,Lurdes,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15466,-8.61585,Private room,69,2,516,2024-09-05,3.50,5,354,22,30401/AL
+386984,Fontielas Houses | House T1 with shared Pool,259711,Isabel E João,PAREDES,Cete,41.17445,-8.35489,Entire home/apt,,4,17,2024-08-22,0.15,3,0,3,7562/AL
+393987,Old city! River View! Indoor Parking!,1969579,Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14236,-8.60503,Entire home/apt,78,2,452,2024-09-01,3.05,1,180,63,6946/AL
+399584,Rustic House,1994633,Elisa,MAIA,São Pedro Fins,41.25363,-8.54319,Entire home/apt,180,7,125,2021-08-31,0.85,1,362,0,15346/AL
+403114,Blue Oporto Home River Front - Ribeira,2010935,Diana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1407321577949,-8.614698318667635,Entire home/apt,124,2,189,2024-08-09,1.27,13,239,30,6852/AL
+404688,Holiday Villa - Casa do Sobreiro,2016951,António Luís,GONDOMAR,Melres e Medas,41.07395,-8.41239,Entire home/apt,175,3,94,2024-08-07,0.69,1,244,4,32568/AL
+411572,T0 (Studio for Peaceful Holidays by the Sea),2048592,Maria,VILA NOVA DE GAIA,São Félix da Marinha,41.03955,-8.64094,Entire home/apt,67,2,9,2024-08-22,0.36,1,364,2,
+415993,"All Porto, Metro, University, Garage",2068687,Daniel & Maria,MATOSINHOS,São Mamede de Infesta e Senhora da Hora,41.1857,-8.60196,Entire home/apt,52,6,44,2024-09-07,0.29,2,305,16,140140/AL
+424705,OX Apartments- Taipas 5,1630185,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14413,-8.61686,Entire home/apt,113,1,74,2024-08-12,0.50,14,28,14,5929/AL
+429790,Just a 5minute walk from the beach!,2136541,Maria,MATOSINHOS,Matosinhos e Leça da Palmeira,41.20166,-8.70635,Entire home/apt,38,4,159,2024-07-31,1.18,1,45,13,
+437772,Facing the sea and harbor boats,2174759,Patricia,VILA DO CONDE,Vila do Conde,41.37219,-8.76001,Entire home/apt,108,2,70,2023-12-10,0.47,1,167,3,12467/AL
+457924,"Oporto ""Trindade"" Romantic Studio",480980,Paula,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15547,-8.60837,Entire home/apt,74,2,224,2024-09-11,1.49,4,332,24,75534/AL
+485699,2min walk from beach - 20min from Porto City,2404540,Marco,VILA DO CONDE,Vila do Conde,41.345,-8.75086,Entire home/apt,82,3,39,2024-07-27,0.31,1,11,5,14159/AL
+486268,Solar Piedade - FANTASTIC 5 bedroom villa,2406517,Hélder,VALONGO,Alfena,41.23712,-8.53118,Entire home/apt,430,3,54,2024-09-11,0.44,1,157,14,15264/AL
+819535,Clérigos Room | Historic Centre,2220420,Tomás,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14576,-8.61271,Private room,83,3,940,2024-09-07,6.60,8,321,74,28177/AL
+827208,Sailing boat at the beach,4338551,Aude,MATOSINHOS,Matosinhos e Leça da Palmeira,41.1868,-8.70497,Entire home/apt,74,2,25,2024-08-28,0.18,1,362,4,228/AL
+829780,Casa do Paúl - Confort &Nature in peaceful village,4346713,Dulce,AROUCA,Canelas e Espiunca,40.99082,-8.21403,Entire home/apt,185,2,62,2024-08-23,0.46,2,364,10,3515
+860418,Guest-House in Trindade - Center,2514783,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15604,-8.60933,Private room,49,3,141,2024-05-13,1.04,4,267,6,49685/AL
+863923,Near the City Park and the sea,1573706,Maria Julieta,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.16955,-8.6636,Private room,50,3,203,2024-09-11,1.46,1,321,17,15720/AL
+870040,Home Sweet Home Oporto,4585046,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15125,-8.61461,Entire home/apt,75,2,483,2024-08-23,3.52,1,316,39,
+878879,1 bedroom for 1-3 persons,2554908,Yuriy,GONDOMAR,Rio Tinto,41.17405,-8.56425,Private room,,1,0,,,1,0,0,
+879013,Apartment at Ramalde metro station,4646480,Rui,PORTO,Ramalde,41.17242,-8.63871,Entire home/apt,51,30,184,2023-10-19,1.37,1,317,1,33416/AL
+901441,Go2oporto @ Ribeira do Porto 1,399503,Go2oporto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14022,-8.61528,Entire home/apt,216,2,71,2024-08-13,0.64,11,163,25,31834/AL
+901491,Go2oporto @ Ribeira do Porto 2,399503,Go2oporto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14023,-8.61512,Entire home/apt,191,2,12,2024-04-07,0.11,11,174,1,31839/AL
+901558,Go2oporto @ Ribeira do Porto 3,399503,Go2oporto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14021,-8.6155,Entire home/apt,210,2,18,2024-07-19,0.13,11,162,4,31843/AL
+903893,OX Apartments - B Places I,4656501,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14365,-8.61753,Entire home/apt,82,1,11,2024-08-14,0.39,10,331,7,18106/AL
+903967,OX Apartments - B Places II,4656501,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14142,-8.61745,Entire home/apt,85,1,23,2024-08-06,0.20,10,334,2,18107/AL
+904089,OX Apartments - B Places III,4656501,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14287,-8.61613,Entire home/apt,84,1,54,2024-08-27,0.39,10,337,12,18108/AL
+904277,OX Apartments - B Places V,4656501,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14156,-8.61593,Entire home/apt,124,1,85,2024-08-13,0.62,10,337,18,18110/AL
+904293,OX Apartments - B Places IV,4656501,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14309,-8.61706,Entire home/apt,120,1,45,2024-08-14,0.36,10,334,3,18109/AL
+904297,OX Apartments - B Places VI,4656501,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14365,-8.61752,Entire home/apt,126,1,116,2024-08-10,0.92,10,329,37,18111/AL
+940770,Loft Clérigos | Historic center,2220420,Tomás,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14578,-8.61271,Entire home/apt,92,3,669,2024-09-09,4.81,8,334,72,26029/AL
+969918,"city centre, view to Douro river, private parking",3148983,Rosinda,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14275,-8.60506,Entire home/apt,,3,57,2018-06-23,0.42,2,0,0,
+1000044,"Room in Ribeira Porto, Douro River & D.Luis Bridge",5497765,Filipa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14025,-8.61452,Entire home/apt,135,3,199,2024-09-09,1.44,1,121,25,92876/AL
+1023015,House w/pool Near the Beach-Espinho,559704,Armando,ESPINHO,Anta e Guetim,40.99886,-8.61619,Entire home/apt,80,2,111,2024-08-18,0.81,2,358,3,10224
+1072112,Vitória 392 - Central Loft,5897201,Marco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1436,-8.61568,Entire home/apt,90,1,595,2024-09-11,4.30,16,307,53,4916/AL
+1075476,cozy studio 3 in downtown Porto,1266562,Lovely,PORTO,Bonfim,41.14665,-8.59936,Entire home/apt,94,2,185,2023-08-25,1.41,18,319,0,109485/AL
+1081354,Studio with river view by YoursPorto,1675750,YoursPorto,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.14245,-8.62651,Entire home/apt,165,1,751,2024-06-21,5.42,21,346,14,23424/AL
+496647,OX Apartments- Taipas 1,1630185,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14466,-8.61826,Entire home/apt,107,1,20,2024-08-12,0.13,14,22,6,5929/AL
+502059,Home in the geographic center Porto,2477477,Monica,PORTO,Ramalde,41.16693,-8.63799,Private room,,1,243,2018-08-27,1.63,1,0,0,
+510404,Guest-House in the centre of Porto,2514783,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15605,-8.60928,Private room,49,2,173,2024-07-01,1.18,4,266,4,49685/AL
+510406,Guest-House in the centre of Porto,2514783,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15194,-8.60782,Private room,49,3,220,2024-06-25,1.59,4,263,12,49685/AL
+518534,RIVERTOP by YoursPorto,1675750,YoursPorto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14002,-8.61519,Entire home/apt,174,1,458,2024-09-05,3.07,21,277,34,7437/AL
+530692,Very spacious and bright room downtown 621 2F,2606384,Fernanda,PORTO,Bonfim,41.15145,-8.6017,Private room,26,5,47,2024-08-26,0.38,10,101,21,
+536698,conforto e qualidade,784206,Ana,MAIA,Pedrouços,41.18751,-8.58391,Private room,100,1,0,,,1,365,0,
+538055,PENSÃO FAVORITA,2643396,Ema,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15061,-8.62086,Private room,120,2,0,,,10,264,0,5525/AL
+538059,Pensão Favorita,2643396,Ema,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14909,-8.61971,Private room,115,2,7,2024-08-05,0.12,10,55,3,5525/AL
+538061,Pensão Favorita,2643396,Ema,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14883,-8.61899,Private room,140,2,2,2022-07-03,0.07,10,113,0,5525/AL
+538062,Pensão Favorita,2643396,Ema,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15004,-8.61974,Private room,,2,0,,,10,84,0,5525/AL
+538064,Pensão Favorita,2643396,Ema,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14857,-8.61936,Private room,161,2,0,,,10,60,0,5525/AL
+538066,PENSÃO FAVORITA,2643396,Ema,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15002,-8.61969,Private room,,2,1,2019-06-09,0.02,10,268,0,5525/AL
+538069,PENSÃO FAVORITA,2643396,Ema,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15052,-8.62127,Private room,100,2,0,,,10,258,0,5525/AL
+546381,Citybreak - Apartments -  Mercados,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14221,-8.61413,Entire home/apt,186,1,12,2019-07-30,0.08,27,74,0,40436/AL
+562251,Citybreak - Apartments - Pátio,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.141,-8.61376,Entire home/apt,249,1,37,2020-02-27,0.25,27,26,0,40626/AL
+565255,Oporto Center Private Room1,480980,Paula,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15396,-8.60421,Private room,76,3,355,2024-09-02,2.40,4,342,17,
+571382,Porto Leça Beach Flat in Matosinhos,2812007,João,MATOSINHOS,Matosinhos e Leça da Palmeira,41.18971,-8.70026,Entire home/apt,51,3,277,2024-07-24,1.94,6,16,22,33782/AL
+573687,"3º- Dream corner by waterfalls, 20 min to Porto",680010,Liana,PAREDES,Parada de Todeia,41.158642,-8.378835,Entire home/apt,106,2,30,2024-08-14,0.22,10,175,3,25639/AL
+577242,Big House Near Porto and beachs,2838878,Dulce,SANTA MARIA DA FEIRA,Argoncilhe,41.02648,-8.53928,Entire home/apt,210,5,69,2024-07-10,0.48,1,244,9,
+579745,Airy & Modern Beachfront Apartment,2851799,Maria C,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15304,-8.67879,Entire home/apt,95,2,342,2024-09-07,2.32,1,5,29,20531/AL
+581356,"Toc Toc Studio, Fun Bijou Retreat in a Historic Building",2712090,Hugo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14443,-8.61755,Entire home/apt,80,2,564,2024-09-08,3.82,2,302,23,30100/AL
+581402,Big private bedroom with private WC,2861881,Sofia & Jorge,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14849,-8.60406,Private room,,2,35,2019-07-31,0.24,5,0,0,AL 52876
+582405,Minimalist House 2 bedrooms Porto,2868260,Henrique,PORTO,Bonfim,41.15663,-8.60033,Entire home/apt,60,4,152,2024-08-26,1.04,1,213,13,18642/AL
+587499,Oporto Downtown Loft - Clérigos,2897689,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1474,-8.61528,Entire home/apt,72,2,526,2024-09-05,3.59,1,73,42,6209/AL
+597262,Lavra Stay Beach & SPA (sea/pool view),2953301,Paulo,MATOSINHOS,"Perafita, Lavra e Santa Cruz do Bispo",41.26498031616211,-8.720980644226074,Private room,36,2,28,2024-09-06,1.86,2,343,22,135941/AL
+598806,Cozy t1 apartment in Porto city Center,2962322,Catherine,PORTO,Bonfim,41.14711,-8.59655,Entire home/apt,69,3,59,2022-09-06,0.40,1,81,0,
+604702,Casa da Paz | Vintage House with garden,2993425,"Maria, Gabriela & Tiago",PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15667,-8.62764,Entire home/apt,105,2,429,2024-09-13,2.93,1,203,27,34224/AL
+605605,3 Room Luxury Apartment in City Centre - nr96,2999213,Feriarcos,VILA DO CONDE,Vila do Conde,41.3536,-8.7428,Entire home/apt,110,2,19,2024-08-10,0.16,2,319,4,64412/AL
+609453,Porto center-Priv. room w/ WC&WI-FI,2861881,Sofia & Jorge,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14849,-8.60406,Private room,,2,73,2019-09-21,0.50,5,0,0,AL 52876
+609455,Double room ensuite in the center,2861881,Sofia & Jorge,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.148804,-8.604039,Private room,,2,63,2019-09-21,0.43,5,0,0,AL 52876
+619218,Kitchnette Studio in Porto's Downtown,1651078,Lurdes,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15448,-8.61451,Entire home/apt,58,2,538,2024-09-08,3.66,5,341,47,30401/AL
+620462,Porto Ribeira Moments - Apartamento,3074362,Adérito,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14175,-8.61355,Entire home/apt,105,3,245,2024-08-25,2.44,1,340,32,36689/AL
+620628,Cedofeita Downtown | Historic Center,2220420,Tomás,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1475,-8.61796,Entire home/apt,113,3,475,2024-09-02,3.24,8,341,48,44408/AL
+621663,3 Room Luxury Apartment in City Centre - nr98,2999213,Feriarcos,VILA DO CONDE,Vila do Conde,41.3544,-8.7431,Entire home/apt,100,2,13,2024-08-24,0.09,2,284,3,64412/AL
+621980,Kitchnette Studio in Porto's Downtown II,1651078,Lurdes,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15448,-8.61451,Entire home/apt,53,2,566,2024-09-08,3.84,5,342,44,30401/AL
+627273,Red Oporto Home River Front - Ribeira,2010935,Diana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14037000043967,-8.614815012605375,Entire home/apt,154,2,460,2024-08-09,3.14,13,229,51,7293/AL
+628004,Purple Oporto Home River Front - Ribeira,2010935,Diana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14090878421742,-8.615453225116987,Entire home/apt,124,2,220,2024-08-26,1.51,13,232,11,6851/AL
+628606,Porto Downtown Apartment,3122657,Sevenwindows,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15538,-8.60717,Entire home/apt,,2,125,2020-04-05,0.85,1,0,0,62657/AL
+638432,Very spacious room in townhouse downtown 1F,2606384,Fernanda,PORTO,Bonfim,41.15208435058594,-8.602394104003906,Private room,30,5,55,2024-08-24,0.41,10,180,18,
+640344,Casa da Belavista 2 - Foz Velha- Porto,3197326,Luiz,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.14801,-8.66768,Entire home/apt,172,360,11,2020-07-18,0.09,2,333,0,80872/AL
+659341,River&Bridges apartments 1 in Porto,3326280,Rui,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13664,-8.60832,Entire home/apt,57,2,687,2024-09-09,4.77,2,195,65,2221/AL
+663607,apartment 10min walking to downtown,3284341,Mariana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1587,-8.63108,Entire home/apt,71,4,85,2024-09-08,0.62,2,355,12,13618/AL
+681306,Modern Flat with Patio in Historic Jewish Quarter,3469454,Lígia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14259,-8.61713,Entire home/apt,99,1,198,2024-08-01,1.36,6,290,5,7155/AL
+681307,PentHouse Apartment in a Central Building,3469454,Lígia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14382,-8.61732,Entire home/apt,227,1,336,2024-09-02,2.64,6,273,33,600/AL
+691479,Apartreboleira. Terrace with a view,3534864,Anne,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.13951,-8.61515,Entire home/apt,196,2,572,2024-09-12,3.92,2,206,71,14929-AL
+692042,RIVERTOPVIEW by YoursPorto,1675750,YoursPorto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14002,-8.61518,Entire home/apt,198,1,209,2024-04-21,1.44,21,303,8,14925/AL
+695656,Green Oporto Home River Front - Ribeira,2010935,Diana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.139647952121415,-8.616435637326619,Entire home/apt,80,2,27,2024-08-17,0.20,13,240,3,7250/AL
+696324,Mouzinho 134 - Historical Center - Yellow,3565697,Eugenia And Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14295,-8.61372,Entire home/apt,270,2,463,2024-08-24,3.22,9,349,18,6482/AL
+703873,Sunny bedroom near the Douro river,3614742,Rui And Sergey,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.13038,-8.60236,Private room,38,2,186,2024-08-14,1.68,1,321,14,
+708484,"Little and nice inner room, Oporto",1736427,José António & Isabel,PORTO,Ramalde,41.17632,-8.62883,Private room,21,2,135,2023-09-29,1.22,1,0,3,54199/AL
+713596,Apartment Arca D`água with parking,2821843,Paulo,PORTO,Paranhos,41.16992,-8.60825,Entire home/apt,,3,189,2020-08-24,1.31,1,0,0,
+735736,OPO.APT - Pateo Apartment 110-0,3838433,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15583,-8.62387,Entire home/apt,83,2,89,2024-07-03,0.69,7,335,11,6989/AL
+736472,OPO.APT -  Art Déco Apartment 110-1,3838433,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15583,-8.62387,Entire home/apt,72,2,220,2024-08-30,1.54,7,330,25,6985/AL
+738602,Clérigos Downtown | Historic Centre,2220420,Tomás,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14581,-8.61272,Entire home/apt,192,3,518,2024-09-01,3.58,8,277,61,28177/AL
+746214,Great room in Oporto's centre WIFI,2861881,Sofia & Jorge,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14849,-8.60406,Private room,,2,45,2019-05-02,0.32,5,0,0,AL 52876
+748133,HEART OF THE CITY - SPACIOUS FLAT,3928878,Ana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14688,-8.61333,Entire home/apt,50,2,317,2020-08-15,2.43,1,0,0,49892/AL
+749496,Urban Oasis: Central Residence with Garden,2861881,Sofia & Jorge,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14849,-8.60406,Entire home/apt,451,3,221,2024-08-20,1.54,5,145,17,AL 52876
+753560,Suite Privativa com Casa de Banho Privativa,3963937,Hostel,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.1340125,-8.6115398,Private room,90,1,1,2024-03-10,0.16,2,352,1,19560/AL
+758709,Basic Studio With Top Location and View . Carmo 1,3944088,Estudios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14626,-8.61803,Entire home/apt,80,2,409,2024-09-09,2.87,7,255,50,19269/AL
+759702,Basic Studio With Top Location . Carmo 2,3944088,Estudios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14655,-8.61661,Entire home/apt,68,2,219,2024-09-11,1.53,7,331,38,19288/AL
+764471,"City center, Free Parking, fantastic view",4030159,Dalila,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14605,-8.60366,Entire home/apt,70,2,663,2024-09-13,4.61,1,281,76,132540/AL
+769605,Studio in  Porto,3163699,Sónia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14323,-8.60675,Entire home/apt,66,3,68,2024-08-29,0.53,2,330,7,
+780430,"ExtendALL, PORTO Studio 1",4115877,Bruno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14185,-8.61792,Entire home/apt,132,2,21,2021-12-05,0.15,3,173,0,52937/AL
+780538,"ExtendALL, PORTO Loft",4115877,Bruno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14167,-8.61951,Entire home/apt,175,2,56,2024-08-19,0.39,3,325,9,52937/AL
+786791,Aposentus - Lapa Downtown,179432438,Aposentus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15821,-8.6124,Entire home/apt,54,3,147,2024-08-28,1.03,55,320,27,9049/AL
+1380766,CASAS DO PORTO - Elegance Apartment,7474213,Olívia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14221,-8.61542,Entire home/apt,219,2,25,2023-08-06,0.18,8,304,0,6675/AL
+1381092,CASAS DO PORTO - Deluxe Apartment in Downtown,7474213,Olívia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14221,-8.61542,Entire home/apt,230,2,15,2018-06-25,0.11,8,272,0,6681/AL
+1381777,Garden House 1680,7481683,Ruca,VILA NOVA DE GAIA,Arcozelo,41.04177,-8.65071,Entire home/apt,220,4,95,2024-08-17,0.71,2,240,14,
+1391373,"2º- Dream corner by waterfalls, 20 min to Porto",680010,Liana,PAREDES,Parada de Todeia,41.15736454951341,-8.378615287504715,Entire home/apt,105,2,17,2024-08-27,0.13,10,181,7,25639/AL
+1430405,Basic Studio With Top Location and View . Carmo 3,3944088,Estudios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14591,-8.61776,Entire home/apt,80,2,396,2024-09-11,2.96,7,251,51,19337/AL
+1432272,Feel Porto Downtown City Break,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15028,-8.60696,Entire home/apt,,1,120,2024-07-24,0.90,102,302,8,5317/AL
+1433439,B&B High quality room in a Luxury flat,7218300,Manuel,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12496,-8.61466,Private room,39,1,275,2024-08-27,2.03,2,8,31,
+1437251,"Stone House 2, com terraço e Wi-Fi",7720702,José,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15573,-8.60718,Entire home/apt,144,3,147,2024-09-12,1.18,2,240,23,
+1437344,"Chalé encantador, de estilo rural",7720982,Rogério,SANTA MARIA DA FEIRA,"Santa Maria da Feira, Travanca, Sanfins e Espargo",40.92062,-8.57553,Entire home/apt,186,2,8,2024-07-27,0.09,1,321,1,49881/AL
+1459519,"T3 com piscina e jacuzzi - ""Tristão e Isolda""",7823650,Tiago,VALE DE CAMBRA,Macieira de Cambra,40.86477,-8.36892,Entire home/apt,117,2,76,2024-09-08,0.66,9,351,9,54708/AL
+1473897,Citybreak - Apartments - São Bento,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14586,-8.60861,Entire home/apt,187,1,3,2014-09-16,0.02,27,54,0,
+1083736,Vitória 392 - Central  Apartment,5897201,Marco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14344,-8.61633,Entire home/apt,85,2,188,2024-09-05,1.36,16,323,19,4925/AL
+1096376,Urban apartment - Casa da Portela 5105/AL,6024220,Maria João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14409,-8.61145,Entire home/apt,140,2,209,2024-09-08,1.53,1,311,46,5105/AL
+1119084,Ar do mar e olhar a Natureza.,6020311,Maria,VILA NOVA DE GAIA,Gulpilhares e Valadares,41.09142,-8.65001,Entire home/apt,72,4,42,2024-09-07,0.34,2,224,16,67776/AL
+1144090,O'Porto Studio | Historic Center,2220420,Tomás,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14826,-8.61574,Entire home/apt,103,3,655,2024-09-09,4.75,8,329,54,44228/AL
+1165025,17 Largo Viriato Historic Center,5723366,Miguel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14583,-8.62022,Entire home/apt,76,3,295,2024-09-09,2.15,3,246,30,44934/AL
+1168784,Mouzinho 134 - Historical Center - Green,3565697,Eugenia And Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14295,-8.61372,Entire home/apt,139,2,434,2024-08-27,3.17,9,351,35,6466/AL
+1170448,GuestHouse Pool&Sea Espinho Oporto,6317610,Isa,ESPINHO,Anta e Guetim,40.99888,-8.61631,Private room,80,2,61,2023-07-23,0.45,2,357,0,
+1179009,Superior Apartment with 2 Rooms and Terrace,6450606,Joana,PORTO,Lordelo do Ouro e Massarelos,41.15328,-8.62524,Entire home/apt,162,2,70,2024-05-10,0.51,5,135,2,
+1179607,Duplex Apartment,6450606,Joana,PORTO,Lordelo do Ouro e Massarelos,41.15326,-8.62522,Entire home/apt,134,2,22,2024-05-12,0.16,5,145,8,
+1185985,Green House - Quarto 1,6485316,Paula,PORTO,Lordelo do Ouro e Massarelos,41.148018608479724,-8.631158385900019,Private room,70,3,77,2020-03-15,0.57,2,201,0,6504/AL
+1192674,4 Bedroom Apartment  - Porto,6518808,Miguel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16505,-8.6289,Entire home/apt,148,2,318,2024-09-06,2.31,2,332,26,17079/AL
+1198320,Amazing River Views - charming Studio,680010,Liana,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.1386,-8.61002,Entire home/apt,,2,121,2023-12-30,0.89,10,0,3,18620/AL
+1207275,Mouzinho 134 - Historical Center - Blue,3565697,Eugenia And Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14298,-8.61363,Entire home/apt,450,2,451,2024-08-24,3.31,9,348,19,6467/AL
+1209353,OX Apartments- Taipas 9,1630185,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14356,-8.61814,Entire home/apt,144,1,44,2024-09-11,0.39,14,30,32,5929/AL
+1257019,Casa 22 ***** City centre cozy apartment!,6847458,Kiki & Teresa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14497,-8.60766,Entire home/apt,62,5,268,2024-08-30,1.96,2,332,15,
+1263840,Charming attic room & WC + Garden,5732545,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15957157612075,-8.624216186682807,Private room,50,3,298,2024-09-05,2.35,2,17,29,45553/AL
+1268146,Light and colorful cosy studio,6250742,Fred,PORTO,Paranhos,41.18221,-8.60921,Entire home/apt,92,2,73,2024-07-01,0.72,22,62,5,87520/AL
+1277754,River&Bridges apartments 2 in Porto,3326280,Rui,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13846,-8.61222,Entire home/apt,51,3,368,2024-09-08,2.69,2,297,30,128530/AL
+1284630,Sótão acolhedor num prédio do século XVIII,6988977,Casa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14397,-8.61777,Entire home/apt,81,1,103,2024-08-31,0.85,3,166,7,16768/AL
+1284759,ABEL'S IN DOWNTOWN - THE PLACE TO BE 1 OF 2,6989703,Abel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14855,-8.61662,Entire home/apt,106,2,707,2024-09-08,5.23,13,150,40,16769/AL
+1288357,Vitória - Central and Rustic Studio,5897201,Marco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14327,-8.61639,Entire home/apt,79,1,540,2024-09-11,3.96,16,318,59,
+1289907,Mouzinho 134 - Historical Center - White,3565697,Eugenia And Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14298,-8.61363,Entire home/apt,140,2,541,2024-09-08,3.97,9,346,23,6468/AL
+1293257,Mouzinho 134 - Historical Center - Pink,3565697,Eugenia And Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14298,-8.61363,Entire home/apt,130,2,438,2024-09-11,3.22,9,356,31,6478/AL
+1296230,Wine Hostel - Private Room Ensuit,7048197,Wine,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14641,-8.61661,Private room,122,1,3,2023-03-03,0.02,6,292,0,55451/AL
+1296253,Wine Hostel -  4 Bed Mixed Dorm Ensuite,7048197,Wine,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14633,-8.61798,Shared room,41,1,65,2024-05-11,0.53,6,329,2,55451/AL
+1296270,Wine Hostel - 6 Bed Mixed Dorm / Shared bathroom,7048197,Wine,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14617,-8.61684,Shared room,36,1,157,2024-09-05,1.28,6,327,17,55451/AL
+1296278,Wine Hostel - 6 Bed Mixed Dorm  Ensuite,7048197,Wine,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14646,-8.61826,Shared room,36,1,107,2024-07-15,0.85,6,330,5,55451/AL
+1296281,Wine Hostel - 8 Bed  Mixed Dorm / Shared bathroom,7048197,Wine,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14635,-8.61604,Shared room,36,1,376,2024-09-09,3.01,6,327,39,55451/AL
+1298881,GuestReady - Innvict Building,402191311,GuestReady,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.13976,-8.61587,Private room,76,1,336,2024-09-05,2.48,49,324,26,5620/AL
+1299930,Cozy studio w/free parking - Oporto,7067789,Manuela,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13667,-8.61241,Entire home/apt,60,2,349,2024-08-30,2.59,2,333,47,71689/AL
+1299933,Apartment center w/free parking,7067789,Manuela,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13693,-8.6137,Entire home/apt,80,2,274,2024-08-21,2.09,2,264,54,107800/AL
+1302618,Mouzinho 134 - Historical Center - Grey,3565697,Eugenia And Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14298,-8.61363,Entire home/apt,131,2,530,2024-09-10,3.90,9,348,36,6474/AL
+1304318,5 minute walk to River Douro?,7090133,Pedro,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13471,-8.60955,Private room,,2,136,2017-12-08,1.03,1,0,0,
+1306861,Mouzinho 134 - Historical Center - Brown,3565697,Eugenia And Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14295,-8.61372,Entire home/apt,120,2,495,2024-09-05,3.64,9,350,22,6462/AL
+1306890,Mouzinho 134 - Historical Center - Orange,3565697,Eugenia And Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14295,-8.61372,Entire home/apt,150,2,623,2024-09-13,4.59,9,339,36,6475/AL
+1317232,GuestReady - Innvict Building,2728741,Innvict,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14054,-8.61574,Private room,80,1,422,2024-08-30,3.12,1,332,55,5620/AL
+1332238,Welcome to So Cool Hostel Porto!,7226039,So Cool Hostel Porto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15565,-8.62133,Shared room,18,1,79,2022-11-27,0.62,12,256,0,6686/AL
+1334834,Riverfront Apartment in center of Porto,7238676,Joao,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.141701,-8.618473,Entire home/apt,115,2,457,2024-09-05,3.61,3,338,35,71550/AL
+1338982,Wine Apartments I - Ribeira 1BR by LovelyStay,7260938,Carlos,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1432313,-8.6145272,Entire home/apt,67,2,127,2024-08-13,1.02,3,242,15,6999/AL
+1347859,Young flat: great view with hammock,5265554,Tiago'S House,GONDOMAR,"Gondomar (São Cosme), Valbom e Jovim",41.14677,-8.55509,Private room,,3,44,2016-09-29,0.32,1,0,0,
+1380068,CASAS DO PORTO - Classic Apartment with Balcony,7474213,Olívia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14221,-8.61542,Entire home/apt,163,2,1,2013-10-02,0.01,8,307,0,6667/AL
+3930330,Casa da Nininha - T1 Azulão,20310699,Andre,VALE DE CAMBRA,Roge,40.8545,-8.36118,Entire home/apt,110,2,0,,,7,33,0,
+2364929,Casa do Mirante,12079711,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1497,-8.61686,Entire home/apt,115,5,26,2022-07-21,0.20,1,315,0,21471/AL
+2389777,"ExtendALL, PORTO Studio 2",4115877,Bruno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14343,-8.61845,Entire home/apt,140,1,16,2024-08-10,0.13,3,324,1,52937/AL
+2428363,River Balcony Downtown,12412664,Dolores,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1446,-8.61896,Entire home/apt,94,3,188,2024-08-15,1.48,4,154,18,83553/AL
+2440250,Francos' Relaxing Apt by metro w/ private parking,12474104,Sara,PORTO,Ramalde,41.16498,-8.63363,Entire home/apt,71,3,233,2024-08-27,1.83,3,318,28,19579/AL
+2440339,studio apartment downtown 2 balcony,1266562,Lovely,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14505,-8.60395,Entire home/apt,94,2,271,2023-10-23,2.13,18,293,1,6787/AL
+2444887,O'Porto Main Street St Catarina 1,2812007,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14957,-8.60506,Entire home/apt,72,2,449,2024-08-30,3.51,6,62,39,33469/AL
+2483361,O'Porto Main Street St Catarina 2 DOWNTOWN,2812007,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15328,-8.60396,Entire home/apt,49,2,319,2024-08-27,2.50,6,19,46,33475/AL
+2483771,O'Porto Main Street St Catarina 2 Studio,2812007,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15267,-8.60489,Entire home/apt,,2,363,2024-08-27,2.87,6,7,46,33475/AL
+2488617,APARTAMENTO DA BAIXA - 5636/AL,12736452,Pedro,PORTO,Bonfim,41.1548,-8.60466,Entire home/apt,100,4,94,2024-08-20,0.74,2,205,7,5636/AL
+2492899,Almond Biscuit APT  Historic Center,12759224,Confeitaria Primar,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14454,-8.6173,Entire home/apt,132,3,170,2024-09-09,1.34,5,323,22,5622/AL
+2525651,Casa de praia muito charme#,12932081,Antonia,VILA NOVA DE GAIA,Madalena,41.10633,-8.65392,Entire home/apt,130,4,43,2024-08-30,0.38,1,353,11,55088/AL
+2558177,Apartment with a shared garden,10364726,Manor House Porto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14182,-8.61118,Entire home/apt,262,2,364,2024-09-12,2.98,6,278,30,6067/AL
+2569042,Charming Historic Center,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.145092,-8.612606,Entire home/apt,95,4,477,2024-08-29,3.75,23,334,31,90568/AL
+2634829,Private House Mindelo,10988558,Fernando,VILA DO CONDE,Mindelo,41.30747,-8.73233,Entire home/apt,275,5,9,2024-07-26,0.08,1,364,1,
+2641067,Hungarian Biscuits  Historic Center,12759224,Confeitaria Primar,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14939,-8.61838,Entire home/apt,146,3,169,2024-09-09,1.33,5,255,10,5595/AL
+2643760,Luxury Apartment in Cardosas,4287899,Susete,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14407,-8.61246,Entire home/apt,113,1,284,2024-09-04,2.53,1,282,27,48354/AL
+2652502,Porto city centre serviced studio,4092127,Andreia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15667,-8.60468,Entire home/apt,65,3,26,2019-08-23,0.21,4,320,0,42945/AL
+2659893,Cardosas Design Flat,1143191,Carla,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14533,-8.61191,Entire home/apt,,3,192,2023-10-20,1.52,1,0,5,86479/AL
+2675381,Charm and Cosy Apt Downtown,13697637,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.160423278808594,-8.609968185424805,Entire home/apt,,3,33,2024-08-28,0.26,2,0,5,
+2675556,Spacious Apartment with views,10364726,Manor House Porto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14187,-8.61116,Entire home/apt,189,2,306,2024-08-31,2.43,6,272,37,6056/AL
+2678020,OX Apartments- Taipas 3,1630185,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14177,-8.61787,Entire home/apt,112,1,144,2024-08-30,1.16,14,26,26,5929/AL
+2689045,Zona Histórica de V.N.Gaia,10260327,Marco,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13724,-8.60951,Entire home/apt,,2,208,2024-08-30,1.66,1,300,30,Exempt
+2691782,Alegria Apartment Porto Downtown,13776260,Francisco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15108,-8.60444,Entire home/apt,80,2,9,2024-06-11,0.07,4,246,2,4649/AL
+2707363,Go2oporto @ A-Portoments III,399503,Go2oporto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14528,-8.61268,Entire home/apt,101,2,71,2024-04-27,0.56,11,190,4,38092/AL
+2729922,Casa da Belavista 4- Foz Velha-Porto,3197326,Luiz,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.14796,-8.66779,Entire home/apt,154,360,1,2019-09-06,0.02,2,215,0,
+2747558,New Apartment with a small terrace,3277008,Bonjardim,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15807,-8.60679,Entire home/apt,95,1,62,2024-03-31,0.49,4,264,1,12279/Al
+2750778,Studio flat in Porto city centre,4092127,Andreia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15616,-8.60598,Entire home/apt,63,3,32,2024-08-18,0.26,4,329,5,42945/AL
+2761058,Flowerstreet54 - Attractive flat at centre,13337880,John,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.143497467041016,-8.6142578125,Entire home/apt,71,3,131,2024-09-08,1.08,2,116,28,41827/AL
+2761419,Flowerstreet54 - Special flat next to Train& Metro,13337880,John,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1434326171875,-8.614296913146973,Entire home/apt,70,3,126,2024-07-24,1.09,2,103,24,41827/AL
+2766251,OPO.APT - Art Deco Apartment 114-1,3838433,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15594,-8.62384,Entire home/apt,72,2,99,2024-08-18,0.79,7,325,6,12680/AL
+2766311,OPO.APT - Pateo Apartment 114-0,3838433,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1558,-8.62379,Entire home/apt,83,2,47,2024-07-30,0.38,7,335,5,9667/AL
+2772925,Apartment with three rooms for 6 people,8198249,Gonçalo,PORTO,Bonfim,41.16062,-8.5994,Entire home/apt,,2,1,2016-08-08,0.01,2,0,0,
+2802670,Back-to-Back House III - Downtown,14334740,Nuno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14785,-8.61302,Entire home/apt,,2,695,2024-06-02,5.53,4,0,38,
+2806663,Quarto duplo,4137086,Ilidia Elisa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15022,-8.61495,Private room,35,3,22,2024-09-07,0.18,4,75,3,
+2821770,CASAS DO PORTO - Cosy Studio with Balcony,7474213,Olívia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14231,-8.6154,Entire home/apt,168,2,3,2016-08-23,0.02,8,298,0,6667/AL
+2821866,CASAS DO PORTO - Romantic Apartment with Balcony,7474213,Olívia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14231,-8.6154,Entire home/apt,218,2,14,2023-09-04,0.12,8,273,0,6675/AL
+2828877,Cosy apartment and central -Tourism,3277008,Bonjardim,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15741,-8.60856,Entire home/apt,88,1,122,2022-08-17,0.96,4,320,0,12278/Al
+2837052,PATH STUDIO,3277008,Bonjardim,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1582,-8.6085,Entire home/apt,87,1,80,2020-01-18,0.63,4,325,0,12283/AL
+2840980,Villa with private pool and garden by Go2oporto,14536062,Cidadeximia,PÓVOA DE VARZIM,"AVer-o-Mar, Amorim e Terroso",41.40861,-8.725,Entire home/apt,232,2,35,2024-08-24,0.31,1,353,6,143655/AL
+2844941,Porto next to beach of Gaia,9727633,Rosiris,VILA NOVA DE GAIA,Canidelo,41.13074,-8.64348,Entire home/apt,99,2,18,2023-08-16,0.15,2,98,0,
+1476656,Studio with terrace @ historic centre,504285,Raul,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14445,-8.61753,Entire home/apt,145,3,555,2024-09-06,4.11,4,324,66,6452/AL
+1481442,Ribeira Cinema Apartments - 2 Bedrooms (1interior),1619243,Tomé Receptionist,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14114,-8.6091,Entire home/apt,,1,17,2022-10-09,0.13,4,320,0,6842/AL
+1488437,Foz Gardens,7959537,Manuela,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.14937,-8.6663,Entire home/apt,84,2,14,2024-07-21,0.18,2,169,3,51881/AL
+1492432,Fabrica House downtown cozy WIFI,7977641,Gisela,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14701,-8.61395,Entire home/apt,97,3,623,2024-08-17,4.64,3,46,16,46830/AL
+1525964,Quarto Suite com acesso a terraço,7782764,João,MATOSINHOS,São Mamede de Infesta e Senhora da Hora,41.19267,-8.60796,Private room,39,5,36,2024-08-11,0.29,4,225,3,
+1543906,Casa de Coelhosa - Alojamento local,8228380,Carlos,VALE DE CAMBRA,São Pedro de Castelões,40.83906,-8.40257,Entire home/apt,496,1,46,2024-06-16,0.46,5,362,5,9612/AL
+1548917,"Maison de 3 chambres à Pigeiros, Portugal",5667552,Manuel,SANTA MARIA DA FEIRA,Caldas de São Jorge e de Pigeiros,40.954123394762526,-8.48388837300282,Entire home/apt,80,2,60,2024-08-23,0.49,1,354,7,
+1553544,Apartment in newly renewed building,8272913,Ricardo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15453,-8.61608,Entire home/apt,80,2,39,2024-07-03,0.40,2,348,1,37518/AL
+1571309,Cozy room close to the airport,8352490,Mahmoud,PORTO,Ramalde,41.17402,-8.63509,Private room,,1,0,,,1,0,0,
+1590407,"Apartment Vila do Conde, Porto Near the Beach",8455542,Maria Do Rosário,VILA DO CONDE,Vila do Conde,41.35098,-8.75082,Entire home/apt,96,3,32,2024-08-24,0.26,1,361,3,
+1600427,Garden House Downtown with Garage,8529851,Jorge,PORTO,Bonfim,41.14575,-8.59798,Entire home/apt,158,3,275,2024-09-06,2.07,7,314,31,29424/AL
+1657483,"Pretty flat terrace, ar cond, free parking, Host 6",680010,Liana,PORTO,Bonfim,41.14627,-8.59439,Entire home/apt,94,2,164,2024-08-27,1.23,10,323,25,4826/AL
+1680589,Dream View In Trendy Pvt Condo Penthouse Apt,1818634,Claudia,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.1528,-8.66868,Entire home/apt,176,3,67,2023-07-22,0.50,1,348,0,53616/AL
+1688002,Villa by the Porto Beach,8921433,Charles David,MATOSINHOS,Matosinhos e Leça da Palmeira,41.186161,-8.694656,Entire home/apt,450,4,43,2024-08-28,0.32,1,16,5,158381/AL
+1694480,Ribeira Cinema Apartments _ 1 Bedroom Apartment,1619243,Tomé Receptionist,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14114,-8.6091,Entire home/apt,157,1,21,2024-05-24,0.27,4,295,1,32112/AL
+1694547,Ribeira Cinema Apartments _ Superior Studios,1619243,Tomé Receptionist,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14114,-8.6091,Entire home/apt,145,1,25,2024-07-18,0.51,4,335,1,6837/AL
+1714665,Bolhão 2 Pátio,9043471,Idalina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14913,-8.60664,Entire home/apt,,3,0,,,4,229,0,5426 AL
+1714670,Bolhão 1 Cidade,9043471,Idalina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14913,-8.60664,Entire home/apt,,3,0,,,4,364,0,5442/AL
+1719942,Studio WBwGG,9070329,Maria Alexandra,PORTO,Campanhã,41.15355,-8.58863,Private room,,2,59,2018-08-12,0.48,1,0,0,
+1725356,Studio at Alfandega Apartments,9093792,Chris,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14365,-8.62309,Entire home/apt,121,2,72,2023-04-05,0.60,3,337,0,7090/AL
+1725571,CLÉRIGOS BLUE (Double Small Studio),12897618,Mário,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14532,-8.61339,Entire home/apt,70,2,922,2024-09-08,6.95,21,297,107,45802/AL
+1726170,CLÉRIGOS GREEN (Double Studio),12897618,Mário,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14557491094853,-8.613843731442774,Entire home/apt,65,2,949,2024-09-08,7.13,21,216,111,45802/AL
+1726242,Clérigos microstudio/suite 1st floor,12897618,Mário,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14558,-8.61385,Entire home/apt,60,2,710,2024-08-31,5.34,21,304,93,45802/AL
+1728725,CLÉRIGOS ORANGE (Double Studio),12897618,Mário,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14479,-8.61325,Entire home/apt,65,2,827,2024-09-08,6.29,21,307,97,45802/AL
+1728778,BY CLÉRIGOS YELLOW (Double Studio),12897618,Mário,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14558,-8.61385,Entire home/apt,70,2,842,2024-09-07,6.34,21,281,99,45802/AL
+1728818,CLÉRIGOS RED (Double Studio),12897618,Mário,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14558,-8.61385,Entire home/apt,65,2,784,2024-09-05,5.89,21,228,83,45802/AL
+1728836,CLÉRIGOS PURPLE (Double micro studio),12897618,Mário,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14558,-8.61385,Entire home/apt,70,2,788,2024-09-04,5.94,21,312,89,45802/AL
+1745872,Feel Porto Downtown Essence,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1504,-8.6069,Entire home/apt,334,1,60,2024-04-28,0.46,102,143,2,51537/AL
+1749154,Casa D' Avó,9203612,André,ESPINHO,Espinho,41.00673,-8.64472,Entire home/apt,200,5,60,2019-09-14,0.48,1,92,0,28941/PL
+1753203,Duplex with Terrace | Ace Location - Clean & Safe,7628011,Afonso,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14535,-8.61275,Entire home/apt,168,1,369,2024-08-22,2.81,1,85,32,19239/AL
+1804434,Superior Apartment with 1 Room and Terrace,6450606,Joana,PORTO,Lordelo do Ouro e Massarelos,41.15377,-8.62584,Entire home/apt,135,1,47,2024-08-17,0.38,5,135,6,
+1806117,Loft with river view by YoursPorto,1675750,YoursPorto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1408,-8.61514,Entire home/apt,186,1,391,2024-09-09,2.96,21,284,49,12182/AL
+1832526,Studio in Oporto,9583733,Eduardo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14413,-8.61791,Entire home/apt,75,3,174,2024-09-12,1.47,2,330,32,7330/AL
+1849074,Watermillhouse  Cottage in Nature Reserve,7493651,Aida,VALONGO,Campo e Sobrado,41.17091,-8.47578,Entire home/apt,71,3,101,2024-09-04,1.32,1,57,14,74105/AL
+1858460,Almada 329 Apartment,5897201,Marco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1489,-8.61341,Entire home/apt,90,2,459,2024-09-03,3.95,16,327,45,19111/AL
+1865618,Home away from home...in Porto!,9727633,Rosiris,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.13169,-8.60706,Entire home/apt,209,3,29,2024-07-20,0.23,2,356,6,45652/AL
+1911146,Apartment  Douro Ribeira Porto,6410302,Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14026,-8.61289,Entire home/apt,79,2,481,2024-09-09,3.67,2,241,48,7057/AL
+1923674,Eiffel Riverside Garden (Ribeira),9943979,Miguel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14085,-8.60851,Entire home/apt,134,2,357,2024-08-31,2.82,2,95,41,27018/AL
+1939223,The Pool House-up to 10p,3141414,Alcina,VILA NOVA DE GAIA,Oliveira do Douro,41.10989,-8.59256,Entire home/apt,250,1,98,2022-09-22,0.77,1,355,0,
+1949096,Porto Invictus,10079202,Porto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1504,-8.6053,Entire home/apt,84,2,317,2024-08-28,2.42,1,223,27,85269/AL
+1963785,Casais da Bandeirinha,10145870,Cristina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14404,-8.62109,Entire home/apt,110,3,280,2024-09-08,2.15,1,294,24,5705/AL
+2013451,Room in this great house/garden -3,2449196,Gustavo,MATOSINHOS,Matosinhos e Leça da Palmeira,41.17935,-8.67827,Private room,50,15,2,2024-08-31,0.43,2,88,2,
+2031487,OPorto Cheers Gaia - Train Station & free parking,3043794,João,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.129783630371094,-8.618280410766602,Entire home/apt,74,3,56,2024-08-09,0.46,3,191,1,
+2044048,Apart by the beach in trendy place,3284341,Mariana,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15875,-8.68312,Entire home/apt,92,5,1,2015-07-23,0.01,2,358,0,
+2077417,Tapada S.Domingos-Casa S.Sebastião,10616005,Sebastiao,GONDOMAR,Foz do Sousa e Covelo,41.07506,-8.50582,Entire home/apt,271,3,8,2024-05-05,0.27,4,339,2,
+2083027,Casa da Adega _ Quinta do Arco QA,10602021,Lucio,TROFA,Alvarelhos e Guidões,41.31074,-8.61901,Entire home/apt,170,4,50,2024-08-31,0.45,1,263,5,27348/AL
+2096695,Tapada S.Domingos-Casa Mª Adelina,10616005,Sebastiao,GONDOMAR,Foz do Sousa e Covelo,41.07469,-8.50592,Entire home/apt,334,3,5,2024-09-07,0.04,4,332,2,
+2096806,Tapada S.Domingos-Casa S.Miguel,10616005,Sebastiao,GONDOMAR,Foz do Sousa e Covelo,41.0746,-8.50416,Entire home/apt,271,3,1,2022-06-02,0.04,4,336,0,
+2107649,Sunny Apartment on the Beach !,2336246,Cesar,VILA DO CONDE,Azurara,41.33886,-8.73986,Entire home/apt,87,4,71,2024-09-13,0.55,1,279,15,
+2190462,Estudio no centro do Porto,11171256,Fatima,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15569,-8.60906,Entire home/apt,28,30,10,2024-07-31,0.28,1,44,3,
+2205675,Seaside Surf Golf City - 3 Bedrooms,11253492,Sergio,VILA NOVA DE GAIA,Arcozelo,41.06994,-8.65083,Entire home/apt,95,4,42,2020-09-16,0.34,1,1,0,90477/AL
+2230553,Charming. Family friendly. Central.,10675704,Fernando Salvador,PORTO,Bonfim,41.15609,-8.59878,Entire home/apt,48,4,309,2024-09-03,2.40,1,272,18,65451/AL
+2258518,"VillaMaria, Porto, Beach & Holidays",11534430,Charlotte,MATOSINHOS,"Perafita, Lavra e Santa Cruz do Bispo",41.2619,-8.71675,Entire home/apt,270,2,11,2019-08-13,0.10,2,355,0,178337862
+2296329,Basic Studio With Top Location and View . Carmo 4,3944088,Estudios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14777,-8.61818,Entire home/apt,79,2,336,2024-09-11,2.63,7,297,43,19340/AL
+2297238,2 bedroom apartment near Lello Bookshop - balcony,3944088,Estudios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14831,-8.61605,Entire home/apt,112,2,414,2024-09-13,3.23,7,285,57,18961/AL
+2302948,Feel Porto Downtown Heaven,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15028,-8.60696,Entire home/apt,,1,136,2024-08-15,1.06,102,287,14,51550/AL
+2330171,Beautiful/Sunny  (center),3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14546,-8.6122,Entire home/apt,106,2,611,2024-08-30,4.81,23,330,49,90567/AL
+3930559,Casa da Nininha - T1 Bordeaux,20310699,Andre,VALE DE CAMBRA,Roge,40.85625,-8.36086,Entire home/apt,110,2,0,,,7,33,0,
+3155216,Porto downtown studio,7959537,Manuela,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.149677,-8.614727,Entire home/apt,40,30,1,2024-08-22,1,2,88,1,
+3160913,Big House & Pool 20min from Porto!,5632244,Katia,PAREDES,Rebordosa,41.21228,-8.42144,Entire home/apt,63,4,18,2023-07-21,0.15,1,362,0,
+3165433,Cordoaria Guest House 2 - Downtown,16055999,Sílvia E André,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14716,-8.61653,Entire home/apt,90,2,419,2024-08-29,3.35,2,258,43,52599/AL
+3184943,"""Only Sleep"" room in magnificient house",13770409,Vasco Salazar SOares,VILA NOVA DE GAIA,Gulpilhares e Valadares,41.0782,-8.6449,Entire home/apt,,800,0,,,4,358,0,71328/AL
+3202379,Suite com jardim partilhado,10364726,Manor House Porto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14192,-8.61116,Entire home/apt,125,2,396,2024-09-11,3.17,6,287,25,83417/AL
+3206477,A relaxed and sweet stay by the Douro river,16246435,Mellares,GONDOMAR,Melres e Medas,41.0674,-8.40214,Entire home/apt,80,5,43,2024-08-25,0.35,1,178,8,16423/AL
+3215881,Wonderful Apart Center Oporto!,4803218,Paula,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15033,-8.61654,Entire home/apt,90,2,168,2024-08-20,1.36,1,336,6,11940/AL
+3240176,Fisherman's Shack,16393718,Marta,VILA DO CONDE,Vila Chã,41.29179,-8.73394,Entire home/apt,98,3,176,2024-09-10,1.57,2,135,21,43076/AL
+3269362,Lovely Room | Private Bathroom :),1184917,Maria João,PORTO,Paranhos,41.16591,-8.61015,Private room,40,2,108,2024-08-29,0.87,1,90,23,Exempt
+3271454,Big and luminous 4-room apartment,15629769,Gergely,VILA NOVA DE GAIA,Canidelo,41.13401,-8.65223,Entire home/apt,92,5,53,2024-08-22,0.43,3,343,11,101297/AL
+3280119,Spacious 2-story apartment,16579063,Ruth,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.1317,-8.62992,Entire home/apt,,5,1,2015-08-24,0.01,1,0,0,
+3303864,OPO DOMUS - Porto's Historic Center,15979825,Gabriela & Carina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14294,-8.60969,Entire home/apt,112,3,414,2024-09-08,3.33,7,260,67,45615/AL
+3333098,In a nice quiet fishing village,5483106,Jorge,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.14449,-8.64565,Entire home/apt,93,1,352,2024-08-30,2.83,3,323,27,55779/AL
+3353652,Explore Porto from this Classic 3-Bedroom Apt,16922131,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14946,-8.60595,Entire home/apt,189,1,208,2024-07-29,1.67,92,327,3,49474/AL
+3365178,Maison avec Piscine proximité PORTO,16980719,Manuel,VILA NOVA DE GAIA,"Sandim, Olival, Lever e Crestuma",41.04532,-8.50587,Entire home/apt,60,7,46,2024-08-20,0.41,3,155,4,62379/AL
+3414002,♥* In the mood for... Oporto*♥,17213138,Ana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14977,-8.60632,Entire home/apt,134,2,340,2024-08-29,2.75,2,260,41,5925/AL
+3426424,SABERAMAR - COUNTRY,17273392,Ana,AROUCA,Tropeço,40.94346,-8.31261,Entire home/apt,350,10,9,2019-08-25,0.08,2,362,0,44891/AL
+3427461,Feel Porto Downtown Luxury Retreat,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15028,-8.60696,Entire home/apt,499,1,180,2024-08-12,1.46,102,250,24,5253/AL
+3463831,Apartamento no centro do Porto. Terraços,17452235,Ana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1533,-8.61399,Entire home/apt,86,2,213,2024-08-27,2.20,2,321,43,37632/AL
+3464992,Azulejo Porto Riverside,17457654,Cláudia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14123,-8.61192,Entire home/apt,113,4,185,2024-09-03,1.50,2,197,9,5889/AL
+3468335,"Sweet and quiet, historical center",14948298,Maria De Lourdes,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.13951,-8.61406,Entire home/apt,61,2,500,2024-09-12,4.07,2,216,69,5200/AL
+2850921,Apartamento  a 50 metros da praia,14578573,Lídio,VILA NOVA DE GAIA,Gulpilhares e Valadares,41.075,-8.6553,Entire home/apt,120,3,27,2024-08-22,0.23,1,348,3,111279/AL
+2851241,FLH Porto Vista House,3953109,Feels Like Home,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.1368522644043,-8.61056137084961,Entire home/apt,,1,185,2024-06-15,1.47,74,4,26,52331/AL
+2869292,Páteo,14667345,Maria Manuela,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14267,-8.61209,Entire home/apt,155,2,109,2024-08-19,0.86,4,291,6,45863/AL 45874/AL 45876/AL 45881/AL
+2885844,Douro Marina Studios,14747315,Abel,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.14267,-8.64629,Entire home/apt,110,2,86,2024-07-07,0.68,1,329,9,46915/AL
+2888308,"Stone House1, Central with Terrace",7720702,José,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15549,-8.6091,Entire home/apt,84,3,58,2024-08-12,0.47,2,354,4,
+2905644,Private room 4 with private wc and closed balcony,6369029,Teresa,PORTO,Paranhos,41.1712,-8.59501,Private room,16,14,61,2024-07-25,0.48,14,65,12,Exempt
+2907220,View over the mouth of the Douro,14853677,Ester,PORTO,Lordelo do Ouro e Massarelos,41.15011,-8.64251,Entire home/apt,95,5,57,2024-08-26,0.51,1,288,12,48313/AL
+2918705,Room in center  near the beach,14905055,Isabel,VILA DO CONDE,Vila do Conde,41.35096,-8.74409,Private room,35,3,71,2024-08-21,0.58,3,256,11,
+2921506,Tiles House-Lima5,14898722,Susana,PORTO,Bonfim,41.15494,-8.60207,Entire home/apt,,7,222,2020-10-10,1.76,2,0,0,75060/AL
+2921985,PortoSense  Ribeira  T1 Apart Duplex   2/6 pax,14921668,PortoSense,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14122,-8.6134,Entire home/apt,180,1,142,2024-09-11,1.14,5,235,48,
+2923070,Adorable Apartment In Great Area by PortoCityHosts,101838501,Porto City Hosts,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14233,-8.61517,Entire home/apt,98,1,310,2024-09-03,2.65,65,153,9,35755/AL
+2932569,Alegria 319 | 3D @ Porto Downtown,14358016,Estável,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1507,-8.60371,Entire home/apt,200,2,94,2022-04-17,0.85,2,246,0,19336/AL
+2951239,"T3 pool, gynasium, sauna",14955786,Paulo,MATOSINHOS,Matosinhos e Leça da Palmeira,41.19447,-8.69139,Entire home/apt,95,2,62,2022-08-27,0.50,1,322,0,
+2961935,Feel Porto Downtown City Roofs,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15028,-8.60696,Entire home/apt,,1,73,2023-10-22,0.60,102,313,1,51544/AL
+2971940,Casa do Porto Carreiro,15163187,Nuno,OLIVEIRA DE AZEMÉIS,Ossela,40.81889,-8.43329,Entire home/apt,86,2,65,2024-09-08,0.59,1,321,14,Registo n°20090/AL
+2976144,PortoSense Ribeira T0 Aprt  2/3 pax,14921668,PortoSense,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14127,-8.61232,Entire home/apt,150,1,2,2023-11-28,0.07,5,266,1,
+2991748,Room in center  near the beach.,14905055,Isabel,VILA DO CONDE,Vila do Conde,41.35096,-8.74409,Private room,30,2,195,2024-08-25,1.56,3,348,31,
+2991886,Room in center  near the beach,14905055,Isabel,VILA DO CONDE,Vila do Conde,41.3503,-8.74521,Private room,72,2,17,2024-08-20,0.15,3,348,1,
+3014885,Vila Nova de Gaia_near Madalena beach & Oporto II,15331047,Rui,VILA NOVA DE GAIA,Madalena,41.10842,-8.63279,Private room,35,3,11,2019-08-12,0.09,1,0,0,
+3035176,S. Bento I - Studio with terrace,2891070,Stay In,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14557,-8.61181,Entire home/apt,153,1,26,2023-10-21,0.21,3,323,2,
+3049916,Egg Nuts Apt - Historic Center,12759224,Confeitaria Primar,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14708,-8.61664,Entire home/apt,126,3,70,2024-08-22,0.57,5,284,11,5616/AL
+3059818,Enjoy Porto Apartment by Porto City Hosts,101838501,Porto City Hosts,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15337,-8.60743,Entire home/apt,124,2,61,2024-08-02,0.49,65,133,13,32785/AL
+3068627,PortoPath- Duplex with mezanine very bright,3277008,Bonjardim,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15609,-8.60733,Entire home/apt,91,1,86,2019-09-24,0.69,4,322,0,12275/Al
+3071032,Breathtaking views of the Douro outlet 2-room apt,15629769,Gergely,VILA NOVA DE GAIA,Canidelo,41.13129,-8.6607,Entire home/apt,69,4,127,2024-08-23,1.38,3,336,14,76420/AL
+3079995,Maria’s Home,15469586,Ema,VILA DO CONDE,Junqueira,41.37452,-8.6701,Entire home/apt,220,4,57,2024-09-08,0.46,1,190,12,11984/AL
+3099289,Full House,6450606,Joana,PORTO,Lordelo do Ouro e Massarelos,41.15332,-8.62578,Entire home/apt,459,2,157,2024-09-11,1.28,5,85,23,
+3141397,Welcome to my city,15950531,Carlos & Cristina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1403,-8.61761,Entire home/apt,55,2,608,2024-08-25,4.86,4,145,32,6654/AL
+3930925,Casa da Nininha - T0 Rosa,20310699,Andre,VALE DE CAMBRA,Roge,40.85661,-8.36175,Entire home/apt,90,2,0,,,7,112,0,
+3936940,Walk Through Downtown From a Peaceful Apartment,20397743,Patrícia E Bruno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15049,-8.61536,Entire home/apt,93,2,772,2024-09-11,6.33,8,327,82,53757/AL
+3940180,PORTO TERRACE ❤️ 70m2 Apartment w/ lovely Balcony,20415545,Ricardo & Friends PT,ESPINHO,Espinho,41.00482,-8.63609,Entire home/apt,100,1,63,2024-07-04,0.52,1,324,8,39829/AL
+3957096,Casa da Nininha - T0 Azul Claro,20310699,Andre,VALE DE CAMBRA,Roge,40.85519,-8.36108,Entire home/apt,90,2,5,2020-02-16,0.06,7,112,0,
+3967347,Estudio economico na Lapa,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15986,-8.61305,Entire home/apt,,1,25,2023-09-17,0.22,27,0,1,76049/AL
+3975853,Citybrea -Apartments - Lapa,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15902,-8.61266,Entire home/apt,74,1,24,2024-09-01,0.21,27,71,7,45309/AL
+3984639,Citybreak - Apartments - Lapa,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15699,-8.61172,Entire home/apt,60,1,1,2023-10-06,0.09,27,4,1,76049/AL
+3991998,Citybreak - Apartments - Lapa,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15928,-8.61284,Entire home/apt,66,1,7,2024-04-21,0.07,27,78,2,76049/AL
+4010392,Apartment in Ribeira (in need of works),2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14118,-8.61507,Entire home/apt,,1,9,2022-12-11,0.09,27,0,0,42524/AL
+4013512,Apartamento T2 Vista Cidade para 4 pessoas,20809128,Recepção,ESPINHO,Espinho,41.00923,-8.64447,Entire home/apt,,1,0,,,3,0,0,
+4020719,Citybreak-Apartments  -  623,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14729,-8.60943,Entire home/apt,190,1,2,2016-08-07,0.02,27,71,0,50192/AL
+4021422,Citybreak - Apartments - Bolhão,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15074,-8.6058,Entire home/apt,127,2,8,2022-07-26,0.08,27,64,0,43359/AL
+4021975,Citybreak - Apartments - Bolhão,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15189,-8.60527,Entire home/apt,69,1,1,2015-06-06,0.01,27,1,0,43353/AL
+4023282,Quarto casal acolhedor,20857837,Jordana,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13545,-8.60822,Private room,,1,0,,,1,286,0,
+4027304,Citybreak - Apartments - Bolhão,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15077,-8.60596,Entire home/apt,60,1,3,2019-09-06,0.05,27,1,0,43352/AL
+4037558,Wine Apartments II - Ribeira 1BR by LovelyStay,7260938,Carlos,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1432313,-8.6145272,Entire home/apt,63,2,131,2024-05-23,1.08,3,243,17,3665/AL
+4043215,Casa da Praia em Valadares,20962214,José Francisco,VILA NOVA DE GAIA,Gulpilhares e Valadares,41.09457,-8.65838,Entire home/apt,135,5,11,2024-08-27,0.13,1,112,4,22118/AL
+4043481,Ilda's Home - Garden,15554002,Pedro,PORTO,Bonfim,41.157848,-8.5944,Entire home/apt,1180,1,88,2023-10-30,0.73,11,287,4,28217/AL
+4043511,Ilda's Home - Balcony,15554002,Pedro,PORTO,Bonfim,41.157848,-8.5944,Entire home/apt,1180,1,120,2023-10-02,0.99,11,286,2,28217/AL
+4050773,Ilda's Home - Big Families & Groups,15554002,Pedro,PORTO,Bonfim,41.157848,-8.5944,Entire home/apt,138,1,195,2024-09-05,1.69,11,286,51,28217/AL
+4058828,Alegria 1º,217380031,Mord,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14784,-8.60499,Entire home/apt,132,1,285,2024-08-29,2.49,7,320,11,48302/AL
+4070944,Modern house & garden-Porto seaside,8519045,Fien & Ricardo,MATOSINHOS,Matosinhos e Leça da Palmeira,41.19633,-8.69767,Entire home/apt,92,5,97,2024-09-07,0.82,1,311,15,14935/AL
+4083992,Spacious Apartment with Private Garden - Downtown,2273533,Renato,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15118,-8.60528,Entire home/apt,94,2,274,2024-09-01,2.26,1,153,22,26464/AL
+4091889,Casa Mosteiro - Quinta Do Pomar Maior,21223635,Vânia,AROUCA,Santa Eulália,40.93105,-8.27016,Entire home/apt,440,5,13,2022-08-09,0.12,7,365,0,6332
+4116934,Pensão Favorita,2643396,Ema,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15005,-8.6193,Private room,141,2,0,,,10,113,0,5525/AL
+4142447,Estúdio T0 para 2 pessoas,20809128,Recepção,ESPINHO,Espinho,41.00894,-8.64547,Entire home/apt,,1,3,2022-11-26,0.10,3,0,0,
+4178954,Baixa24 - City Center Private Sun Deck Apt Room 1,252729505,Alex,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14933,-8.60388,Private room,,1,422,2024-08-30,3.48,16,0,33,1584
+4179979,Baixa24 - City Center Private Sun Deck Apt Room 2,252729505,Alex,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14933,-8.60388,Private room,35,1,502,2024-08-29,4.14,16,1,34,1584/AL
+4180180,Baixa24 - City Center Private Sun Deck Apt Room 3,252729505,Alex,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14933,-8.60388,Private room,35,1,504,2024-08-28,4.15,16,1,26,1584/AL
+4181301,Baixa24 - City Center Private Sun Deck Apt Room 5,252729505,Alex,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14933,-8.60388,Private room,36,1,338,2024-08-28,2.80,16,1,16,1584/AL
+4202471,Baixa24 - City Center Private Sun Deck Apt Room 4,252729505,Alex,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14933,-8.60388,Private room,31,1,413,2024-08-29,3.41,16,1,18,1584/AL
+4233521,Fabulous Old World in Historic Center,21968129,Kurt & Teresa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.148327,-8.612178,Entire home/apt,169,1,443,2024-09-10,3.67,1,314,52,15533/AL
+4238587,Stylish Studio walk-up in lively City Center,16922131,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14554,-8.61492,Entire home/apt,90,1,59,2024-01-16,0.49,92,339,1,24056/AL
+4238648,Dazzling City Center Apart in Lively Neighborhood,16922131,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14554,-8.61492,Entire home/apt,84,1,52,2024-07-20,0.43,92,331,2,23947/AL
+4278355,Casa da Foz,22212713,Sónia,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.14779,-8.66695,Entire home/apt,121,2,295,2024-08-24,2.48,7,288,12,20333/AL
+4281511,Apartamento em casa de charme - Porto 181,3670895,José,PORTO,Bonfim,41.14381,-8.60008,Entire home/apt,95,3,33,2024-05-14,0.51,1,308,1,53789/AL
+4284073,Tiny Double Room with private WC,22239778,Supernova,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15283,-8.60705,Hotel room,82,1,6,2023-08-12,0.13,6,154,0,
+4287284,Apartamento da Foz,22212713,Sónia,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.14885,-8.66662,Entire home/apt,114,2,136,2024-07-06,1.22,7,308,4,20335/AL
+4295305,Amazing Villa in Porto w/ Pool,21361533,Mario,GONDOMAR,Foz do Sousa e Covelo,41.10651,-8.45943,Entire home/apt,395,7,1,2017-07-28,0.01,1,362,0,60499/AL
+4321611,Vila Guiomar - Casa da Eira,22438137,Maria Luísa,AROUCA,Alvarenga,40.96871,-8.16229,Entire home/apt,325,1,22,2024-07-21,0.23,1,276,2,
+4330965,Gold Oporto Home River Front - Ribeira,2010935,Diana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14112,-8.61616,Entire home/apt,97,2,67,2024-06-11,0.57,13,236,4,39893/AL
+4337394,Rustic House with Pool & Jacuzzi -Arouca Portugal,22519813,Maria Elisabete,AROUCA,Rossas,40.90516,-8.29968,Entire home/apt,300,5,186,2024-09-10,1.62,2,348,12,38903/AL
+4348561,My Own Private Studio,22572449,Luís,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14486,-8.61101,Entire home/apt,100,3,599,2024-08-23,4.97,7,214,40,20267/AL
+4348703,Porto/Gaia Apartment with swimming pool,4676890,Cristina,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.11735,-8.60796,Entire home/apt,70,1,6,2019-09-24,0.07,1,311,0,49356/AL
+4355114,Eiffel Riverside Garden,9943979,Miguel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14171,-8.60642,Entire home/apt,133,2,253,2024-09-07,2.13,2,86,34,35500/AL
+4376840,Downtown Excellent Apartment,22724401,Marcos,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12162,-8.60625,Entire home/apt,80,1,78,2024-08-24,0.71,9,280,16,
+4400623,Catarina´s Flat,219604,Niva,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15553,-8.61808,Entire home/apt,60,3,24,2018-07-21,0.20,1,75,0,66338/AL
+4410912,Musical View,22895173,Sandra,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16053,-8.62529,Entire home/apt,155,3,20,2021-09-29,0.19,4,317,0,5018/AL
+4415855,Auto-Caravana Mini low cost,20397743,Patrícia E Bruno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14972,-8.61577,Entire home/apt,57,4,80,2024-08-16,0.72,8,349,4,
+4415976,Porto Downtown Studio w/ free wifi,22921499,Opo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14454,-8.61037,Entire home/apt,109,2,91,2022-09-10,0.79,1,328,0,32297/AL
+4494176,Cosy studio near Clérigos tower,18221561,Filipa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.144,-8.61573,Entire home/apt,59,3,403,2024-08-31,3.49,2,340,29,85444/AL
+4494431,Historical center beautiful ap,18221561,Filipa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14587,-8.61411,Entire home/apt,77,3,415,2024-08-30,3.60,2,325,42,85444/AL
+3472761,No coração da cidade,17494296,Teresa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14687,-8.60686,Entire home/apt,73,3,71,2024-09-06,0.71,1,332,14,70262/AL
+3476384,Downtown apartment,17510723,Luís,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15074,-8.61312,Entire home/apt,,2,293,2019-10-19,2.37,1,0,0,74530/AL
+3498136,OX Apartments- Taipas 4,1630185,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14236,-8.61676,Entire home/apt,98,1,14,2024-06-26,0.11,14,18,2,5929/AL
+3533135,Own Places | Casa de Campo com Piscina,2220420,Tomás,PÓVOA DE VARZIM,Balazar,41.40068,-8.60509,Entire home/apt,248,4,96,2024-08-18,0.78,8,359,9,50232/AL
+3533490,Foz do Douro - Apartment with garden,17789572,Oporto Trendy Apartments,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14839,-8.60289,Entire home/apt,170,1,87,2024-09-01,0.71,18,317,8,5545/AL
+3536258,CLERIGOS white small studio,12897618,Mário,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14545,-8.61463,Entire home/apt,60,2,776,2024-09-07,6.29,21,303,99,45802/AL
+3540755,Cedofeita Studio - City view,17789572,Oporto Trendy Apartments,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14839,-8.60285,Entire home/apt,90,1,16,2024-06-02,0.13,18,338,1,5545/AL
+3540828,São Nicolau - Studio wtih balcony and garden view,17789572,Oporto Trendy Apartments,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14838,-8.60291,Entire home/apt,105,1,5,2023-10-15,0.04,18,318,1,5545/AL
+3547240,Apartment Vista Mar and Douro,17858352,Cristina,PORTO,Lordelo do Ouro e Massarelos,41.1494,-8.65667,Entire home/apt,102,3,13,2023-10-19,0.11,1,300,1,20655/AL
+3551120,"Loft histórico, elegante e acolhedor",16816071,Miguel E Veronica,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14334,-8.61802,Entire home/apt,,999,193,2024-08-26,2.49,5,318,34,67336/AL
+3555572,Charm 2 bedroom flat in the center,2901203,Carolina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14374,-8.61122,Entire home/apt,79,2,260,2024-09-08,2.10,1,302,43,35627/AL
+3562813,Uber Flat Low Cost,17938370,Pedro & Ana,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13421,-8.60905,Entire home/apt,,3,151,2023-10-30,1.35,1,0,5,81676/AL
+3566812,S. Bento II - Studio,2891070,Stay In,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14483,-8.61216,Entire home/apt,148,1,3,2022-11-03,0.03,3,319,0,
+3572677,Azulejos,14667345,Maria Manuela,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14403,-8.611,Entire home/apt,129,2,22,2024-06-25,0.20,4,312,1,45863/AL
+3577506,Oporto Center SI2,1266562,Lovely,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1466,-8.6022,Entire home/apt,87,2,224,2023-11-04,1.82,18,302,2,7045/AL
+3621418,Large family apartment just steps from the Metro,4045372,Sylvain,GONDOMAR,Rio Tinto,41.1782,-8.54684,Entire home/apt,71,3,80,2024-09-07,0.89,1,9,19,
+3633620,Traços d'Outrora - Casa Paço de Mato,18318580,Isabel,VALE DE CAMBRA,Roge,40.86812,-8.34138,Entire home/apt,145,2,8,2023-09-24,0.07,4,270,1,11811
+3633819,Traços D'Outrora - Casa Custódio,18318580,Isabel,VALE DE CAMBRA,Roge,40.86723,-8.34274,Entire home/apt,81,2,16,2024-07-28,0.14,4,268,4,11911
+3634070,Traços D'Outrora - Casa Rosalina,18318580,Isabel,VALE DE CAMBRA,Roge,40.86744,-8.34172,Entire home/apt,204,2,19,2024-07-27,0.22,4,270,1,12011
+3640693,MyRiverPlace N.2  Oporto Apartments,1872636,Pedro,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13881,-8.60972,Entire home/apt,120,2,627,2024-09-04,5.40,5,147,91,62445/AL
+3660051,Belly Angel - Porto Historic Center,12759224,Confeitaria Primar,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14708,-8.61664,Entire home/apt,137,3,123,2024-09-03,1.00,5,227,19,5648/AL
+3673910,Private room in 19th cent House,14030346,Francisca,PORTO,Bonfim,41.15065,-8.59438,Private room,59,2,212,2024-09-08,1.72,1,197,8,68026/AL
+3693504,Top condominium with ocean view!,3297687,Hugo,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15301,-8.67,Entire home/apt,172,5,33,2024-09-08,0.29,1,146,15,Exempt
+3694971,Spacious suite with sunny terrace and bathroom 1T,2606384,Fernanda,PORTO,Bonfim,41.15075,-8.60162,Private room,48,5,197,2024-08-27,1.61,10,306,20,34439/AL
+3723364,Porto Music House B&B,19020262,Ana,PORTO,Lordelo do Ouro e Massarelos,41.1592,-8.63587,Private room,38,2,488,2024-09-12,3.97,1,307,64,
+3728270,Foz House®: holidays in Oporto (V2),19046923,Luís,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.14988,-8.67446,Entire home/apt,,2,1,2014-08-15,0.01,1,0,0,
+3730996,Porto Center - Indian Soul,19065705,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16192,-8.60917,Private room,37,1,381,2024-09-10,3.10,3,324,51,0000
+3790726,Charming & Unique City Flat,19458554,Filomena & Ana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15386,-8.60802,Entire home/apt,140,3,416,2024-08-30,3.39,4,212,52,10052/AL
+3802603,Surfers Apartment at Leça,19536510,Fernando,MATOSINHOS,Matosinhos e Leça da Palmeira,41.19255,-8.70451,Entire home/apt,60,1,99,2024-09-12,0.82,1,319,36,
+3805570,Downtown Studio,19555501,Tomé,PORTO,Bonfim,41.14919,-8.59906,Entire home/apt,68,21,134,2024-08-01,1.46,2,77,4,
+3841477,Studio1 kitcnhet and wc Clean&Safe certified HACCP,6369029,Teresa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15352,-8.60822,Private room,21,2,143,2024-09-12,1.46,14,19,24,
+3855420,ORM - Sé Apartment,19887538,Oporto Rental Management,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14328,-8.60964,Entire home/apt,135,2,362,2024-06-10,2.95,50,331,9,22943/AL
+3858091,Central Luxurious Room with private WC,19903319,Maria & Paolo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16078518085623,-8.632113874191178,Private room,60,3,243,2024-09-08,2.12,1,177,4,69069/Al
+3875989,crowntown apartment 2a,162260366,Diogo & Christiana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15228,-8.60813,Entire home/apt,82,2,530,2024-08-24,5.64,7,19,90,74415/AL
+3896546,Oásis Tranquility House,20171706,Sara,VILA DO CONDE,Mindelo,41.30819,-8.72859,Entire home/apt,110,3,8,2023-09-26,0.07,1,362,1,
+3899955,OX Apartments  - B. Arts I,4656501,Ox,PORTO,Bonfim,41.14622,-8.59918,Entire home/apt,91,1,23,2024-07-24,0.19,10,336,11,132340/AL
+3900636,Studio with Balcony with Garden View,20011978,Tiago,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15142,-8.61034,Entire home/apt,155,2,20,2019-12-27,0.17,5,253,0,94824/AL
+3901757,OX Apartments  - B. Arts II,4656501,Ox,PORTO,Bonfim,41.14565,-8.6002,Entire home/apt,87,1,4,2023-08-08,0.04,10,349,0,133231/AL
+3902773,Studio Deluxe with City View,20011978,Tiago,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15208,-8.61061,Entire home/apt,126,2,34,2024-06-09,0.30,5,223,4,94824/AL
+3902889,OX Apartments  - B. Arts III,4656501,Ox,PORTO,Bonfim,41.1463,-8.59903,Entire home/apt,107,1,26,2024-08-27,0.21,10,348,3,133235/AL
+3907554,Charming Vanessa's House,3367367,Vanessa,PORTO,Campanhã,41.16063,-8.59056,Private room,50,1,288,2024-09-11,2.36,1,305,38,69835/AL.
+3910004,Studio in the center with balcony,20011978,Tiago,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15188,-8.61115,Entire home/apt,147,2,50,2017-10-16,0.42,5,231,0,94824/AL
+3910405,Loft with Garden View,20011978,Tiago,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15317,-8.6103,Entire home/apt,181,2,50,2024-07-19,0.43,5,221,5,94824/AL
+3910618,Central Loft with AC and Garden,20011978,Tiago,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15203,-8.60963,Entire home/apt,176,2,98,2024-08-31,0.82,5,272,14,94824/AL
+3912953,City Silhouette,20267107,Francisco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14439,-8.6109,Entire home/apt,70,2,245,2020-10-22,2.00,2,0,0,15133/AL
+3915339,City Double View,20267107,Francisco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14269,-8.6082,Entire home/apt,70,2,233,2020-03-01,1.90,2,0,0,15136/AL
+3920836,Casa da Nininha,20310699,Andre,VALE DE CAMBRA,Roge,40.85447,-8.36033,Entire home/apt,800,1,0,,,7,111,0,
+3929749,Casa da Nininha - T1 Duplex Verde,20310699,Andre,VALE DE CAMBRA,Roge,40.85497,-8.3608,Entire home/apt,120,2,0,,,7,112,0,
+3930080,Casa da Nininha - T1 Amarelo,20310699,Andre,VALE DE CAMBRA,Roge,40.85625,-8.36027,Entire home/apt,110,2,1,2016-08-31,0.01,7,113,0,
+4801285,Your Apartment in Oporto center,13611961,Sílvia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15479431766359,-8.609130196273327,Entire home/apt,37,2,701,2024-09-06,5.94,2,222,66,4115/AL
+4807745,Apartamento do Bolhão 2,23867672,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.151123046875,-8.607298851013184,Entire home/apt,220,3,157,2024-08-20,1.33,2,77,19,5327/AL
+4845090,Douro Balcony Apartment,24931178,Cristina,PORTO,Campanhã,41.14385,-8.58665,Entire home/apt,179,2,138,2024-08-25,1.51,1,161,10,50533/AL
+4862493,"LV Premier Clerigos RE1- AC, elevator, river view",181902,Jose Luz,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14611,-8.62047,Entire home/apt,309,1,207,2024-09-08,1.79,4,300,36,8458/AL
+4888144,Spacious top floor apartment in the heart of Porto,15944410,Sofia And Matthew,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1462,-8.61151,Entire home/apt,203,2,208,2024-08-23,1.80,1,201,25,50930/AL
+4898509,Musical Porto,22895173,Sandra,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16075,-8.62362,Entire home/apt,160,3,7,2020-01-02,0.06,4,317,0,6091/AL
+4898803,Musical View II,22895173,Sandra,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16091,-8.62478,Entire home/apt,170,3,15,2022-05-13,0.15,4,317,0,5015/AL
+4944536,Picaria Rooftop Apartment,23140684,André & Rita,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14994,-8.61386,Entire home/apt,78,2,283,2024-09-13,2.53,3,275,53,38212/AL
+4986513,Casa do Paúl - Estúdio aconchegante na aldeia,4346713,Dulce,AROUCA,Canelas e Espiunca,40.99008,-8.21404,Entire home/apt,85,2,111,2024-09-10,0.96,2,363,21,
+5008643,"BESTofNature:Porto CityPark/ocean Matosinho, METRO",25831854,Sofia,MATOSINHOS,Matosinhos e Leça da Palmeira,41.17911911010742,-8.674613952636719,Private room,47,3,112,2024-07-08,1.26,2,265,14,44419/AL
+5009652,"#Near the City Park,  the Serralves, and the Ocean",13302428,Maria,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.17015,-8.66416,Private room,31,7,90,2024-06-16,0.80,4,96,4,36265/AL
+5017876,Mansion LA - Porto - heated pool,21798541,Andreia,VILA NOVA DE GAIA,Arcozelo,41.05521,-8.65148,Entire home/apt,990,3,29,2024-08-17,0.98,2,351,9,
+5038239,"Apartment - Boavista, Porto",26008149,Maria,PORTO,Ramalde,41.16134,-8.6429,Entire home/apt,,3,9,2016-08-14,0.08,1,0,0,
+5042881,6 min metro Oporto downtown house,19011000,Mario,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.13023,-8.60679,Entire home/apt,,2,27,2019-08-25,0.24,1,0,0,
+5045898,Cosy Room on the beach - Espinho,4487775,Vitor,ESPINHO,Espinho,41.01024,-8.64453,Private room,65,2,130,2024-09-07,1.28,2,268,14,52007/AL
+5049948,ORM - Cristal Apartment,19887538,Oporto Rental Management,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14768,-8.62211,Entire home/apt,99,2,299,2023-10-28,2.56,50,327,4,64646/AL
+5077724,Central  charming Top floor - nice views,26222276,A.Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1429,-8.61595,Entire home/apt,76,3,288,2024-09-11,2.50,1,240,35,3171/AL
+5083905,Baixa24 - City Center Private Sun Deck Apt,21680966,Mario,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14933,-8.60388,Entire home/apt,150,1,206,2024-08-26,1.78,4,287,34,1584/AL
+5091142,Spacious and Bright @ City Center,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14511,-8.61126,Entire home/apt,196,3,88,2023-06-08,0.76,23,331,0,11090/AL
+5093433,Baixa Ap-Vintage Spacious-Downtown,26316857,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15445,-8.60353,Entire home/apt,267,2,156,2024-08-17,1.47,1,316,28,5930/AL
+5111728,Sunny with Balcony @ City Center,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14332,-8.61112,Entire home/apt,213,4,237,2024-08-18,2.04,23,243,25,11093/AL
+5112063,Stylish Mezzanine @City Center,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14498,-8.61187,Entire home/apt,224,4,220,2024-08-23,1.89,23,314,14,11096/AL
+5112439,Charm & Cosy Virtudes Apartment,26415384,Arnaldo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14551,-8.61752,Entire home/apt,68,2,29,2020-01-21,0.25,7,0,0,82216/AL
+5112631,Duplex with Balcony@ City centre,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14566,-8.61172,Entire home/apt,106,3,68,2023-12-15,0.59,23,321,2,11092/AL
+5112992,Luxury for 2@ City Centre,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1454,-8.61315,Entire home/apt,106,3,72,2024-02-22,0.62,23,316,2,11094/AL
+5113224,Romantic for 2@ city center,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14363,-8.61315,Entire home/apt,106,2,133,2023-11-05,1.14,23,305,5,11095/AL
+5116080,Beach house,26436988,Surf & Olives,VILA NOVA DE GAIA,Canidelo,41.11602,-8.65648,Entire home/apt,63,2,236,2024-09-12,2.09,3,361,15,
+5129962,Sea view apartment - Foz do Douro,23339323,Miguel,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15041,-8.67622,Entire home/apt,240,1,59,2024-08-06,0.53,2,356,4,65099/AL
+5190799,Apartment century XIX (1),20397743,Patrícia E Bruno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14972,-8.61577,Entire home/apt,72,2,578,2024-09-09,4.94,8,322,56,
+5198481,BBA Apartments Boavista - Casa da Música w/parking,21770105,António,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1553312,-8.6261483,Entire home/apt,149,2,180,2024-06-24,1.59,3,184,4,120760/AL
+5202443,"Casa De Praia ,Mindelo ,Vila Do Conde, Porto",23417452,Amandio/Paula,VILA DO CONDE,Mindelo,41.31216,-8.73077,Entire home/apt,65,2,6,2024-08-03,0.05,1,348,1,60084/AL
+4500216,"Flattered to be in Porto, Apartment",23339323,Miguel,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15041,-8.67622,Entire home/apt,185,1,42,2024-08-22,0.37,2,339,12,65101/AL
+4586119,Citybreak - Apartments - DouroView,2686177,Citybreak,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14405,-8.61784,Entire home/apt,224,1,18,2024-08-25,0.15,27,82,2,45339/AL
+4588483,Wine Apartments lll - Ribeira Studio by LovelyStay,7260938,Carlos,PORTO,Campanhã,41.1473487,-8.5735551,Entire home/apt,65,2,98,2023-06-08,0.89,3,247,0,6471/AL
+4591311,Domum | Turistic Apart. T0 - P1,23800078,Domum,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14927,-8.61987,Entire home/apt,95,2,18,2023-08-18,0.16,5,318,0,55903/AL
+4591622,Domum | Turistic Apart.  T0 - P2,23800078,Domum,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14957,-8.62079,Entire home/apt,95,2,7,2023-12-25,0.06,5,307,1,19703/AL
+4606080,Apartamento do Bolhão 1,23867672,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15026,-8.60765,Entire home/apt,220,4,139,2024-08-20,1.18,2,298,19,5227/AL
+4609308,Beautiful Beach House. Great Views over the Sea,23883458,Laura,VILA NOVA DE GAIA,Madalena,41.10318,-8.6604,Entire home/apt,185,4,42,2024-09-02,0.37,2,347,6,
+4634647,BATALHA CONTEMPORARY LOFT,23999273,Emanuel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1453,-8.6082,Entire home/apt,123,2,171,2024-08-13,1.46,1,131,5,82938/AL
+4658937,Almada - Cozy Apartment,24109574,Maria Joao,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15129,-8.61199,Entire home/apt,74,2,129,2024-08-12,1.09,4,251,11,20524/AL
+4664676,Terrace Apart.Deluxe for 2/4 Guests,24109574,Maria Joao,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15065,-8.61178,Entire home/apt,102,2,99,2024-08-18,0.84,4,38,8,20523/AL
+4682824,ChillHouse_Porto Bonjardim,16944558,Juliana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15276,-8.60804,Entire home/apt,97,2,276,2024-08-26,2.34,6,209,26,22464/AL
+4722622,Almada Studio Flat - Porto,24393794,Almada,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14906,-8.61094,Entire home/apt,,2,350,2021-05-30,2.96,1,365,0,5651/AL
+4742283,Baixa24 - P3R - Double Studio Historic Center,252729505,Alex,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14932,-8.61299,Entire home/apt,51,1,789,2024-08-19,6.63,16,252,35,12475/AL
+4765818,Cosy farm on the middle of nature,3290522,Guilherme,OLIVEIRA DE AZEMÉIS,"O. Azeméis, Riba-Ul, Ul, Macinhata da Seixa, Madail",40.83623,-8.49356,Entire home/apt,80,3,64,2024-08-24,0.56,2,350,8,49186/AL
+4793404,Roof terrace apartment in Porto's city centre,23423950,Martha,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14632,-8.61214,Entire home/apt,148,2,584,2024-08-30,4.99,2,212,65,342/AL
+4800002,Porto's main square penthouse apartment,23423950,Martha,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14632,-8.61214,Entire home/apt,177,2,572,2024-08-21,4.88,2,192,57,26435/AL
+5695138,Make yourself at home!,29525698,Sara,MATOSINHOS,"Custóias, Leça do Balio e Guifões",41.1906,-8.62896,Entire home/apt,,7,170,2020-01-04,1.48,1,0,0,47026/AL
+5716817,Sunny Room With Private Balcony,29634304,Jose,PORTO,Ramalde,41.16291,-8.63243,Private room,,3,72,2019-06-23,0.73,1,0,0,Exempt
+5752278,Av Apartments I,2015743,Susana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14841,-8.60305,Entire home/apt,55,1,154,2024-08-22,1.36,6,314,2,24343/AL
+5756330,Apartamento Século XIX 2,20397743,Patrícia E Bruno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14949,-8.61547,Entire home/apt,79,1,654,2024-09-13,5.74,8,0,76,
+5760491,Best Location Porto,26124658,Madalena,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.16044,-8.66561,Entire home/apt,122,30,9,2024-08-27,0.10,1,303,4,
+5804599,Sun Room at Fatima's House - Cedofeita,30068812,Fátima,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15726,-8.61755,Private room,100,1,164,2023-11-06,1.61,2,308,2,95831/AL
+5824521,House for conference groups in Porto,30231944,Sara,PORTO,Bonfim,41.14895,-8.60177,Entire home/apt,435,2,232,2022-10-18,2.03,1,76,0,
+5836251,Bonjardim OportoStay Loft,2730238,Daniel Y Nuno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15262,-8.60844,Entire home/apt,107,2,244,2024-09-08,2.19,16,309,33,23111/AL
+5845099,SãoMiguelApartments HistoricalCenter SuperiorApart,3469454,Lígia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14266,-8.61745,Entire home/apt,177,1,158,2024-09-12,1.40,6,259,17,23686/AL
+5849647,studio apartment downtown 3 balcony,1266562,Lovely,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14697,-8.6026,Entire home/apt,94,2,197,2023-12-03,1.71,18,293,2,6783/AL
+5872863,Welcome to my city 2,15950531,Carlos & Cristina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14175,-8.61748,Entire home/apt,68,2,619,2024-08-29,5.43,4,254,53,25717/AL
+5883347,River & Ocean– Cozy independent Studio,15979825,Gabriela & Carina,PORTO,Lordelo do Ouro e Massarelos,41.15437,-8.64793,Entire home/apt,61,3,227,2024-09-01,1.98,7,242,38,45618/AL
+5901450,Good vibe apartment center Porto:),30650556,Trindade,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15454,-8.60968,Entire home/apt,65,3,152,2023-10-08,1.36,1,256,1,49994/AL
+5904279,Douro's romantic apartment,30666076,Ines,PORTO,Lordelo do Ouro e Massarelos,41.1469,-8.62967,Entire home/apt,,3,24,2020-05-01,0.23,1,0,0,26341/AL
+5908623,ORM - Ribeira Apartment,19887538,Oporto Rental Management,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14132,-8.61381,Entire home/apt,113,2,452,2024-08-28,3.94,50,302,24,34099/AL
+5927865,T2 Recuado praia,28801778,Jorge,VILA DO CONDE,Mindelo,41.30802,-8.73684,Entire home/apt,64,5,46,2024-08-19,0.41,1,211,9,44674/AL
+5930468,Porto Downtown River 1,12412664,Dolores,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14466,-8.61865,Entire home/apt,108,3,264,2024-07-23,2.31,4,159,23,28995/AL
+5946303,GuestReady - Belle Epoque Apartments,15809545,Olivia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14218,-8.61437,Entire home/apt,67,1,232,2024-09-10,2.03,7,308,50,14519 AL
+5946314,Casa de Praia,30869655,Carlos,PÓVOA DE VARZIM,"AVer-o-Mar, Amorim e Terroso",41.40713,-8.78183,Entire home/apt,114,2,151,2024-09-07,1.32,1,147,16,
+5952517,Apartment with pool view,30900606,Daniela,PORTO,Bonfim,41.15903,-8.59425,Entire home/apt,155,2,160,2024-08-08,1.41,2,47,8,16825/AL
+5962998,Douro Sunset House,30953463,Ricardo,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13696,-8.61101,Entire home/apt,,2,351,2024-08-30,3.08,1,327,29,41012/AL
+5965858,ALMADA APARTMENT DELUXE,24109574,Maria Joao,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15129,-8.61199,Entire home/apt,90,2,93,2024-08-20,0.81,4,317,8,131160/AL
+5975414,Portodouro - Santa Catarina T1,28504504,José,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15312,-8.60487,Entire home/apt,70,3,74,2024-08-10,0.65,9,351,11,7133/AL
+5978381,OX Apartments- Taipas 8,1630185,Ox,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14312,-8.6185,Entire home/apt,119,1,18,2024-07-18,0.16,14,11,1,5929/AL
+5979282,Charming Apartement,31041653,Jorge,VILA NOVA DE GAIA,Madalena,41.10269,-8.65385,Entire home/apt,164,2,45,2024-08-09,0.45,1,363,3,5979282
+5984513,"House at  Praia  Granja,  70 metros from the beach",29982944,Denir,VILA NOVA DE GAIA,São Félix da Marinha,41.04017,-8.64791,Private room,59,2,9,2023-09-03,0.08,1,364,0,
+5998549,Beach House (Plage/Praia) Aguda PRT,11619726,Elisa,VILA NOVA DE GAIA,Arcozelo,41.04893,-8.65438,Entire home/apt,110,2,155,2024-08-26,1.37,3,333,17,85162/AL
+5998995,Liiiving in Porto | Garden Pool House,30907275,Liiiving,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.157422,-8.6759408,Entire home/apt,170,2,44,2024-08-11,0.39,118,233,5,78404/AL
+6004502,Suite Prestige - Bedroom with private bathroom,31169881,Óscar E Cris,PORTO,Lordelo do Ouro e Massarelos,41.15473,-8.66262,Private room,,2,13,2019-08-20,0.15,1,0,0,
+6004674,Loft Almada 4 guests,24109574,Maria Joao,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15129,-8.61199,Entire home/apt,101,2,46,2024-08-17,0.40,4,162,5,210947/AL
+6011027,Feel Porto Ribeira Vintage Duplex,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14116,-8.61329,Entire home/apt,750,1,172,2024-08-28,1.52,102,306,26,26386/AL
+6017900,Design Sea House,31237141,João - Rita,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15483,-8.67693,Entire home/apt,119,2,197,2024-08-30,1.73,7,323,13,50893/AL
+6025752,Vintage Apt I 10-12 People - 2 Free Parking,31222173,Marta,PORTO,Bonfim,41.155888,-8.602356,Entire home/apt,263,2,117,2023-04-13,1.02,3,273,0,24177/AL
+6027245,Portodouro - Santa Catarina T8,28504504,José,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15312,-8.60487,Entire home/apt,141,3,42,2024-08-24,0.37,9,365,3,6701/AL
+6029395,Cosy flat at 5min from center Porto,31292333,Andreia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15995,-8.63193,Entire home/apt,41,2,353,2024-08-30,3.13,1,304,54,10231/AL
+6051047,Casa do Plátano,31399107,Maria De Los Angeles,VILA NOVA DE GAIA,Arcozelo,41.040882,-8.650163,Entire home/apt,195,4,123,2024-08-21,1.11,1,286,21,22876/AL
+6051166,Av Apartments Ii,2015743,Susana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14725,-8.60322,Entire home/apt,63,1,174,2024-09-06,1.54,6,315,19,24343/AL
+6076851,The Casa da Música apartment,31542272,Alina,PORTO,Ramalde,41.16581,-8.63409,Entire home/apt,,2,71,2017-10-14,0.63,1,0,0,
+6086669,Apartment Sao Nicolau Porto,6410302,Luis,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.13995,-8.61535,Entire home/apt,79,2,451,2024-09-09,3.97,2,292,52,7057/AL
+6086770,Porto Architecture and Cool Design,692475,Carlos,PORTO,Paranhos,41.16781,-8.59408,Entire home/apt,80,2,19,2023-10-14,0.17,1,317,1,19068/AL
+6116557,Praia do Mindelo,31734205,Carlos,VILA DO CONDE,Mindelo,41.31072,-8.73913,Entire home/apt,38,90,8,2019-08-03,0.07,1,362,0,
+6120374,Home Made Guest Studios - S.João,16211101,Maria,PORTO,Bonfim,41.14538,-8.59477,Entire home/apt,70,3,18,2023-09-01,0.16,11,0,0,11997/AL
+6125585,Home Made Guest Studios - D. Maria,16211101,Maria,PORTO,Bonfim,41.15039,-8.59487,Entire home/apt,57,1,9,2019-09-27,0.09,11,0,0,11992/AL
+6126278,Home Made Guest Studios - D. Luis,16211101,Maria,PORTO,Bonfim,41.14542,-8.59323,Entire home/apt,68,1,16,2022-08-18,0.14,11,0,0,11989/AL
+6126597,Home Made Guest Studios - Arrábida,16211101,Maria,PORTO,Bonfim,41.1453,-8.59515,Entire home/apt,68,1,45,2022-10-01,0.39,11,0,0,11986/AL
+6127893,Home Made Guest Studios - Freixo,16211101,Maria,PORTO,Bonfim,41.14706,-8.59321,Entire home/apt,68,1,27,2019-07-27,0.24,11,0,0,11996/AL
+6134963,Ground floor flat in Garden,31731597,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16189,-8.61173,Entire home/apt,83,5,49,2022-08-28,0.43,5,29,0,65806/AL
+6146507,Porto townhouse flat-walk to center,31731597,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1637,-8.61073,Entire home/apt,74,5,39,2024-08-23,0.34,5,67,2,9825
+6151673,"LVPremier Clerigos RE2- space, lift, AC, balcony",181902,Jose Luz,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14607,-8.62058,Entire home/apt,421,1,138,2024-08-14,1.24,4,309,28,112665/AL
+6151900,Feel Porto Downtown Poets Flat,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1504,-8.6069,Entire home/apt,406,1,80,2024-06-25,0.71,102,279,10,18668/AL
+6152236,Feel Porto Historic Cozy Flat,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1433,-8.60986,Entire home/apt,143,1,39,2024-08-24,0.35,102,339,1,26403/AL
+6152287,Feel Porto Historic Boutique Flat,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14333,-8.60987,Entire home/apt,156,1,115,2024-06-07,1.02,102,328,5,26389/AL
+6158660,Fantastic Apartment close to Center,31950563,Nelson,PORTO,Lordelo do Ouro e Massarelos,41.14646,-8.63102,Entire home/apt,,4,243,2024-08-21,2.13,1,7,15,7815/AL
+6167473,Home sweet Home!,31995253,Denise,VILA NOVA DE GAIA,São Félix da Marinha,41.02578,-8.63036,Entire home/apt,69,3,145,2024-09-07,1.30,1,282,18,51262/AL
+6184227,Cedofeita - BednBike,32076925,Franceline,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15731,-8.62223,Entire home/apt,,3,215,2021-10-16,2.13,1,0,0,82280/AL
+6184486,Serena's House - 1st line of the beach,13748110,G. Carriços,VILA DO CONDE,Vila Chã,41.29253,-8.73369,Entire home/apt,110,2,101,2024-07-13,0.92,1,248,25,AL12370
+6197372,Bedroom in the centre-Trindade,2514783,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.156089782714844,-8.609228134155273,Private room,49,4,87,2024-08-11,0.78,4,266,6,102656/AL
+5219004,Domum  | Turistic Apart. T1 Duplex,23800078,Domum,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14923,-8.62008,Entire home/apt,105,2,4,2023-07-29,0.03,5,306,0,19702/AL
+5237978,Feel Porto Photo Downtown Flat,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15009,-8.60684,Entire home/apt,360,1,65,2024-08-23,0.57,102,156,8,26385/AL
+5266672,Poveiros duplex apartment,18651903,Paulo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14742,-8.60265,Entire home/apt,,2,283,2020-03-15,2.43,3,0,0,66582/AL
+5270632,Luxury Apartment Riverwiew Garden,27267172,Marcos,PORTO,Lordelo do Ouro e Massarelos,41.14898,-8.63417,Entire home/apt,69,2,124,2024-06-25,1.17,8,0,2,20542/AL
+5283892,traditional and Charming house,14948298,Maria De Lourdes,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14914,-8.60486,Entire home/apt,81,2,609,2024-09-12,5.24,2,281,51,44073/AL
+5291799,Porto Insight Apartment - Bainharia free wi-fi,25741929,Anisabel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14419,-8.6133,Entire home/apt,247,2,197,2024-08-31,1.70,4,272,50,7979/AL
+5296858,Suite dans Grande propriété Quinta de Sto Antonio,27433928,Marie,TROFA,Muro,41.28532,-8.59104,Private room,80,2,57,2024-08-24,0.50,2,333,4,
+5312175,Oporto FR Cativo Flat,27518920,Fábio,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14457,-8.6075,Entire home/apt,96,2,249,2024-06-23,2.14,4,297,19,10484/AL
+5316637,Meet Porto Apartment,13776260,Francisco,MATOSINHOS,São Mamede de Infesta e Senhora da Hora,41.18629,-8.66123,Entire home/apt,124,2,9,2023-07-27,0.08,4,323,0,8352/AL
+5317199,Porto Centro SI4,1266562,Lovely,PORTO,Bonfim,41.1479,-8.60042,Entire home/apt,92,2,227,2023-12-06,1.98,18,289,4,7042/AL
+5326623,"House in the city centre of Porto, free WiFi",21204371,Herminio,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1432,-8.60261,Entire home/apt,66,2,277,2024-09-07,2.69,2,192,30,34661/AL
+5332449,T I + I  CASA MUSICA - 6 Metro,20684504,Fernando,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16017,-8.63266,Entire home/apt,,1,6,2018-04-01,0.05,1,0,0,
+5351789,"Óporto.INguest, "" Unique experience residence """,27738605,António Manuel Pereira,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1627,-8.6209,Entire home/apt,145,3,108,2024-08-15,0.94,5,309,6,Exempt
+5405099,cozy studio 2 in downtown Porto,1266562,Lovely,PORTO,Bonfim,41.14644,-8.59939,Entire home/apt,94,2,180,2023-08-18,1.55,18,295,0,109483/AL
+5409513,SeaBreezeApartment-Wonderfull 1stline at the beach,28042320,Maria Angelina,VILA DO CONDE,Vila Chã,41.30262,-8.73697,Entire home/apt,75,30,11,2018-08-04,0.10,1,351,0,34075/AL
+5465136,Casa de Salgueiros,5810647,José,PORTO,Paranhos,41.16996,-8.59715,Entire home/apt,280,3,29,2024-08-09,0.25,2,0,1,10248/AL
+5473921,JF Cozy Apartment DOWNTOWN,28389484,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14778,-8.61501,Entire home/apt,76,2,350,2024-09-01,3.03,2,343,17,10994/AL
+5495303,Your FLAT in Oporto,13611961,Sílvia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1547874,-8.6092432,Entire home/apt,32,2,641,2024-09-11,5.52,2,142,74,8976/AL
+5496215,Portodouro - Santa Catarina T1,28504504,José,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15399,-8.60518,Entire home/apt,73,3,74,2024-05-05,0.64,9,356,2,6714/AL
+5523392,A HOUSE WITH A VIEW-Historic centre,491241,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14551,-8.62066,Entire home/apt,147,2,335,2024-08-31,3.14,1,229,36,21443/AL
+5524457,Casa do Souto a home with a soul in the city heart,7333910,Bárbara,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14403,-8.61217,Entire home/apt,68,2,618,2024-09-08,5.36,2,123,70,45726/AL
+5535020,"""Casa do Sol"" Apartment",28701258,Fernando,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14247,-8.60636,Entire home/apt,130,3,199,2024-09-13,1.74,3,282,26,11254/AL
+5555465,Portodouro - Ribeira T3 with Terrace,28504504,José,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14122,-8.61723,Entire home/apt,143,3,100,2024-08-23,0.87,9,57,16,7334/AL
+5557541,Apartment with balcony and city view by YoursPorto,1675750,YoursPorto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14002,-8.61518,Entire home/apt,138,1,46,2024-02-07,0.40,21,330,2,17887/AL
+5559762,Praia de Matosinhos Apartment,21680966,Mario,MATOSINHOS,Matosinhos e Leça da Palmeira,41.17794,-8.68651,Entire home/apt,250,3,8,2023-10-01,0.60,4,155,3,
+5564802,Qta São Miguel de Arcos Double Room,28851633,António,VILA DO CONDE,Rio Mau e Arcos,41.39736,-8.66507,Private room,110,1,10,2024-07-13,0.09,2,314,1,
+5565358,Qta. São Miguel de Arcos -Apartment,28851633,António,VILA DO CONDE,Rio Mau e Arcos,41.39719,-8.66681,Entire home/apt,125,1,8,2022-07-29,0.08,2,313,0,
+5577090,Space Alegria | Oporto Históric Center,28804031,Joana E Cláudio,PORTO,Bonfim,41.14393,-8.59876,Entire home/apt,58,1,224,2024-08-29,2.17,2,332,34,94270/AL
+5577233,Panoramic Douro view | Porto center,28804031,Joana E Cláudio,PORTO,Bonfim,41.143433,-8.598764,Entire home/apt,59,1,263,2024-08-30,2.56,2,227,43,94270/AL
+5598123,My Home,29023581,"Paulo Filipe Soares Unipessoal, Lda",MATOSINHOS,Matosinhos e Leça da Palmeira,41.17431,-8.68801,Entire home/apt,68,2,13,2017-07-05,0.11,1,0,0,
+5610891,ALUGO T2 EM EDIFÍCIO FRENTE AO MAR,29086774,Manuel,PÓVOA DE VARZIM,"AVer-o-Mar, Amorim e Terroso",41.39773,-8.77697,Entire home/apt,,8,3,2022-09-25,0.08,1,0,0,
+5634327,Traços D'Outrora - Casinha da Matilde,18318580,Isabel,VALE DE CAMBRA,Roge,40.86804,-8.34097,Entire home/apt,73,2,17,2024-05-04,0.15,4,248,1,83849/AL
+5652195,GuestReady - Belle Epoque Apartments,15809545,Olivia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14446,-8.61418,Entire home/apt,71,1,198,2024-09-05,1.80,7,309,27,13952 AL
+5652257,GuestReady - Belle Epoque Apartments,15809545,Olivia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1429,-8.61374,Entire home/apt,65,1,175,2024-09-07,1.61,7,334,33,14519/AL
+5682890,Apartment by the Beach - 20282/AL,27461678,Inês,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15544,-8.67924,Entire home/apt,70,2,146,2024-08-05,1.28,1,92,11,20282/AL
+5684880,Heartmade loft 1,17039060,Lofts Of Sensations,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15171,-8.6138,Entire home/apt,84,2,271,2024-08-30,2.36,9,315,16,26856/AL
+5691828,Peaceful cottage near the centre of Porto,29508532,Catarina,PORTO,Ramalde,41.18018,-8.64345,Entire home/apt,,2,169,2020-02-29,1.47,1,0,0,89950/AL
+5695121,Casa da Catedral - historic centre,12626324,Nuno E Raquel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14332,-8.60964,Entire home/apt,65,3,374,2024-09-09,3.31,2,144,37,20402/AL
+6314015,Dream_Casa Sol_double bed_private bathroom_Terrace,32847499,Isa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15785,-8.61033,Private room,58,2,413,2024-08-25,3.65,2,332,22,38659/AL
+6325437,"Room ""HAPPY"", private residence.",27738605,António Manuel Pereira,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16387,-8.62122,Private room,28,3,15,2022-05-15,0.13,5,203,0,Exempt
+6340779,Guesthouse Pool&Sea Espinho Oporto,6317610,Isa,ESPINHO,Anta e Guetim,40.99946,-8.61571,Private room,70,2,33,2023-08-24,0.30,2,365,0,
+6370960,"Room ""Time"", private residence.",27738605,António Manuel Pereira,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16228,-8.62059,Private room,28,3,10,2022-05-16,0.09,5,204,0,Exempt
+6371859,"Room ""Zen"", private residence.",27738605,António Manuel Pereira,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16244,-8.61758,Private room,35,3,31,2023-09-30,0.27,5,204,1,Exempt
+6376990,Balcony of Douro riverfronts,33237153,Bruno,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13823,-8.60969,Private room,87,2,591,2024-08-26,5.24,3,279,59,19822/AL
+6377183,Viewpoint of Douro riverfronts,33237153,Bruno,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13813,-8.6098,Private room,74,2,601,2024-08-27,5.31,3,242,66,19822/AL
+6381549,casabonjardim - historic center,32737881,Irene Jesus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15386,-8.60782,Entire home/apt,65,3,293,2024-09-02,2.59,2,162,30,AL-38370
+6387921,"room2duplexapartment, Cedofeita Duplex",33298546,Paula,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15599,-8.61922,Private room,55,2,428,2024-09-02,3.78,4,143,37,116568/AL
+6389332,DOWNTOWN DESIGN APARTMENT – S. Domingos,33308074,Sónia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14134,-8.61529,Entire home/apt,95,3,401,2024-09-05,4.16,1,248,48,55361/AL
+6408219,Explore Porto From a Charming Flat in Se!,18052483,Joao,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14134,-8.6118,Entire home/apt,165,2,680,2024-09-08,5.99,2,261,73,21573/AL
+6410185,Portodouro - Ribeira T3,28504504,José,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14134,-8.61732,Entire home/apt,143,3,33,2024-08-14,0.44,9,60,5,5116/AL
+6429358,Sea man house,33553348,Odete,VILA NOVA DE GAIA,Arcozelo,41.0506262,-8.6545582,Entire home/apt,90,5,133,2024-08-26,1.18,1,195,14,14455/AL
+6430764,Oporto flowers city center,10179479,Mario & Ana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14475,-8.61245,Entire home/apt,50,2,314,2024-08-01,4.07,3,305,55,
+6431078,Oportoflowers In the heart of city,10179479,Mario & Ana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14581,-8.61057,Entire home/apt,50,2,553,2024-08-28,4.88,3,303,73,
+6442433,Large Studio with great views - Clérigos,33634570,Tripas-Coração,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.145214,-8.616166,Entire home/apt,127,2,394,2024-08-31,3.49,35,326,22,22170/AL
+6451156,Downtown Terrace Apartment,32788217,Miguel,PORTO,Bonfim,41.1489,-8.60141,Entire home/apt,72,2,524,2024-09-02,4.63,4,142,56,13418/AL
+6456563,charming apartment in downtown Porto 1,1266562,Lovely,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14491,-8.60444,Entire home/apt,99,2,197,2023-11-06,1.74,18,303,1,6766/AL
+6462610,So Cool Hostel Porto!,7226039,So Cool Hostel Porto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15742,-8.62175,Shared room,18,1,46,2022-10-15,0.41,12,256,0,6686/AL
+6462808,Chalé com  grande jardim,33751627,José,MAIA,Águas Santas,41.21682,-8.56017,Entire home/apt,,2,0,,,1,0,0,
+6465708,Porto RiverView flat,24585133,Pedro Gil,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13609,-8.60708,Entire home/apt,125,2,453,2024-08-26,4.05,1,300,55,17988/AL
+6471470,Lvsiadas Apartments - Discover Porto,33807740,Lvsiadas Apartments,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15905,-8.60945,Entire home/apt,62,60,24,2019-08-25,0.21,3,364,0,
+6473474,Poveiros Apartment,18651903,Paulo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14654,-8.60348,Entire home/apt,,2,312,2023-08-20,2.75,3,0,0,66502/AL
+6476113,Private room in the center of city,33832797,Carlos,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15308,-8.60535,Private room,31,2,493,2024-08-26,4.36,2,312,65,62502/Al
+6480040,Downtown Apartment,32788217,Miguel,PORTO,Bonfim,41.14965,-8.60129,Entire home/apt,66,2,506,2024-08-30,4.48,4,126,51,13429/AL
+6491651,Apartamento Galerias,33927255,Paulo,PORTO,Ramalde,41.17554,-8.62789,Entire home/apt,90,3,0,,,1,0,0,14001/AL
+6500420,Douro Sailing - Noite a Bordo,33977763,Pedro,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.14451,-8.64836,Entire home/apt,140,1,97,2024-09-07,0.86,1,274,9,445/2014
+6537835,Garden House,34191664,Bernardo,PORTO,Paranhos,41.18105548210044,-8.612485911610529,Private room,45,2,259,2024-09-07,2.29,2,350,17,Exempt
+6543510,Costa Cabral - Porto Apartment,34222125,Vânia,PORTO,Paranhos,41.16434,-8.60215,Entire home/apt,230,1,120,2024-08-15,1.06,1,336,16,3980/AL
+6575177,Aniki Porto Riverside,17457654,Cláudia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14123,-8.61192,Entire home/apt,126,4,145,2024-08-25,1.30,2,320,20,5916/AL
+6589141,"#1 | OPO | Torrinha | ""Old Radio""",34467922,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15219,-8.61861,Private room,58,2,283,2024-06-10,2.53,6,352,15,24590/AL
+6589914,Sweet roomfor2 - Cedofeita Duplex,33298546,Paula,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15599,-8.61922,Private room,62,2,400,2024-09-02,3.54,4,144,41,116568/AL
+6594422,1 bedroom in historic neighborhood,34499587,Ana Rute,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12864,-8.61205,Entire home/apt,84,1,35,2024-02-02,0.31,9,100,1,115517/AL
+6595523,Trindade House. Cozy fully equiped!,6369029,Teresa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15366,-8.60777,Private room,21,2,127,2024-08-03,1.14,14,2,27,
+6595908,dowtown vintage apartment & patio,8935422,Paula,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14935,-8.60396,Entire home/apt,249,2,195,2024-08-12,1.75,1,221,9,14810/AL
+6609876,Alegria 2º TRS,217380031,Mord,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14899,-8.60457,Entire home/apt,87,1,126,2024-08-07,1.12,7,333,17,66452/AL
+6618221,Superb balcony over Porto & river,33237153,Bruno,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13887,-8.60991,Entire home/apt,165,2,102,2024-08-22,0.99,3,236,23,19822/AL
+6627231,Art & City I,5897201,Marco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15156,-8.61794,Entire home/apt,82,2,296,2024-08-30,2.62,16,326,22,
+6630980,Serralves Park Apartment with Garage,642762,Jorge,PORTO,Lordelo do Ouro e Massarelos,41.1567,-8.65143,Entire home/apt,,200,132,2020-01-26,1.20,1,0,0,45862/AL
+6637885,Clérigos - One bedroom apartment,17789572,Oporto Trendy Apartments,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14671,-8.60299,Entire home/apt,105,1,19,2022-08-20,0.17,18,227,0,35547/AL
+6652840,O´Porto Fontainhas Flat,24404975,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14404,-8.60268,Entire home/apt,80,3,396,2024-09-10,3.51,6,97,26,14683/AL
+6197695,"Casa privada, óptima localização, registo 55860/AL",21037467,Henrique,PORTO,Ramalde,41.17506,-8.6598,Entire home/apt,42,1,23,2020-08-10,0.20,1,47,0,55860/AL
+6205000,Casas do Teatro- STUDIO T0,23703741,Casas,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14464,-8.60807,Entire home/apt,,10,38,2023-03-13,0.34,1,0,0,
+6207399,Cozy apartment next to the beach,32189241,Rui,PÓVOA DE VARZIM,"Póvoa de Varzim, Beiriz e Argivai",41.38804,-8.76984,Entire home/apt,,4,99,2023-09-06,0.89,3,0,0,29911/AL
+6226734,Porto-Casa Piscina Soberbas vistas sobre Rio Douro,15784216,João,GONDOMAR,Melres e Medas,41.05132,-8.38562,Entire home/apt,270,2,44,2024-08-17,0.43,1,330,11,
+6230430,Rosário Arts 1,31641959,Helena,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15042,-8.62094,Entire home/apt,110,3,383,2024-09-08,3.37,4,257,40,5723/AL
+6234120,Villa José Maria,10616005,Sebastiao,GONDOMAR,Foz do Sousa e Covelo,41.07249,-8.50678,Entire home/apt,271,3,12,2024-08-17,0.16,4,337,4,
+6252349,Espaçoso E Luminoso Apartamento perto de Belas Artes,806826,Miguel,PORTO,Bonfim,41.14486,-8.59863,Entire home/apt,300,3,298,2024-09-12,2.64,4,333,35,12613/AL
+6265857,O´Porto Torrinha Flat,24404975,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15322,-8.62281,Entire home/apt,60,3,346,2024-08-30,3.05,6,134,30,11423/AL
+6266178,Quarto single,7782764,João,MATOSINHOS,São Mamede de Infesta e Senhora da Hora,41.19135,-8.60799,Private room,30,5,10,2024-07-27,0.09,4,185,2,
+6272914,Cozy beachfront in Vila do Conde,32601069,Filomena,VILA DO CONDE,Vila do Conde,41.34281498851686,-8.75060987472535,Entire home/apt,120,5,16,2022-06-13,0.14,1,136,0,14835/AL
+6284249,Boavista apartment,32667143,Tiago,PORTO,Ramalde,41.16596,-8.64813,Entire home/apt,,7,9,2017-08-31,0.08,1,0,0,
+6296779,Great 4 bedroom near Casa da Música,5070279,Tiago,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15896,-8.63446,Entire home/apt,233,2,122,2024-08-13,1.08,6,361,7,23392/AL
+6299220,Casa da Trapa- casa de campo,32063640,Amélia,OLIVEIRA DE AZEMÉIS,Vila de Cucujães,40.87473,-8.48486,Entire home/apt,191,2,63,2024-08-12,0.57,1,359,2,5697/AL
+6303739,"Oporto friendly apartment! (0,7km Botanic Garden)",14988987,Sorin,PORTO,Lordelo do Ouro e Massarelos,41.15451,-8.64684,Entire home/apt,,2,24,2019-09-01,0.31,1,0,0,71108/AL
+8866510,Boat Blue Days,46410402,Manuel,VILA NOVA DE GAIA,Canidelo,41.14292,-8.65053,Private room,275,1,0,,,1,365,0,
+6851253,Domum | Turistic Apart.  T1,23800078,Domum,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14827,-8.61969,Entire home/apt,100,2,15,2023-09-15,0.14,5,301,1,55903/AL
+6851644,Your Place Porto II - Estúdio,35902169,Manuel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14664,-8.6037,Entire home/apt,38,2,347,2024-05-01,3.10,2,247,14,33333/AL
+6852803,ORM - Bolhão 2 Apartment,19887538,Oporto Rental Management,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15063,-8.6087,Entire home/apt,90,2,159,2023-04-01,1.42,50,330,0,64825/AL
+6852990,Charming room,35906090,Ana,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12216,-8.59939,Private room,80,2,0,,,1,177,0,
+6859519,"Our HOMEinLAND of Terroso l Pool, Grill & Seaview",35946202,Dino & Ines,PÓVOA DE VARZIM,"AVer-o-Mar, Amorim e Terroso",41.41572,-8.72872,Entire home/apt,150,7,69,2024-08-17,0.62,3,312,5,15999/AL
+6868273,Casa da Hera - The Ivy House,31174527,Carlos Mendes Pereira,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14351,-8.62134,Entire home/apt,232,2,429,2024-08-27,3.83,1,295,48,155432/AL
+6870687,Lvsiadas Apartments - Discover Porto,33807740,Lvsiadas Apartments,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15813,-8.61063,Entire home/apt,40,30,13,2020-10-01,0.12,3,350,0,
+6870724,Lvsiadas Apartments - Discover Porto.,33807740,Lvsiadas Apartments,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15823,-8.60929,Entire home/apt,22,50,4,2019-04-21,0.04,3,40,0,
+6871500,"Riverfront Porto & Douro, Spectacular Views!",16241126,Marcelo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14031,-8.61039,Entire home/apt,140,4,279,2024-09-13,2.50,4,317,36,22071/AL
+6885057,Apart. Camões for 2 to 4 guests,36076998,Marta,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15427,-8.61042,Entire home/apt,,2,61,2019-08-03,0.55,2,0,0,28842/AL
+6909394,The perfect location to visit Porto,35725116,André,PORTO,Lordelo do Ouro e Massarelos,41.14953,-8.62874,Entire home/apt,,2,71,2023-10-18,0.64,1,0,1,58574/AL
+6909910,"#2 | OPO | Torrinha | ""Old Radio""",34467922,Pedro,PORTO,Lordelo do Ouro e Massarelos,41.15236,-8.62244,Private room,40,2,293,2024-08-26,2.61,6,353,16,24590/AL
+6911403,OPO | Torrinha | “Old Radio” apartment,34467922,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15074,-8.61946,Entire home/apt,90,2,69,2024-08-16,0.62,6,349,6,24590/AL
+6912209,"city centre, Douro view, room+wc",3148983,Rosinda,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1438,-8.60461,Private room,,2,15,2016-09-03,0.13,2,0,0,
+6928820,"Charming apt. at ""Arts District""",17452235,Ana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15006,-8.62001,Entire home/apt,90,2,286,2024-06-18,2.57,2,236,26,37632/AL
+6930074,ARACELLI APARTMENT with TERRACE/ BALCONY,14475589,Maria Manuela,VALONGO,Ermesinde,41.2166,-8.54561,Entire home/apt,82,2,19,2024-08-11,0.17,1,41,4,37274/AL
+6944463,São Bento - One bedroom apartment with balcony,17789572,Oporto Trendy Apartments,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14669,-8.60306,Entire home/apt,105,1,11,2023-08-21,0.10,18,331,0,35552/AL
+6944540,Apartamento T1 Kit-Boavista-Porto,36412394,Sofia,PORTO,Ramalde,41.16114,-8.63685,Entire home/apt,50,5,78,2024-08-25,0.70,1,325,14,16863/AL
+6945437,Amazing Riverside Balcony 2Br Apartment,10482480,Mauricio,PORTO,Lordelo do Ouro e Massarelos,41.14551,-8.62488,Entire home/apt,194,3,306,2024-08-28,2.74,3,311,41,68413/AL
+6988711,"Mar, Sol, Natureza e História",36639852,Noel,PÓVOA DE VARZIM,"AVer-o-Mar, Amorim e Terroso",41.39154052734375,-8.765172958374023,Entire home/apt,73,3,60,2024-09-07,0.61,1,346,15,31337/AL
+7001107,Casa com piscina,36704186,Maria,VILA DO CONDE,Árvore,41.33043,-8.72481,Entire home/apt,220,5,32,2024-07-31,0.32,1,330,6,17195/AL
+7028256,Charming apartment in our farmhouse *,11736979,Bartolo,VILA DO CONDE,Fornelo e Vairão,41.32759,-8.64613,Entire home/apt,75,2,50,2024-08-25,0.45,1,75,18,
+7030238,Room in a Students House,36855760,Ana João,PORTO,Ramalde,41.16248,-8.63329,Private room,,1,0,,,1,0,0,
+7034877,Foz Sea Apartment Porto,31874973,Paula,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15372,-8.67696,Entire home/apt,108,3,268,2024-08-29,2.51,1,204,29,22101/AL
+7035559,ALEGRIA 319 | 2D @ Porto Downtown,14358016,Estável,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15309,-8.60386,Entire home/apt,125,2,130,2023-10-05,1.17,2,302,4,19333/AL
+7051999,loft glamour Mangue-Ananas,36910553,Victor,GONDOMAR,Fânzeres e São Pedro da Cova,41.15247,-8.50298,Entire home/apt,46,3,30,2024-06-21,0.27,3,304,8,
+7079413,"1 Oporto City Center - sleeps 6, 4 beds",37115914,Pedro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14966,-8.60898,Entire home/apt,164,2,396,2024-09-12,3.55,5,328,53,17817/AL
+7081043,Apartment in Matosinhos near the beach,37122048,Daniel,MATOSINHOS,Matosinhos e Leça da Palmeira,41.17795,-8.68389,Entire home/apt,100,5,56,2024-09-03,0.51,1,331,7,70403/AL
+7081211,Little Country house and beach for two P.,37120087,Mafalda,VILA DO CONDE,Árvore,41.33791,-8.72179,Entire home/apt,52,3,91,2024-08-21,0.81,3,214,5,41380/AL
+7085199,Unique Spot by the River Douro,37046559,André,GONDOMAR,Lomba,41.067402,-8.414421,Entire home/apt,250,3,55,2024-08-29,0.49,1,345,4,46730/AL
+7086684,Feeling Oporto 931,37145227,Graciete E,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14414,-8.60924,Entire home/apt,95,3,479,2024-09-06,4.28,3,297,57,29537/AL
+7087791,Feeling Oporto 932,37145227,Graciete E,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14429,-8.60727,Entire home/apt,95,3,431,2024-09-06,3.85,3,290,54,23479/AL
+7097413,Apartamento Caves O'Porto,37203787,Belmiro,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.1371,-8.62632,Entire home/apt,100,3,118,2023-08-20,1.06,1,225,0,33235/AL
+7110749,LUXURY apartment t3 oporto antas,37249350,Joaquim,PORTO,Bonfim,41.16504,-8.58938,Entire home/apt,156,30,299,2024-01-31,2.70,1,227,17,62723/AL
+7124693,Bright & Cosy Studio at Clerigos,186327,Ahmed,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14474,-8.61417,Entire home/apt,,3,13,2016-06-30,0.12,2,0,0,
+7130433,Calm & Cosy Studio at Clerigos,186327,Ahmed,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14456,-8.61564,Entire home/apt,,3,7,2015-09-13,0.06,2,0,0,
+7144443,Casa Fonte das Oliveiras,37414070,Kalina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15076,-8.61553,Entire home/apt,,3,73,2019-10-24,0.66,1,0,0,16685/AL
+7144567,Bright double room in the centre,20619432,Arielle,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14928,-8.61318,Private room,,1,1,2015-07-18,0.01,1,0,0,
+7151520,Lovely&Modern 5 min to Porto Center,37453993,Maria,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13674,-8.60738,Entire home/apt,,1,8,2015-09-16,0.07,1,0,0,
+7178918,Studio 65   |   Flat + Terrace,37610757,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15881,-8.60796,Entire home/apt,55,2,263,2024-09-02,2.37,1,319,32,AL 16856
+7179596,Sailor's House - Holiday's House,6866649,Miguel,PORTO,Lordelo do Ouro e Massarelos,41.14613,-8.63054,Entire home/apt,101,2,84,2024-09-03,0.76,2,338,8,91991/AL
+7201112,Nice studio with patio and garden in Gaia,34499587,Ana Rute,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12832,-8.61226,Entire home/apt,79,1,56,2024-03-17,0.50,9,269,2,115517/AL
+7203643,GuestReady - Historic Courtyard Townhouse,37719425,Irene,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14294661557299,-8.609166237794751,Entire home/apt,229,1,178,2024-09-07,1.61,1,57,43,73618/AL
+7205451,LightHouse Apartment with Terrace,37725953,David,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15044,-8.67612,Entire home/apt,161,2,20,2024-04-30,0.20,2,268,1,13823/AL
+7221087,"Canidelo Beach Apartment, Porto south",6787366,Paula,VILA NOVA DE GAIA,Canidelo,41.13184,-8.66253,Entire home/apt,110,4,62,2024-08-31,0.56,27,202,4,31767/AL
+7221420,Spacious room in townhouse downtown,2606384,Fernanda,PORTO,Bonfim,41.15262,-8.60206,Private room,32,5,50,2024-07-26,0.45,10,283,13,
+7231016,HEART OF THE CITY 1 !,37860920,Telmo,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13445,-8.60841,Entire home/apt,,1,472,2024-09-09,4.23,15,75,79,47105/AL
+7231817,Guerra´s House,30900606,Daniela,PORTO,Bonfim,41.15849,-8.59516,Entire home/apt,30,2,239,2022-09-17,2.15,2,0,0,16825/AL
+7239544,Baixa24 - Bolhao Apt Downtown Soulful Room 1,21680966,Mario,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1507,-8.60653,Private room,,1,169,2021-07-11,1.52,4,0,0,98666/AL
+7239893,Baixa24 - Bolhao Apt w/ Sunset Terrace Room 2,252729505,Alex,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15044,-8.60706,Private room,,1,147,2021-09-05,1.32,16,0,0,98666/AL
+7240303,Baixa24 - Bolhao Apt w/ Sunset Terrace,252729505,Alex,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15041,-8.60534,Entire home/apt,100,1,233,2024-08-26,2.11,16,317,30,98666/AL
+7252323,Angel House,16620756,Graça,PORTO,Paranhos,41.16444,-8.60472,Entire home/apt,,2,53,2017-07-27,0.48,1,0,0,
+7257994,Modern and quiet T1 with private garage,12610392,Manuela,PORTO,Paranhos,41.168472,-8.620515,Entire home/apt,89,2,260,2024-09-05,2.33,1,328,29,17655/AL
+7263132,MiguelBombarda260 by PORTO-HOUSES AND SUITES,17289096,Manuela,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15011,-8.61762,Entire home/apt,130,1,235,2024-08-30,2.11,13,318,23,21053/AL
+7274811,City and sea,38088332,Aurélio,PÓVOA DE VARZIM,"Póvoa de Varzim, Beiriz e Argivai",41.38172,-8.76387,Entire home/apt,120,3,5,2019-07-14,0.04,1,197,0,
+7278225,One-Bedroom Ap for 3 in Clérigos Tower,16922131,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14585,-8.61332,Entire home/apt,90,1,99,2023-04-17,0.89,92,323,0,24058/AL
+7279597,Casa Jardim (Garden House) Ind.,38116185,Nuno,VILA DO CONDE,Vila do Conde,41.35164,-8.7505,Private room,26,3,12,2024-08-03,0.18,4,365,4,
+7280134,Casa Jardim (Garden House) Cas.,38116185,Nuno,VILA DO CONDE,Vila do Conde,41.35213,-8.74981,Private room,36,3,4,2024-03-21,0.06,4,365,1,
+7280285,Casa Jardim (Garden House) Dup.,38116185,Nuno,VILA DO CONDE,Vila do Conde,41.35039,-8.74869,Private room,36,3,5,2024-08-27,0.04,4,365,1,
+7280408,Casa Jardim (Garden House) Cha.,38116185,Nuno,VILA DO CONDE,Vila do Conde,41.35171,-8.74899,Private room,70,3,0,,,4,365,0,
+7291706,Top floor balcony flat in Porto,31731597,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1633,-8.61169,Entire home/apt,74,5,26,2023-08-10,0.23,5,56,0,9825
+7292731,Porto back apartment-walk to center,31731597,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16204,-8.61026,Entire home/apt,71,5,29,2024-08-10,0.26,5,70,2,9825
+7299402,SweetGetaway-PORTUGAL-BeachBike PORTO/Espinho City,37815914,Joana,ESPINHO,Espinho,41.01306,-8.64198,Entire home/apt,92,3,58,2024-09-03,0.59,1,354,6,32918/AL
+7305416,Nice studio with balcony in Gaia,34499587,Ana Rute,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12736,-8.61192,Entire home/apt,74,2,42,2024-08-16,0.38,9,352,5,115517/AL
+7317297,Rosário Arts 2,31641959,Helena,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.150436157294976,-8.621218949737543,Entire home/apt,68,3,355,2024-09-13,3.18,4,268,26,5720/AL
+7317687,Lovely apartment @ downtown,38335891,Carlota,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14857,-8.6077,Entire home/apt,,2,28,2017-10-21,0.30,1,0,0,
+7317863,Casa Soares - Estúdio Amor Perfeito,38291048,Casa Soares,SANTA MARIA DA FEIRA,Milheirós de Poiares,40.91722,-8.46761,Entire home/apt,95,2,3,2022-08-28,0.03,1,0,0,
+7326133,Aida's Haven | Bolhão | Room #1,38365612,Alexandra,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14887,-8.60508,Private room,43,2,321,2024-08-26,2.89,10,4,17,21011/AL
+7326803,Aida's Haven | Bolhão | Room #2,38365612,Alexandra,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14801,-8.60449,Private room,73,2,245,2024-08-26,2.20,10,4,9,21011/AL
+7326936,Aida's Haven | Bolhão | Room #3,38365612,Alexandra,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14883,-8.6033,Private room,72,2,281,2024-05-24,2.53,10,4,7,21011/AL
+7908739,Rooftop Studio with Terrace,34994986,Baumhaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15687,-8.62275,Entire home/apt,151,1,34,2024-08-15,0.31,9,342,2,19179/AL
+6660703,Ambiente Agradável/Nice Place,34862783,Elissandra,PORTO,Lordelo do Ouro e Massarelos,41.15281,-8.62998,Private room,43,1,549,2024-09-07,4.86,2,69,102,83789/AL
+6668599,HAVEN 249 Passos Manuel,34904037,Vasco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14654,-8.60425,Entire home/apt,55,2,507,2024-08-28,4.49,2,38,47,100122/AL
+6675919,Art & City II,5897201,Marco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15077,-8.61665,Entire home/apt,89,2,322,2024-09-06,2.86,16,329,24,43286/AL
+6686037,Top Design Apartment in Boavista,34994986,Baumhaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15682,-8.62275,Entire home/apt,97,1,5,2024-09-04,0.05,9,346,1,19178/AL
+6697230,Ribeira Oporto Apartment (renovated 2022),35057317,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14240646362305,-8.615172386169434,Entire home/apt,76,2,373,2024-08-22,3.32,8,206,36,35745/AL
+6701745,Apartamento centro hístorico Porto,35079727,Vitor,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14423,-8.61742,Entire home/apt,70,2,538,2024-08-30,4.80,2,311,83,21270/AL
+6711965,"""Casa das Azenhas""",35131806,Rui,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.136,-8.62028,Entire home/apt,60,2,163,2020-03-16,1.46,1,1,0,63866/AL.
+6715214,Agradable Room Style,34862783,Elissandra,PORTO,Lordelo do Ouro e Massarelos,41.1548,-8.62972,Private room,39,1,539,2024-09-11,4.83,2,78,78,83789/AL
+6715746,Breath Taking Views,7682448,Joana & Miguel,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13534,-8.61118,Entire home/apt,,2,335,2024-08-25,2.97,4,63,40,15528/AL
+6723260,Casas de Sant'Ana Oporto Apt 1,35205902,Cláudia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14257,-8.61311,Entire home/apt,105,2,540,2024-08-27,4.80,4,216,50,16126/AL
+6725928,Casas de Sant'Ana Oporto Apt 2,35205902,Cláudia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14263,-8.61306,Entire home/apt,110,2,610,2024-08-18,5.42,4,193,62,16127/AL
+6730285,OceanView Oporto Foz,35245659,Joao,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15744,-8.68255,Entire home/apt,,3,47,2019-08-23,0.43,1,0,0,15618/AL
+6737465,T1 no centro da Povoa de Varzim,7792540,Celine,PÓVOA DE VARZIM,"Póvoa de Varzim, Beiriz e Argivai",41.3827,-8.76082,Entire home/apt,,6,6,2021-08-15,0.07,1,0,0,
+6737941,Bolhão - One bedroom apartment with terrace,17789572,Oporto Trendy Apartments,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14667,-8.60309,Entire home/apt,95,1,7,2021-08-10,0.06,18,319,0,35554/AL
+6738284,Amazing rooftop in Porto center.,35286177,Rui,PORTO,Bonfim,41.15223,-8.59177,Entire home/apt,,1,1,2015-08-22,0.01,1,0,0,
+6740999,Arrendar com Paixão,35298800,Mário João,PORTO,Campanhã,41.17116,-8.57931,Private room,,1,0,,,1,0,0,
+6752658,Stylish Studio on Santa Catarina Street,16922131,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14996,-8.605731,Entire home/apt,84,1,70,2024-08-20,0.62,92,339,3,114579/AL
+6765801,Oporto Private Room/Terrace,480980,Paula,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15435,-8.6048,Private room,81,3,291,2024-08-25,2.60,4,337,22,
+6779149,PORTO DOWNTOWN FLATS-RIBEIRA VIEW (renovated 2019),35484736,Tim,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14309,-8.61404,Entire home/apt,81,2,182,2024-09-05,1.63,4,229,21,37729/AL
+6783890,Bright Suite,35514299,Mafalda,PORTO,Lordelo do Ouro e Massarelos,41.14953,-8.65633,Private room,30,2,24,2018-01-02,0.21,1,232,0,
+6793409,Casa de Madeira,35560754,David,OLIVEIRA DE AZEMÉIS,"Pinheiro da Bemposta, Travanca e Palmaz",40.80737,-8.45918,Entire home/apt,61,2,24,2024-09-07,0.22,1,281,8,
+6808963,Light Studio - Historic center,35643614,Maria De Lourdes,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15392,-8.6078,Entire home/apt,65,3,327,2024-08-27,2.91,1,164,30,18584/AL
+6833840,ORM - Bolhão 01 Apartment,19887538,Oporto Rental Management,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15056,-8.6086,Entire home/apt,90,2,168,2023-05-31,1.50,50,299,0,34092/AL
+6835187,Apartment D João IV T4 (Downtown),33909357,R&R Housing AL,PORTO,Bonfim,41.15166,-8.60344,Entire home/apt,,5,33,2024-08-30,0.30,3,0,8,Licence nº 15228/AL
+6836536,Lulapartment,35821827,Cristina & Luís,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15972,-8.61203,Entire home/apt,74,2,532,2024-08-24,4.74,3,290,80,24321/AL
+6837456,Beachfront apartment with pool.,35829512,Hugo,VILA NOVA DE GAIA,Madalena,41.10389,-8.66225,Entire home/apt,145,4,109,2024-08-03,1.10,3,226,20,92563/AL
+7327092,Aida's Haven | apartment | Bolhão |,38365612,Alexandra,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14846,-8.60389,Entire home/apt,137,2,122,2024-09-04,1.13,10,340,29,21011/AL
+7336904,Cama na sala (privado),36919978,Glaucia,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12279,-8.60986,Private room,,1,14,2016-08-14,0.13,1,0,0,
+7339402,House with garden Porto center_2,2807031,Pedro,PORTO,Bonfim,41.14634,-8.59798,Private room,50,4,108,2024-09-09,0.97,1,170,13,
+7358058,Casa Rural na praia,38552800,Joaquim,VILA NOVA DE GAIA,Canidelo,41.13151,-8.66605,Entire home/apt,160,3,40,2024-09-13,0.39,3,335,16,
+7380500,Trindade Downtown,4137086,Ilidia Elisa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15078,-8.61489,Entire home/apt,,2,2,2016-08-06,0.02,4,0,0,
+7436928,Apartamento São João,38958245,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14482,-8.60195,Entire home/apt,80,3,276,2024-08-30,2.49,1,126,50,AL n. 17326  Apartamento S.João
+7446427,"Studio2 rooms, kitchnet and wc.Clean&Safe by HACCP",6369029,Teresa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15369,-8.60779,Entire home/apt,,2,100,2023-10-25,0.90,14,0,6,
+7478915,Vue sur la mer à couper le souffle,39161878,Lurdes,VILA DO CONDE,Vila do Conde,41.36804,-8.76101,Entire home/apt,81,5,137,2024-09-05,1.27,1,316,20,107205/AL
+7479052,Downtown Centre 1B,4137086,Ilidia Elisa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15014,-8.61495,Private room,,3,19,2024-09-07,0.17,4,0,6,
+7479311,Quarto 1A,4137086,Ilidia Elisa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15204,-8.61367,Private room,33,3,12,2024-09-05,0.11,4,44,5,
+7481783,Charming apartment by the beach!,3701140,Rita,MATOSINHOS,Matosinhos e Leça da Palmeira,41.17901,-8.68958,Entire home/apt,,2,6,2015-10-01,0.05,1,0,0,
+7495065,"Beach, surf and Golf house",26436988,Surf & Olives,VILA NOVA DE GAIA,Canidelo,41.11439,-8.65673,Entire home/apt,65,2,324,2024-09-06,2.96,3,355,19,
+7511430,"Corredoura House, near Oporto",39351377,Maria,VILA DO CONDE,Vila Chã,41.2916,-8.72648,Entire home/apt,137,5,66,2022-07-28,0.60,2,303,0,58227/AL
+7515930,Suite Mil E Uma Noites,39377046,Maria,MAIA,Castêlo da Maia,41.26242,-8.61663,Private room,25,3,95,2024-08-31,0.87,1,153,10,82262/AL
+7541811,Apartment in Porto with 2 bedrooms!,39516691,Filipe,PORTO,Paranhos,41.16882,-8.5976,Entire home/apt,,1,3,2015-08-21,0.03,1,0,0,
+7542466,Single room in Porto,39520400,Tarek,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15735,-8.61907,Private room,,1,1,2015-08-12,0.01,1,0,0,
+7543359,Apartment in the historic center,14500906,Bragas Studios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15224,-8.61586,Entire home/apt,,2,191,2024-09-13,1.72,5,1,22,21097/AL
+7545464,Low Cost - Sweet House River,39517006,Alexandre,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.12596,-8.61444,Private room,26,1,130,2019-08-29,1.17,1,136,0,
+7561853,Your Place Porto I - Apartament,35902169,Manuel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15075,-8.60558,Entire home/apt,22,2,338,2024-08-17,3.05,2,207,22,22732/AL
+7570673,Trendy Apartment in Downtown Porto,29529943,Isabel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15014,-8.6034,Entire home/apt,123,2,81,2024-08-11,0.73,1,341,9,18016/AL
+7581958,Apartment in the historic center 1c,14500906,Bragas Studios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15231,-8.61652,Entire home/apt,,2,71,2024-09-08,0.64,5,0,20,21108/AL
+7586377,Apartment in the historic center,14500906,Bragas Studios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15365,-8.61659,Entire home/apt,67,2,87,2024-09-12,0.78,5,20,19,21097/AL
+7592508,Studio Porto Riad - oriental style,39815965,Raquel,PORTO,Bonfim,41.15545,-8.6025,Entire home/apt,82,2,3,2015-09-13,0.03,7,91,0,43787/AL
+7601135,ABEL'S IN DOWNTOWN - THE PLACE TO BE 2 OF 2,6989703,Abel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14926,-8.61699,Entire home/apt,98,2,598,2024-08-28,5.38,13,165,35,68133/AL
+7601929,"Beach Room Paraíso up to 3, with sea view",38742416,Manuela,MATOSINHOS,"Perafita, Lavra e Santa Cruz do Bispo",41.22421,-8.71471,Private room,61,1,129,2024-08-24,1.17,5,61,23,60012/AL
+7613035,Quarto privado com cama de casal,33832797,Carlos,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.153106689453125,-8.605401039123535,Private room,32,2,426,2024-09-04,3.85,2,305,67,62502/Al
+7616744,"Room in Campo Alegre, Porto",39702610,Vitor,PORTO,Lordelo do Ouro e Massarelos,41.15344,-8.63029,Private room,,2,0,,,4,0,0,
+7617116,"Room in Campo Alegre, Porto",39702610,Vitor,PORTO,Lordelo do Ouro e Massarelos,41.15185,-8.62893,Private room,,2,0,,,4,0,0,
+7624878,FLH Porto Charming Studio,3953109,Feels Like Home,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.151546478271484,-8.613781929016113,Entire home/apt,76,1,70,2024-08-11,0.63,74,338,23,52367/AL
+7640739,Surf village,26436988,Surf & Olives,VILA NOVA DE GAIA,Canidelo,41.11436,-8.6565,Entire home/apt,60,2,121,2024-08-09,1.09,3,363,5,
+7650364,CASA 22 ***** Duplex,6847458,Kiki & Teresa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14511,-8.60592,Entire home/apt,60,4,190,2024-08-09,1.72,2,226,8,
+7658744,Studio Apartment in the historic center,14500906,Bragas Studios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15329,-8.61597,Entire home/apt,,2,3,2018-07-31,0.03,5,0,0,
+7661473,House Foz - Ocean/River view,39719404,Jorge,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.14926,-8.66535,Private room,,3,161,2018-10-27,1.48,1,0,0,20507
+7663773,"Porto, Miramar, nice apartment",40199752,Cristina,VILA NOVA DE GAIA,Arcozelo,41.0683,-8.64056,Entire home/apt,,1,27,2017-08-19,0.24,2,0,0,
+7672700,Bonjardim 466-Historic Townhouse,24404975,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1504,-8.60928,Entire home/apt,300,3,309,2024-09-03,2.79,6,113,43,17622/AL
+7673149,Home Sweet Home... Bolhão - 26753/AL,27032362,Patricia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15136,-8.60738,Private room,,3,82,2024-06-09,0.75,1,0,1,26753/AL
+7678928,Beach room good for families (up to 4 people),38742416,Manuela,MATOSINHOS,"Perafita, Lavra e Santa Cruz do Bispo",41.22575,-8.71657,Private room,58,1,112,2024-08-27,1.01,5,99,23,60012/AL
+7687900,Yolga´s Apart,40376208,Olga Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14687,-8.60506,Entire home/apt,99,4,330,2024-09-08,2.98,1,316,49,47108/AL
+7696069,Duplex Flat w/ terrace! near Dom Luís Bridge!,40420491,Carvalho Family,PORTO,Bonfim,41.14488930347215,-8.601119108498096,Entire home/apt,132,2,167,2024-08-26,1.86,1,121,23,150195/AL
+7696968,Maison 2 Chambres accès piscine,16980719,Manuel,VILA NOVA DE GAIA,"Sandim, Olival, Lever e Crestuma",41.04495,-8.50409,Entire home/apt,80,7,47,2024-08-17,0.42,3,151,2,62379/AL
+7705208,OPorto • The top floor of my house,40403043,Carlos Eduardo,PORTO,Bonfim,41.14718,-8.59306,Entire home/apt,55,2,258,2024-09-01,2.33,1,325,22,20337/AL
+7705865,One Bedroom Apartment at Alfandega,9093792,Chris,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14431,-8.62181,Entire home/apt,157,2,19,2022-04-26,0.19,3,332,0,7091/AL
+7725011,BRA.com Bonfim 101,40592098,Bárbara,PORTO,Bonfim,41.14695,-8.59797,Entire home/apt,90,2,14,2024-09-02,0.13,24,76,2,
+7746379,"Room in Campo Alegre, Porto",39702610,Vitor,PORTO,Lordelo do Ouro e Massarelos,41.15175,-8.63049,Private room,,2,3,2015-08-16,0.03,4,0,0,
+7746705,"Room in Campo Alegre, Porto",39702610,Vitor,PORTO,Lordelo do Ouro e Massarelos,41.15269,-8.62935,Private room,,2,0,,,4,0,0,
+7758778,Holiday House - Beach,40796588,Sónia,PÓVOA DE VARZIM,Aguçadoura e Navais,41.43232,-8.7775,Entire home/apt,32,2,88,2024-09-01,0.89,1,348,29,48412/AL
+7760703,Alugo à semana ou fins de semana,40807788,Maria,PORTO,Lordelo do Ouro e Massarelos,41.15162,-8.62813,Private room,,3,0,,,1,0,0,
+7772119,A Beautiful Place in Boavista,34994986,Baumhaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15677,-8.62245,Entire home/apt,139,1,27,2024-09-04,0.25,9,344,9,19167/AL
+7772589,"Art&Design apartment, kids friendly",34994986,Baumhaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15685,-8.62268,Entire home/apt,130,1,15,2023-10-31,0.14,9,357,4,19180/AL
+7772698,New Boavista Exclusive Apartment,34994986,Baumhaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15685,-8.62273,Entire home/apt,129,1,6,2024-08-22,0.06,9,341,4,19182/AL
+7786187,Bright Open Space,34994986,Baumhaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15682,-8.6227,Entire home/apt,111,2,13,2023-10-08,0.12,9,325,3,19183/AL
+7786510,Classy Apartment in Boavista,34994986,Baumhaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15687,-8.62273,Entire home/apt,114,1,7,2023-08-20,0.06,9,340,0,19184/AL
+7786682,"Stunning Location, fully equipped",34994986,Baumhaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15684,-8.62266,Entire home/apt,100,2,12,2024-08-11,0.11,9,346,2,19147/AL
+7786924,Heritage Art&Design Luxury Studio,34994986,Baumhaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15687,-8.62268,Entire home/apt,169,1,12,2024-08-25,0.11,9,352,3,19181/AL
+7918261,BRA.com Bonfim 001,40592098,Bárbara,PORTO,Bonfim,41.14703,-8.59804,Entire home/apt,90,2,11,2019-08-22,0.10,24,315,0,
+7919824,Beach room near Airport and Porto,38742416,Manuela,MATOSINHOS,"Perafita, Lavra e Santa Cruz do Bispo",41.22444,-8.71563,Private room,60,1,72,2024-08-28,0.66,5,93,9,60012/AL
+7920425,"Room on the beach near Porto,Airpor",38742416,Manuela,MATOSINHOS,"Perafita, Lavra e Santa Cruz do Bispo",41.22551,-8.7177,Private room,72,1,94,2024-08-26,0.85,5,58,17,60012/AL
+7927160,Number283 - Your home abroad,41800791,Secondright,PORTO,Bonfim,41.16001,-8.59674,Entire home/apt,,2,0,,,1,0,0,
+7951112,"Sunny Porto, A place for 2",6787366,Paula,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16412,-8.6119,Entire home/apt,,4,19,2019-09-10,0.17,27,0,0,19868/AL
+7955621,Miramar Beach House,19555501,Tomé,VILA NOVA DE GAIA,Gulpilhares e Valadares,41.07186,-8.65152,Entire home/apt,74,7,49,2024-09-08,0.44,2,39,7,
+7970866,Casa do Fundo D' Aldeia,42059294,Maria Celeste,AROUCA,Chave,40.89457,-8.33605,Entire home/apt,,1,0,,,1,0,0,
+7996802,Enjoy a Green Local Experience,42212575,Diogo Sá Ribeiro,ESPINHO,Espinho,41.0082,-8.64041,Private room,60,1,27,2024-09-13,0.25,2,257,3,11521/AL
+8004371,Enjoy a Blue Local Experience,42212575,Diogo Sá Ribeiro,ESPINHO,Espinho,41.00774,-8.64185,Private room,60,1,11,2024-08-01,0.13,2,256,2,11521 / AL
+8024091,Go2oporto @Students - Quarto 1,399503,Go2oporto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.153774,-8.60746,Private room,,7,11,2023-08-16,0.11,11,0,0,PT509067786
+8039407,Porto apartament from 25€,42455391,Nuno,PORTO,Bonfim,41.1475,-8.58903,Entire home/apt,99,1,307,2024-08-11,2.79,8,83,16,128082/AL
+8039971,Go2oporto @Students - Quarto 2,399503,Go2oporto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.153694,-8.607723,Private room,,3,9,2023-08-17,0.09,11,0,0,PT509067786
+8040284,Go2oporto @Students - Quarto 3,399503,Go2oporto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.153709,-8.607594,Private room,,3,2,2023-08-26,0.15,11,0,0,PT509067786
+8052216,Listening to the Silence,12043187,Tania,PÓVOA DE VARZIM,"Póvoa de Varzim, Beiriz e Argivai",41.37549,-8.73866,Entire home/apt,,4,86,2022-10-18,0.78,1,0,0,
+8053541,Downtown Terrace Apartment II,32788217,Miguel,PORTO,Bonfim,41.14869,-8.60171,Entire home/apt,69,2,488,2024-08-28,4.44,4,132,54,55855/AL
+8057058,Lovely Flat in the Porto Center,23883458,Laura,PORTO,Bonfim,41.14542,-8.59723,Entire home/apt,125,2,279,2024-09-06,2.54,2,336,40,92730/AL
+8059526,Green Bell Oporto City with parking,41695625,Susana,PORTO,Paranhos,41.17297,-8.60433,Entire home/apt,60,7,64,2024-08-31,0.58,1,364,9,35032/AL
+8064557,"Casa em vila piscatória, Afurada - R/Chão",23099851,Joao,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.14401,-8.64615,Entire home/apt,108,2,12,2023-10-09,0.12,2,355,1,
+8064825,Luxury beach apartment,22724401,Marcos,VILA NOVA DE GAIA,Canidelo,41.12849,-8.66705,Entire home/apt,110,1,129,2024-09-07,1.24,9,211,25,
+8066233,MyLoft-Charming Apartment!!! - Metro Bolhão,34348897,Carla,PORTO,Bonfim,41.15021,-8.6021,Entire home/apt,79,2,489,2024-09-03,4.61,1,120,60,31348/AL.
+8105787,Apt Stay in Fontainhas - With Free Parking & Wi-Fi,42797489,Rúben,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14299,-8.60291,Entire home/apt,,3,56,2020-07-24,0.54,1,0,0,19596/AL
+8165149,Apart. com varanda sobre a praia,22724401,Marcos,VILA NOVA DE GAIA,Canidelo,41.12279,-8.66635,Entire home/apt,105,1,97,2024-08-03,0.90,9,140,20,
+8175547,Quarto  com Suite + um normal,16892539,Paula,VILA NOVA DE GAIA,Gulpilhares e Valadares,41.09541,-8.62106,Private room,,1,1,2015-09-07,0.01,1,0,0,
+8185714,PortoWhite (02) city lofts,43180541,PortoWhite,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15004,-8.60569,Entire home/apt,105,2,94,2024-08-15,0.86,3,185,32,21245/AL
+8185870,PortoWhite (01) city lofts,43180541,PortoWhite,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14994,-8.60574,Entire home/apt,105,2,273,2024-09-04,2.50,3,199,42,21243/AL
+8192650,CASAS DO PORTO - Duplex Vintage House in Downtown,7474213,Olívia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14223,-8.61541,Entire home/apt,232,2,2,2017-06-13,0.02,8,276,0,19616/AL
+8210813,Central Low Cost (Av. da República - VNGaia ),23585920,Lisa,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12754,-8.60569,Entire home/apt,75,2,79,2024-05-29,0.73,20,346,4,49768/AL
+8239163,Propriete «Quinta de Santo Antonio»,27433928,Marie,TROFA,Muro,41.29422,-8.59761,Entire home/apt,288,2,37,2024-08-02,0.48,2,260,9,
+8283374,NEW! Apartment Carvalhido,43676194,Nuno,PÓVOA DE VARZIM,"Póvoa de Varzim, Beiriz e Argivai",41.38181686401367,-8.768977165222168,Entire home/apt,140,2,34,2024-08-17,0.32,5,359,2,20231/AL
+8298268,Forrester Apartment,6323270,Joana Marta,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15991,-8.61939,Entire home/apt,133,3,84,2024-09-08,0.81,1,142,15,21140/AL
+8314899,Charm Loft Duplex,43292961,Susana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14897,-8.60443,Entire home/apt,55,4,337,2024-09-01,3.11,2,115,31,20505/AL
+8321427,Wide house with garden and cat,43866746,Inês,PORTO,Paranhos,41.16958,-8.61225,Private room,,1,6,2016-07-12,0.06,1,0,0,
+8325487,SBV perfect river view,43888978,Maria Cristina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14298,-8.61658,Entire home/apt,123,2,44,2024-06-13,0.40,1,328,7,21674/AL
+8344859,CENTER DOUBLE ROOM + BALCONY,14663543,Adam,PORTO,Bonfim,41.14603,-8.60096,Private room,44,1,439,2024-09-08,4.01,1,110,52,
+8369199,Garden House II,34191664,Bernardo,PORTO,Paranhos,41.17963,-8.61255,Private room,45,2,145,2024-09-02,1.68,2,363,14,
+8371207,"""Vintage"" Flat in Porto city center",38963404,Zelije,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15639,-8.61812,Entire home/apt,,3,41,2018-10-08,0.38,9,0,0,31764/AL
+8392907,"""Tawny"" Studio in Porto city center",38963404,Zelije,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15523,-8.61859,Entire home/apt,,3,72,2019-09-23,0.72,9,0,0,37319/AL
+8392923,"""Ruby"" Flat in Porto city center",38963404,Zelije,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15615,-8.61836,Entire home/apt,,3,38,2019-10-07,0.43,9,0,0,39422/AL
+8425056,PanoramicPlace Premar,13867075,Nuno,PÓVOA DE VARZIM,"Póvoa de Varzim, Beiriz e Argivai",41.38117,-8.7598,Entire home/apt,,20,2,2017-06-27,0.02,1,0,0,32622
+8426811,S. Bento Apart - Duplex,37066714,Diogo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14575,-8.60887,Entire home/apt,74,1,60,2024-07-08,0.56,45,320,2,19881/AL
+8437987,Apartamento T2 com garagem,44426512,Cármen,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.1203,-8.60558,Entire home/apt,,2,1,2015-10-11,0.01,1,0,0,
+8483711,Casa do Commendador,44680540,Sofia,VILA DO CONDE,Touguinha e Touguinhó,41.37326,-8.72074,Entire home/apt,55,2,2,2018-08-17,0.02,2,0,0,
+8503702,quarto para 02 pessoas,44778050,Joao,PORTO,Campanhã,41.15795,-8.57765,Private room,,1,0,,,1,0,0,
+8504418,Casa no centro histórico,44781515,Maria,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.1346,-8.60983,Entire home/apt,,2,53,2024-08-06,0.50,1,346,9,
+8519443,the 96.1 apartment at Cedofeita | FAST WI-FI,17143947,José,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15231,-8.62039,Entire home/apt,65,4,303,2024-09-06,2.81,2,95,35,21069/AL
+8536830,Cozy room in Porto City Center,1358524,Jenny,PORTO,Bonfim,41.1468,-8.59721,Private room,,1,10,2016-01-26,0.09,1,0,0,
+8547623,FLH Porto Charming Flat,3953109,Feels Like Home,MATOSINHOS,São Mamede de Infesta e Senhora da Hora,41.18049621582031,-8.653889656066895,Entire home/apt,,1,26,2024-06-04,0.24,74,0,9,55329/AL
+8574958,"POVOA DE VARZIM ""Em cima da areia""",45129445,Joaquim,PÓVOA DE VARZIM,"AVer-o-Mar, Amorim e Terroso",41.39486,-8.77651,Entire home/apt,120,3,70,2024-07-03,0.68,1,85,7,35568/AL
+8576831,Closy room near the sea,45138994,Ana,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15747,-8.67212,Private room,,2,0,,,1,0,0,
+8629316,A good place to discover Oporto...!,45384857,José & Cécile,PORTO,Campanhã,41.16659,-8.57264,Entire home/apt,65,3,74,2024-08-22,0.68,2,363,12,101691/AL
+8644833,D. Luís - Uporto House,45287723,Uporto House,PORTO,Paranhos,41.1818,-8.61207,Private room,54,2,15,2022-09-30,0.15,37,181,0,20544/AL
+8644982,Aliados - Uporto House,45287723,Uporto House,PORTO,Paranhos,41.18193,-8.61309,Private room,54,2,10,2024-06-10,0.10,37,106,1,20544/AL
+8644988,D. Henrique - Uporto House,45287723,Uporto House,PORTO,Paranhos,41.1807,-8.61343,Private room,54,2,7,2024-07-26,0.11,37,167,2,20544/AL
+8671362,"Casa do Porto, Bairro Alegre",42044160,Alvaro,PORTO,Bonfim,41.15625,-8.59518,Entire home/apt,102,2,496,2024-08-24,4.59,2,202,43,32557/AL
+8672985,* Free Street Parking * Ground Floor with washer,45556429,Joao,PORTO,Paranhos,41.16745,-8.60001,Entire home/apt,86,1,57,2024-08-26,0.96,4,344,22,104230/AL
+8676083,apartamento duplex,45569512,Sílvia,VILA NOVA DE GAIA,Canidelo,41.12527,-8.63432,Entire home/apt,,1,0,,,1,0,0,
+8685222,Estúdio C/Amplo Terraço E Vista Rio,27267172,Marcos,PORTO,Lordelo do Ouro e Massarelos,41.14887,-8.63418,Entire home/apt,79,2,341,2024-07-19,3.22,8,0,20,20629/AL
+8686233,Loft Duplex Com Terraço Vista Rio,27267172,Marcos,PORTO,Lordelo do Ouro e Massarelos,41.1488,-8.63417,Entire home/apt,75,2,194,2024-07-04,1.85,8,0,9,20630/AL
+8692223,Duplex espaçoso com acesso a jardim,27267172,Marcos,PORTO,Lordelo do Ouro e Massarelos,41.14879,-8.63416,Entire home/apt,69,2,143,2024-07-04,1.35,8,0,7,20631/AL
+8692727,Suite Luxuosa com vista panorâmica,27267172,Marcos,PORTO,Lordelo do Ouro e Massarelos,41.14882,-8.63419,Entire home/apt,72,2,128,2024-08-24,1.21,8,0,4,20632/AL
+8692997,Lodge em Jardim Panorâmico - Porto,27267172,Marcos,PORTO,Lordelo do Ouro e Massarelos,41.14879,-8.63418,Entire home/apt,69,2,136,2024-02-12,1.28,8,0,6,20633/AL
+8693218,Lodge com terraço vista rio e mar,27267172,Marcos,PORTO,Lordelo do Ouro e Massarelos,41.14899,-8.63416,Entire home/apt,76,2,245,2024-08-23,2.31,8,0,14,20634/AL
+8697503,Cordoaria Guest House 1 - Downtown,16055999,Sílvia E André,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14676284790039,-8.617268562316895,Entire home/apt,90,2,247,2024-09-12,2.27,2,316,36,132543/AL
+8707683,cozy flat in the heart of oporto,17509644,Juliana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14433,-8.61505,Entire home/apt,,1,0,,,1,0,0,
+8708415,Casa do Commendador 2,44680540,Sofia,VILA DO CONDE,Touguinha e Touguinhó,41.37234,-8.72033,Entire home/apt,65,7,5,2018-08-13,0.05,2,0,0,
+8712038,Time 2 Porto Pilar House,28002927,Estefania,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13515,-8.60998,Entire home/apt,,2,100,2024-08-18,0.98,3,9,8,20478/AL
+8713693,EL DORADO,45736990,Marie,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12369,-8.60153,Entire home/apt,,4,2,2017-02-24,0.02,1,0,0,
+8747853,Modern apartment Porto city center,18112547,Bruno,PORTO,Bonfim,41.15178,-8.60277,Entire home/apt,65,3,183,2024-08-27,1.70,1,36,27,31917/AL
+8786715,Cosy Loft Duplex with balcony,43292961,Susana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14739,-8.60434,Entire home/apt,62,5,276,2024-08-31,2.60,2,93,25,20532/AL
+8787862,Apartamento estúdio T0 Vivacity,46055378,Joaquim,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14859,-8.61399,Private room,,1,1,2019-08-11,0.02,2,0,0,
+8791514,Apartamento T1 para 4 pax Vivacity,46055378,Joaquim,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14709,-8.61413,Entire home/apt,,1,0,,,2,0,0,
+8811556,OPorto Cheers Gaia - Train Station & free parking,3043794,João,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13009262084961,-8.61827278137207,Entire home/apt,64,3,37,2024-08-24,0.36,3,162,9,
+8842648,Porto Holiday Penthouse,37385103,Alice,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1595,-8.63043,Entire home/apt,,2,29,2023-10-29,0.29,1,0,4,20315/AL
+10051156,Vintage Downtown Apartment,51447621,Joao,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15069,-8.61257,Entire home/apt,35,30,65,2022-09-27,0.61,36,333,0,22941/AL
+10074667,Great View,51692724,Cristina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1453,-8.61868,Entire home/apt,65,2,421,2024-09-07,3.97,6,321,59,36262/AL
+10083468,Be Happy in Porto,27518920,Fábio,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.149323,-8.612049,Entire home/apt,98,2,241,2024-05-30,2.27,4,318,10,72891/AL
+10097660,Oporto's heArt (PRIVATE PARKING),24207757,Silvio,PORTO,Bonfim,41.14988,-8.60204,Entire home/apt,120,2,347,2024-08-26,3.40,2,109,51,33806/AL
+10103701,Casa da Torre,51849607,Maria,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12259,-8.61077,Entire home/apt,,2,5,2019-07-12,0.05,1,0,0,57464/AL
+10117617,A Casa Alegre é um apartamento T1.,51920973,Manuela,VILA DO CONDE,Vila do Conde,41.35786,-8.75456,Entire home/apt,40,7,11,2017-08-27,0.11,1,13,0,22626/AL
+10118022,"Flat with 4 bedrooms, 7 single beds",4114510,Sandro,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16444,-8.61807,Entire home/apt,,2,31,2018-08-19,0.29,5,0,0,
+10132375,Feel Porto Downtown Art Tile,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15009,-8.60684,Entire home/apt,,1,80,2024-08-07,0.77,102,277,4,26942/AL
+10134129,Feel Porto Downtown Couture,2228036,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15009,-8.60684,Entire home/apt,,1,118,2024-07-29,1.14,102,300,28,45783/AL
+7793422,Oporto Best View,41020666,Jorge,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14275,-8.61853,Entire home/apt,74,2,351,2024-07-18,3.17,8,297,26,20476/AL
+7795519,BRA.com Bonfim 201,40592098,Bárbara,PORTO,Bonfim,41.14695,-8.59795,Entire home/apt,90,2,32,2024-08-24,0.29,24,326,2,
+7796110,BRA.com Bonfim 301,40592098,Bárbara,PORTO,Bonfim,41.14691,-8.5979,Entire home/apt,100,2,14,2022-11-06,0.13,24,364,0,
+7807402,Cozy Apartment in Central Porto,11105821,André,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1564,-8.619,Entire home/apt,,1,4,2015-09-21,0.04,1,0,0,
+7813288,Cúpula de Mourio,41133011,Fernando,VALE DE CAMBRA,São Pedro de Castelões,40.8213,-8.39318,Entire home/apt,329,2,36,2024-08-24,0.47,1,356,15,
+7814530,Comfy beach house- amazing sea view,15594041,Amelie,VILA NOVA DE GAIA,Arcozelo,41.04948,-8.6539,Entire home/apt,125,5,58,2024-08-01,0.55,1,248,9,82473/AL
+7835669,Casa de Quinta,41270413,Nicolas,MAIA,Cidade da Maia,41.2362,-8.63281,Entire home/apt,150,3,36,2024-08-11,0.33,1,263,4,
+7855022,Apartamento no centro da cidade,22724401,Marcos,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12205,-8.60676,Entire home/apt,85,4,71,2024-09-07,0.65,9,290,19,
+7857591,Casa frente a Casa da Musica,41409311,Natalia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15891,-8.63039,Entire home/apt,70,3,112,2020-08-01,1.02,1,310,0,
+7867682,Studio with balcony in Clérigos Tower,16922131,Rui,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.145798,-8.613374,Entire home/apt,79,1,102,2024-08-29,0.93,92,315,5,24059/AL
+7873060,Casa João de Deus - Boavista,41494385,João E Raquel,PORTO,Ramalde,41.16109,-8.63593,Private room,,1,2,2015-09-30,0.02,1,0,0,
+7882034,Ikebana VI - Charming apart  downtown Porto,37776205,Ana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14928,-8.6164,Entire home/apt,56,3,252,2024-08-31,2.28,3,129,28,AL23105
+7897180,Porto Downtown Flats - Sé Cathedral View Balcony,35484736,Tim,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.143890412160154,-8.615234248757352,Entire home/apt,94,2,209,2024-09-11,1.89,4,314,28,45144/AL
+7900300,ORM - Guindais Apartment,19887538,Oporto Rental Management,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14337,-8.61001,Entire home/apt,104,2,286,2024-04-19,2.59,50,322,6,64912/AL
+7900427,ORM - Santa Clara Apartment,19887538,Oporto Rental Management,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1435,-8.61011,Entire home/apt,108,2,264,2023-12-28,2.39,50,323,11,65019/AL
+8880415,Porto in the Plaza! 3 Bedroom Apartment,45507443,Rui,PORTO,Bonfim,41.14721,-8.60154,Entire home/apt,98,3,198,2024-08-30,1.85,1,264,25,
+8881911,Arrábida - Uporto House,45287723,Uporto House,PORTO,Paranhos,41.18215,-8.61299,Private room,45,2,36,2024-05-29,0.33,37,136,2,20544/AL
+8886317,Batalha - Uporto House,45287723,Uporto House,PORTO,Paranhos,41.18188,-8.61138,Private room,54,2,8,2024-05-31,0.08,37,209,1,20544/AL
+8886442,Foz - Uporto House,45287723,Uporto House,PORTO,Paranhos,41.1819,-8.61305,Private room,50,2,11,2024-08-13,0.15,37,121,2,20544/AL
+8886574,Boavista - Uporto House,45287723,Uporto House,PORTO,Paranhos,41.18197,-8.61187,Private room,50,2,24,2024-06-29,0.24,37,88,6,20544/al
+8886783,Suite Clérigos - Uporto House,45287723,Uporto House,PORTO,Paranhos,41.18244,-8.61176,Private room,,2,17,2024-06-29,0.18,37,168,3,20544/al
+8886961,Suite Ribeira - Uporto House,45287723,Uporto House,PORTO,Paranhos,41.18075,-8.61358,Private room,66,2,10,2024-05-30,0.27,37,153,2,20544/al
+8961376,WHITE Fabrica House WIFI Downtown,7977641,Gisela,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14651,-8.61329,Entire home/apt,79,3,423,2024-08-19,3.93,3,65,10,46813/AL
+8983055,Quinta do Gestal - Turismo Rural,46932592,Álvaro,MATOSINHOS,"Custóias, Leça do Balio e Guifões",41.21599699411988,-8.632449157314346,Private room,65,1,114,2024-09-12,1.12,1,344,42,
+8997819,Apartamento novo com vista para o rio. Lindo!,46995680,Teresa,PORTO,Lordelo do Ouro e Massarelos,41.145999,-8.630005,Entire home/apt,175,1,19,2024-08-04,0.71,3,257,6,
+9009795,Porto Douro River Guest House II,7238676,Joao,PORTO,Lordelo do Ouro e Massarelos,41.14517,-8.63101,Entire home/apt,165,2,81,2024-08-21,0.76,3,353,17,
+9011828,Porto Center-Indian Soul Apartment,19065705,Maria,PORTO,Paranhos,41.16381,-8.60823,Entire home/apt,,3,7,2017-09-08,0.07,3,0,0,0
+9011865,Porto Douro River Guest House I,7238676,Joao,PORTO,Lordelo do Ouro e Massarelos,41.14519,-8.62933,Entire home/apt,145,2,48,2024-07-20,0.44,3,325,6,71549/AL
+9027023,Porto -Center Indian Soul 2,19065705,Maria,PORTO,Paranhos,41.16334,-8.60901,Private room,20,1,11,2019-12-07,0.10,3,317,0,0
+9036968,Vintage Apt. 2 /  4 - 12 People - 2 Free Parking,31222173,Marta,PORTO,Bonfim,41.155888,-8.602356,Entire home/apt,252,2,137,2024-08-23,1.36,3,237,6,32731/AL
+9046774,Downtown Classic Apartment,5897201,Marco,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14558,-8.60367,Entire home/apt,76,2,395,2024-09-06,3.66,16,332,51,24550/AL
+9093295,Apartment TRAVELS - Poeta Apartments 6517 / AL,47411936,Sandra,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14402,-8.61764,Entire home/apt,,3,0,,,1,0,0,6517/AL
+9140555,Historical House. Walk to the beach,47603432,Maria,ESPINHO,Espinho,41.00735,-8.64305,Entire home/apt,150,5,9,2024-08-25,0.09,3,365,1,33914/AL
+9147272,OPO'attics - Loft #1,47629551,Alexandre&Sonia,PORTO,Campanhã,41.14807,-8.58645,Private room,90,2,41,2023-10-15,0.38,4,359,2,118553/AL
+9149350,OPO'attics - Loft #6,47629551,Alexandre&Sonia,PORTO,Campanhã,41.14751,-8.58801,Private room,80,2,25,2024-08-22,0.24,4,361,4,118553/AL
+9155815,OPO'attics - Loft #3,47629551,Alexandre&Sonia,PORTO,Bonfim,41.1493,-8.58842,Private room,70,2,92,2024-09-05,0.86,4,359,6,118553/AL
+9168000,Splendid flat w/ patio,28751859,Valerio,PORTO,Paranhos,41.16674,-8.61131,Entire home/apt,140,3,75,2024-08-30,0.70,1,0,12,57113/AL
+9172580,"""Casa da Alegria"" Apartment",28701258,Fernando,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15049,-8.60319,Entire home/apt,277,3,156,2024-09-09,1.46,3,265,41,
+9217882,Porto Life Studio 2ºF,47932583,Porto Life Studios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14786,-8.6143,Entire home/apt,52,2,272,2024-08-20,2.55,2,213,32,22316/AL
+9224269,Casa do Patio a home with a soul in the city heart,7333910,Bárbara,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14989,-8.61679,Entire home/apt,68,2,486,2024-09-13,4.55,2,137,53,84694/AL
+9248616,Charming & Sunny Mezzanine Loft,1138920,João,PORTO,Bonfim,41.14947,-8.60212,Entire home/apt,,2,255,2024-09-01,2.39,2,3,22,128931/AL
+9253222,Carolina M Apt  in front of Metro w/Patio+Parking,47907505,Joao,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15815,-8.62256,Entire home/apt,150,2,488,2024-08-01,4.57,1,155,60,25415/AL
+9257309,Cedofeita Mezzanine with Terrace,1385493,Salomé,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15139,-8.61564,Entire home/apt,75,3,252,2024-08-28,2.36,2,154,33,22448/AL
+9280084,Pin Porto City Center,48191387,PinPorto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15588,-8.61927,Entire home/apt,156,3,284,2024-09-11,2.65,6,278,22,20722/AL
+9336976,I love Tokyo,228132,Carla,PORTO,Bonfim,41.14799880981445,-8.600625991821289,Entire home/apt,55,3,322,2024-08-31,3.01,2,341,36,34196/AL
+9338818,Quarto duplo com vista de jardim,48469139,Maria Irene,PAREDES,Paredes,41.20729,-8.32964,Private room,50,1,3,2024-08-02,0.13,5,355,1,
+9341476,CardosasAparFloch,48483186,M.,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1457,-8.61104,Entire home/apt,90,2,337,2024-08-31,3.18,1,312,22,21460/AL
+9366933,Romantic apartment in Oportodowntown,48601603,Carlos,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15034,-8.60415,Entire home/apt,85,3,249,2024-09-09,2.36,2,335,22,20638/AL
+9374717,Goabio apartment 3 riverview,1377085,Miguel,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14255,-8.61949,Entire home/apt,68,2,258,2024-09-11,2.41,8,322,15,31499/AL
+9388776,Cool penthouse in downtown Porto,48700587,Joao,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15307,-8.60466,Entire home/apt,,1,1,2016-03-01,0.01,1,0,0,
+9444294,Clérigos Charming Apartment - Great City View,48943549,Apartamentos Da Rosa,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1449,-8.6158,Entire home/apt,96,2,405,2024-09-11,3.79,3,318,48,21904/AL
+9488144,Alugamos quarto de casal,49175150,Juli Porto,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.12132,-8.60603,Private room,,1,0,,,1,0,0,
+9511619,OPO'attics - Loft #4,47629551,Alexandre&Sonia,PORTO,Campanhã,41.14735,-8.58848,Private room,70,2,54,2024-08-10,0.51,4,354,2,118553/AL
+9530473,Victoria Project - House I - Private Parking,49369006,Verónica,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14457,-8.61481,Entire home/apt,242,1,301,2024-08-18,2.81,5,317,46,60001/AL
+9566183,Beachfront apartment with balcony facing the sea,35829512,Hugo,VILA NOVA DE GAIA,Canidelo,41.12053,-8.66508,Entire home/apt,130,4,56,2024-08-03,0.58,3,321,9,104427/AL
+9575383,Charming Room near oporto,49568165,Iryna,MAIA,Cidade da Maia,41.22937,-8.6121,Private room,45,2,8,2017-08-30,0.08,1,348,0,
+9578531,"Beach front luxury apartment, 10 min from Porto.",35829512,Hugo,VILA NOVA DE GAIA,Canidelo,41.12827,-8.66675,Entire home/apt,130,4,114,2024-08-24,1.35,3,247,26,104426/AL
+9593848,Clerigos.H - Apartment T1 (1st Floor),49655325,Elísio,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.144779,-8.61404,Entire home/apt,75,2,159,2024-08-30,1.62,3,324,41,23003/AL
+9601946,Studio Cedofeita  3tr,23291068,Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15342,-8.61848,Entire home/apt,90,2,19,2023-03-01,0.18,3,325,0,24593/AL
+9603199,Porto Life Studio 3ºF,47932583,Porto Life Studios,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14786,-8.6143,Entire home/apt,47,2,295,2024-08-20,2.76,2,198,31,22315/AL
+9623690,Spacious and Bright Ap,806826,Miguel,PORTO,Bonfim,41.14486,-8.59863,Entire home/apt,,3,2,2017-05-21,0.02,4,0,0,12613/AL
+9656213,Vintage Downtown Studio,49915609,Mario,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14673,-8.60721,Entire home/apt,81,2,313,2024-09-13,3.03,4,282,48,82532/AL
+9678477,Sunny apartment in city center,37120087,Mafalda,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1585,-8.6088,Entire home/apt,52,3,100,2024-08-29,0.98,3,355,7,37703/AL
+9729451,Reis Apartment - Porto | Areosa,50207310,Verônica,GONDOMAR,Rio Tinto,41.19088,-8.57784,Entire home/apt,111,2,1,2023-08-13,0.08,1,361,0,
+9733160,Inside Porto Apartments @ Flores T1,50222081,Rita Lemos Almeida,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14376,-8.61418,Entire home/apt,142,2,16,2022-09-18,0.19,4,127,0,22531/AL
+9733782,Downtown Porto Clérigos @CityCenter,14334740,Nuno,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14698,-8.61191,Entire home/apt,,2,667,2024-04-16,6.25,4,0,30,
+9754045,Inside Porto Apartments @ Flores T2,50222081,Rita Lemos Almeida,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14384,-8.61398,Entire home/apt,208,2,60,2023-09-27,0.57,4,122,1,22534/AL
+9756653,Maria's Apartment,49958552,Fernando,PORTO,Campanhã,41.15937,-8.59038,Entire home/apt,56,2,69,2020-09-05,0.65,1,0,0,22415/AL
+9771470,House V.N.Gaia+breakfast.,48920953,Julia Leite,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.11405,-8.61412,Entire home/apt,60,1,464,2024-09-08,4.50,2,259,74,
+9776121,Apartamento 4 quartos (2) - Porto,6518808,Miguel,PORTO,Ramalde,41.1655,-8.62975,Entire home/apt,169,2,338,2024-09-01,3.23,2,322,35,21326/AL
+9781706,I love Paris Apartment- Porto City,228132,Carla,PORTO,Bonfim,41.14811,-8.60075,Entire home/apt,54,3,294,2024-08-22,2.75,2,309,37,100597/AL
+9782756,Bóco Manor House,4628870,Casa Do Boco Exploração Turística,AROUCA,Arouca e Burgo,40.92878,-8.22926,Entire home/apt,245,2,23,2022-08-04,0.23,1,11,0,25869/AL
+9818493,Large and Charming apt Porto Downtown (3 Bedrooms),2969815,Salomé,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15498,-8.6094,Entire home/apt,166,3,270,2024-09-08,2.55,1,307,29,28839/AL
+9833392,2 suite - Downtown metro,7956382,Jorge,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15248,-8.61098,Entire home/apt,133,2,330,2024-09-05,3.15,1,163,36,24276/AL
+9837994,Lux&Love Casa da Musica Apartment,31849564,Inocencio,PORTO,Ramalde,41.16067,-8.63298,Entire home/apt,53,5,292,2024-08-19,2.74,6,252,22,29265/AL
+9840252,Ribeira Oporto Apartment II (Renewed 2021),35057317,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14198,-8.61566,Entire home/apt,85,2,485,2024-09-12,4.57,8,211,39,35743/AL
+9898954,S. Bento Apart - Studio Ii,37066714,Diogo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14413,-8.61128,Entire home/apt,41,1,69,2024-09-01,0.65,45,254,9,23130/AL
+9899517,River View 2 bedroom apartment,5070279,Tiago,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14294,-8.60514,Entire home/apt,188,2,279,2024-08-29,2.63,6,316,33,22917/AL
+9904109,Fresh New @ Gaia Main Artery,39549775,Silvia,VILA NOVA DE GAIA,Santa Marinha e São Pedro da Afurada,41.13434,-8.60745,Entire home/apt,62,2,277,2024-09-09,2.61,4,15,29,22297/AL
+9969335,"Central, Modern, University, Metro",2068687,Daniel & Maria,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15908,-8.60464,Entire home/apt,55,6,80,2024-08-26,0.76,2,306,13,28325/AL
+9970652,Happy Street,51235110,Jorge,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1506,-8.60369,Entire home/apt,83,4,184,2024-08-25,1.77,1,136,26,23046 A.L.
+9981559,L'Orchidée,51149634,Cristina & Filipe,SANTA MARIA DA FEIRA,"Canedo, Vale e Vila Maior",41.00715,-8.46385,Entire home/apt,144,1,58,2024-08-04,0.59,1,96,11,77010/AL
+10135846,See you Around - Loft Taipas,52016990,Claudia,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14378,-8.61761,Entire home/apt,90,7,1,2016-08-03,0.01,3,287,0,388701/AL
+10139717,OPOPanorama - 3,39031192,Gabriela E Carina,PORTO,Paranhos,41.17767,-8.58359,Private room,,3,37,2023-08-27,0.36,5,0,0,
+10166766,Imperium Apartments - Aliados,52190599,Imperium,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14601,-8.61047,Entire home/apt,,1,56,2020-03-14,0.55,1,0,0,38645/AL
+10198042,Quaint Portuguese Sea Side Appartment,52385806,Pedro,MATOSINHOS,"Perafita, Lavra e Santa Cruz do Bispo",41.23752,-8.72328,Entire home/apt,40,3,0,,,1,171,0,
+10239048,Discovery | Porto-Gaia,25359398,Joel,VILA NOVA DE GAIA,Mafamude e Vilar do Paraíso,41.1136,-8.61436,Entire home/apt,,2,14,2018-04-01,0.14,3,0,0,50160/AL
+10245541,9 Julho - Apartamento junto Metro,52661191,Ana Paula,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16222,-8.62225,Entire home/apt,100,3,20,2023-05-14,0.19,1,0,0,26673/AL
+10245700,apt 2 bedrooms ideal for a family/couples/p3,52662289,Celina,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14172,-8.61591,Entire home/apt,333,2,9,2024-05-02,0.09,10,23,2,27522/AL
+10261567,Quarto de casal superior,48469139,Maria Irene,PAREDES,Paredes,41.20593,-8.32775,Private room,65,1,2,2018-08-11,0.03,5,353,0,
+10263952,Quarto duplo superior,48469139,Maria Irene,PAREDES,Paredes,41.20705,-8.32785,Private room,50,1,2,2024-08-07,0.02,5,351,1,
+10288807,Modern  studio in Porto.,52657028,Paulo,PORTO,Campanhã,41.14764,-8.58653,Entire home/apt,99,7,179,2022-03-28,1.76,2,364,0,69692
+10303124,Belomonte Stylish apartment@ city center,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14383,-8.61504,Entire home/apt,210,3,201,2024-08-12,1.91,23,273,10,33572/AL
+10348742,Artistic Room in Rua Santa Catarina,53262280,Fernando,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15449,-8.60538,Private room,,3,0,,,1,0,0,
+10375301,Belomonte sunny @ city center 3,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14152,-8.61454,Entire home/apt,213,2,181,2023-10-28,1.72,23,310,2,33576/AL
+10376356,Belomonte River view @city center_4,3356481,Joana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14315,-8.61684,Entire home/apt,177,2,94,2023-10-20,0.94,23,322,1,33693/AL
+10383901,Spacious and bright room in townhouse downtown 2F,2606384,Fernanda,PORTO,Bonfim,41.15411,-8.60198,Private room,28,5,35,2024-08-29,0.36,10,322,9,
+10435508,Casa de Fagilde,53599096,Filipa & Andreia,SANTA MARIA DA FEIRA,"Canedo, Vale e Vila Maior",41.00733,-8.46904,Entire home/apt,240,3,37,2024-08-18,0.43,1,342,6,53077/AL
+10443903,PipaD'oro - Apartment with garden view,1675750,YoursPorto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14337,-8.6164,Entire home/apt,164,1,65,2024-08-06,0.66,21,337,3,32676/AL
+10444324,PipaD'oro - Superior Apartment With River View,1675750,YoursPorto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14337,-8.61638,Entire home/apt,218,1,258,2024-08-29,2.47,21,329,29,32691/AL
+10444627,PipaD'oro - Studio with balcony,1675750,YoursPorto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14337,-8.6164,Entire home/apt,133,1,2,2024-08-15,0.05,21,329,1,32682/AL
+10446674,Enjoy a Beautiful Sunset in Porto,53818370,Maria,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15162,-8.67595,Entire home/apt,130,2,212,2024-08-19,2.03,2,338,25,49594/AL
+10453288,Nice vacation home; downtown Rua das Flores Porto,53856549,Klaus,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14408,-8.61511,Entire home/apt,119,3,186,2024-09-11,1.80,1,133,18,25750/AL
+10492982,Studio 45 - Balcony and AC in Historical Old Town,13273847,Ana,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1437,-8.61405,Entire home/apt,120,2,740,2024-09-07,7.03,2,335,61,22017/AL
+10493022,"5 room house, next to golf course(Quinta do fojo)",17608050,Cristiano,VILA NOVA DE GAIA,Canidelo,41.12758,-8.63663,Entire home/apt,237,2,40,2024-09-09,1.93,3,347,24,525
+10525747,Casa da Bica Porto,7978308,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.16183,-8.61553,Entire home/apt,125,2,122,2024-08-18,1.20,2,257,8,36115/AL
+10558477,O´Porto Fontinha Flat,24404975,João,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15618,-8.60503,Entire home/apt,60,3,296,2024-09-08,2.84,6,143,30,23404/AL
+10560325,Apartamento amplo e bem localizado,12870591,Andre Ricardo,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.1599,-8.61049,Entire home/apt,95,3,35,2024-08-25,0.34,1,209,4,9618/2018
+10588829,Family Room/ Suite - River View,30366133,Top Flat,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14157,-8.61895,Entire home/apt,85,2,3,2024-07-23,0.20,2,198,2,4961/AL
+10605132,River&Seaview House Casa do Gólgota,27267172,Marcos,PORTO,Lordelo do Ouro e Massarelos,41.14874,-8.63418,Entire home/apt,621,1,156,2024-08-29,1.49,8,313,33,20542;20629;20630;20631;20632;20633;20634/AL
+10614608,Spacious in exclusive area near sea,46128061,Oliver,PORTO,"Aldoar, Foz do Douro e Nevogilde",41.15597,-8.66498,Entire home/apt,150,6,6,2023-08-20,0.06,1,365,0,
+10616492,Ribeira Vintage Flat 1,54662715,Mathieu,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14286,-8.61527,Entire home/apt,79,2,316,2024-08-19,3.02,5,103,18,23297AL
+10628126,Ribeira Smart Flat,54662715,Mathieu,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14266,-8.61802,Entire home/apt,113,2,341,2024-08-28,3.29,5,31,37,23296AL
+10632196,Loft vintage ..A 500m  Casa Música,44675980,Ana,PORTO,Ramalde,41.16874,-8.62892,Shared room,,2,0,,,1,0,0,
+10635214,Flores Studio near S. Bento Station,14416890,Lara,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14510871810491,-8.61137998104095,Entire home/apt,77,2,190,2024-09-10,1.81,2,329,8,61235/AL
+10646105,Red Room | Grace House,54969750,Graça,PORTO,Ramalde,41.16718,-8.62694,Private room,,2,36,2019-12-08,0.36,1,0,0,39593/16/CMP
+10664888,PORTO DOWNTOWN FLATS-RIBEIRA STUDIO,35484736,Tim,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14202,-8.61375,Entire home/apt,75,2,236,2024-09-05,2.25,4,223,26,37732/AL
+10696002,Magic Mountains-Aveiro/O'Porto-European best place,10835497,Anabela,VALE DE CAMBRA,"Vila Chã, Codal e Vila Cova de Perrinho",40.86061,-8.38823,Entire home/apt,,30,15,2020-08-02,0.15,1,0,0,
+10697554,Bright and cossy,55269947,Noemia,MATOSINHOS,"Perafita, Lavra e Santa Cruz do Bispo",41.25411,-8.72085,Entire home/apt,50,4,175,2024-08-16,1.68,1,159,9,2733
+10741645,Studio - River View,30366133,Top Flat,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.14134,-8.61725,Entire home/apt,85,2,2,2022-10-01,0.08,2,246,0,4961/AL
+10751577,CdC I Apartments-Balcony,55590312,CdC Apartments By Casa Do Conto,PORTO,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",41.15382,-8.61989,Entire home/apt,169,2,32,2024-08-08,0.31,2,322,4,24324/AL
+10785651,Front Beach House,55804565,Isabella,MATOSINHOS,"Perafita, Lavra e Santa Cruz do Bispo",41.24104,-8.72613,Entire home/apt,99,3,13,2024-09-04,0.13,2,308,7,
